@@ -1,0 +1,625 @@
+E:\My Project\Current Development Process\Metro Featured POS\POS\BusinessObjects\bin\Debug\BusinessObjects.dll
+E:\My Project\Current Development Process\Metro Featured POS\POS\BusinessObjects\bin\Debug\BusinessObjects.pdb
+E:\My Project\Current Development Process\Metro Featured POS\POS\BusinessObjects\bin\Debug\JsonPrettyPrinterPlus.dll
+E:\My Project\Current Development Process\Metro Featured POS\POS\BusinessObjects\bin\Debug\log4net.dll
+E:\My Project\Current Development Process\Metro Featured POS\POS\BusinessObjects\bin\Debug\MahApps.Metro.dll
+E:\My Project\Current Development Process\Metro Featured POS\POS\BusinessObjects\bin\Debug\Neodynamic.SDK.ThermalLabel.dll
+E:\My Project\Current Development Process\Metro Featured POS\POS\BusinessObjects\bin\Debug\ObjectPrinter.dll
+E:\My Project\Current Development Process\Metro Featured POS\POS\BusinessObjects\bin\Debug\ObjectPrinter.Log4Net.dll
+E:\My Project\Current Development Process\Metro Featured POS\POS\BusinessObjects\bin\Debug\System.Windows.Interactivity.dll
+E:\My Project\Current Development Process\Metro Featured POS\POS\BusinessObjects\bin\Debug\Tim.BarcodePrinter.dll
+E:\My Project\Current Development Process\Metro Featured POS\POS\BusinessObjects\bin\Debug\zxing.dll
+E:\My Project\Current Development Process\Metro Featured POS\POS\BusinessObjects\bin\Debug\log4net.xml
+E:\My Project\Current Development Process\Metro Featured POS\POS\BusinessObjects\bin\Debug\MahApps.Metro.pdb
+E:\My Project\Current Development Process\Metro Featured POS\POS\BusinessObjects\bin\Debug\MahApps.Metro.xml
+E:\My Project\Current Development Process\Metro Featured POS\POS\BusinessObjects\bin\Debug\Tim.BarcodePrinter.pdb
+E:\My Project\Current Development Process\Metro Featured POS\POS\BusinessObjects\obj\Debug\BusinessObjects.dll
+E:\My Project\Current Development Process\Metro Featured POS\POS\BusinessObjects\obj\Debug\BusinessObjects.pdb
+E:\My Project\Current Development Process\Metro Featured POS\POS\BusinessObjects\obj\Debug\BusinessObjects.csprojResolveAssemblyReference.cache
+E:\My Project\Current Development Process\FutureSoft\POS\BusinessObjects\bin\Debug\BusinessObjects.dll
+E:\My Project\Current Development Process\FutureSoft\POS\BusinessObjects\bin\Debug\BusinessObjects.pdb
+E:\My Project\Current Development Process\FutureSoft\POS\BusinessObjects\bin\Debug\JsonPrettyPrinterPlus.dll
+E:\My Project\Current Development Process\FutureSoft\POS\BusinessObjects\bin\Debug\log4net.dll
+E:\My Project\Current Development Process\FutureSoft\POS\BusinessObjects\bin\Debug\MahApps.Metro.dll
+E:\My Project\Current Development Process\FutureSoft\POS\BusinessObjects\bin\Debug\Neodynamic.SDK.ThermalLabel.dll
+E:\My Project\Current Development Process\FutureSoft\POS\BusinessObjects\bin\Debug\ObjectPrinter.dll
+E:\My Project\Current Development Process\FutureSoft\POS\BusinessObjects\bin\Debug\ObjectPrinter.Log4Net.dll
+E:\My Project\Current Development Process\FutureSoft\POS\BusinessObjects\bin\Debug\System.Windows.Interactivity.dll
+E:\My Project\Current Development Process\FutureSoft\POS\BusinessObjects\bin\Debug\Tim.BarcodePrinter.dll
+E:\My Project\Current Development Process\FutureSoft\POS\BusinessObjects\bin\Debug\zxing.dll
+E:\My Project\Current Development Process\FutureSoft\POS\BusinessObjects\bin\Debug\log4net.xml
+E:\My Project\Current Development Process\FutureSoft\POS\BusinessObjects\bin\Debug\MahApps.Metro.pdb
+E:\My Project\Current Development Process\FutureSoft\POS\BusinessObjects\bin\Debug\MahApps.Metro.xml
+E:\My Project\Current Development Process\FutureSoft\POS\BusinessObjects\bin\Debug\Tim.BarcodePrinter.pdb
+E:\My Project\Current Development Process\FutureSoft\POS\BusinessObjects\obj\Debug\BusinessObjects.csprojResolveAssemblyReference.cache
+E:\My Project\Current Development Process\FutureSoft\POS\BusinessObjects\obj\Debug\BusinessObjects.dll
+E:\My Project\Current Development Process\FutureSoft\POS\BusinessObjects\obj\Debug\BusinessObjects.pdb
+E:\My Project\Current Development Process\FutureSoft\New folder\POS\BusinessObjects\bin\Debug\BusinessObjects.dll
+E:\My Project\Current Development Process\FutureSoft\New folder\POS\BusinessObjects\bin\Debug\BusinessObjects.pdb
+E:\My Project\Current Development Process\FutureSoft\New folder\POS\BusinessObjects\bin\Debug\JsonPrettyPrinterPlus.dll
+E:\My Project\Current Development Process\FutureSoft\New folder\POS\BusinessObjects\bin\Debug\log4net.dll
+E:\My Project\Current Development Process\FutureSoft\New folder\POS\BusinessObjects\bin\Debug\MahApps.Metro.dll
+E:\My Project\Current Development Process\FutureSoft\New folder\POS\BusinessObjects\bin\Debug\Neodynamic.SDK.ThermalLabel.dll
+E:\My Project\Current Development Process\FutureSoft\New folder\POS\BusinessObjects\bin\Debug\ObjectPrinter.dll
+E:\My Project\Current Development Process\FutureSoft\New folder\POS\BusinessObjects\bin\Debug\ObjectPrinter.Log4Net.dll
+E:\My Project\Current Development Process\FutureSoft\New folder\POS\BusinessObjects\bin\Debug\System.Windows.Interactivity.dll
+E:\My Project\Current Development Process\FutureSoft\New folder\POS\BusinessObjects\bin\Debug\Tim.BarcodePrinter.dll
+E:\My Project\Current Development Process\FutureSoft\New folder\POS\BusinessObjects\bin\Debug\zxing.dll
+E:\My Project\Current Development Process\FutureSoft\New folder\POS\BusinessObjects\bin\Debug\log4net.xml
+E:\My Project\Current Development Process\FutureSoft\New folder\POS\BusinessObjects\bin\Debug\MahApps.Metro.pdb
+E:\My Project\Current Development Process\FutureSoft\New folder\POS\BusinessObjects\bin\Debug\MahApps.Metro.xml
+E:\My Project\Current Development Process\FutureSoft\New folder\POS\BusinessObjects\bin\Debug\Tim.BarcodePrinter.pdb
+E:\My Project\Current Development Process\FutureSoft\New folder\POS\BusinessObjects\obj\Debug\BusinessObjects.csprojResolveAssemblyReference.cache
+E:\My Project\Current Development Process\FutureSoft\New folder\POS\BusinessObjects\obj\Debug\BusinessObjects.dll
+E:\My Project\Current Development Process\FutureSoft\New folder\POS\BusinessObjects\obj\Debug\BusinessObjects.pdb
+E:\My Project\Current Development Process\FutureSoft\Final\POS\BusinessObjects\bin\Debug\BusinessObjects.dll
+E:\My Project\Current Development Process\FutureSoft\Final\POS\BusinessObjects\bin\Debug\BusinessObjects.pdb
+E:\My Project\Current Development Process\FutureSoft\Final\POS\BusinessObjects\bin\Debug\JsonPrettyPrinterPlus.dll
+E:\My Project\Current Development Process\FutureSoft\Final\POS\BusinessObjects\bin\Debug\log4net.dll
+E:\My Project\Current Development Process\FutureSoft\Final\POS\BusinessObjects\bin\Debug\MahApps.Metro.dll
+E:\My Project\Current Development Process\FutureSoft\Final\POS\BusinessObjects\bin\Debug\Neodynamic.SDK.ThermalLabel.dll
+E:\My Project\Current Development Process\FutureSoft\Final\POS\BusinessObjects\bin\Debug\ObjectPrinter.dll
+E:\My Project\Current Development Process\FutureSoft\Final\POS\BusinessObjects\bin\Debug\ObjectPrinter.Log4Net.dll
+E:\My Project\Current Development Process\FutureSoft\Final\POS\BusinessObjects\bin\Debug\System.Windows.Interactivity.dll
+E:\My Project\Current Development Process\FutureSoft\Final\POS\BusinessObjects\bin\Debug\Tim.BarcodePrinter.dll
+E:\My Project\Current Development Process\FutureSoft\Final\POS\BusinessObjects\bin\Debug\zxing.dll
+E:\My Project\Current Development Process\FutureSoft\Final\POS\BusinessObjects\bin\Debug\log4net.xml
+E:\My Project\Current Development Process\FutureSoft\Final\POS\BusinessObjects\bin\Debug\MahApps.Metro.pdb
+E:\My Project\Current Development Process\FutureSoft\Final\POS\BusinessObjects\bin\Debug\MahApps.Metro.xml
+E:\My Project\Current Development Process\FutureSoft\Final\POS\BusinessObjects\bin\Debug\Tim.BarcodePrinter.pdb
+E:\My Project\Current Development Process\FutureSoft\Final\POS\BusinessObjects\obj\Debug\BusinessObjects.dll
+E:\My Project\Current Development Process\FutureSoft\Final\POS\BusinessObjects\obj\Debug\BusinessObjects.pdb
+E:\My Project\Current Development Process\FutureSoft\Final\POS\BusinessObjects\obj\Debug\BusinessObjects.csprojResolveAssemblyReference.cache
+E:\My Project\Current Development Process\FutureSoft\Final\MyFInal\POS\BusinessObjects\bin\Debug\BusinessObjects.dll
+E:\My Project\Current Development Process\FutureSoft\Final\MyFInal\POS\BusinessObjects\bin\Debug\BusinessObjects.pdb
+E:\My Project\Current Development Process\FutureSoft\Final\MyFInal\POS\BusinessObjects\bin\Debug\JsonPrettyPrinterPlus.dll
+E:\My Project\Current Development Process\FutureSoft\Final\MyFInal\POS\BusinessObjects\bin\Debug\log4net.dll
+E:\My Project\Current Development Process\FutureSoft\Final\MyFInal\POS\BusinessObjects\bin\Debug\MahApps.Metro.dll
+E:\My Project\Current Development Process\FutureSoft\Final\MyFInal\POS\BusinessObjects\bin\Debug\Neodynamic.SDK.ThermalLabel.dll
+E:\My Project\Current Development Process\FutureSoft\Final\MyFInal\POS\BusinessObjects\bin\Debug\ObjectPrinter.dll
+E:\My Project\Current Development Process\FutureSoft\Final\MyFInal\POS\BusinessObjects\bin\Debug\ObjectPrinter.Log4Net.dll
+E:\My Project\Current Development Process\FutureSoft\Final\MyFInal\POS\BusinessObjects\bin\Debug\System.Windows.Interactivity.dll
+E:\My Project\Current Development Process\FutureSoft\Final\MyFInal\POS\BusinessObjects\bin\Debug\Tim.BarcodePrinter.dll
+E:\My Project\Current Development Process\FutureSoft\Final\MyFInal\POS\BusinessObjects\bin\Debug\zxing.dll
+E:\My Project\Current Development Process\FutureSoft\Final\MyFInal\POS\BusinessObjects\bin\Debug\log4net.xml
+E:\My Project\Current Development Process\FutureSoft\Final\MyFInal\POS\BusinessObjects\bin\Debug\MahApps.Metro.pdb
+E:\My Project\Current Development Process\FutureSoft\Final\MyFInal\POS\BusinessObjects\bin\Debug\MahApps.Metro.xml
+E:\My Project\Current Development Process\FutureSoft\Final\MyFInal\POS\BusinessObjects\bin\Debug\Tim.BarcodePrinter.pdb
+E:\My Project\Current Development Process\FutureSoft\Final\MyFInal\POS\BusinessObjects\obj\Debug\BusinessObjects.csprojResolveAssemblyReference.cache
+E:\My Project\Current Development Process\FutureSoft\Final\MyFInal\POS\BusinessObjects\obj\Debug\BusinessObjects.dll
+E:\My Project\Current Development Process\FutureSoft\Final\MyFInal\POS\BusinessObjects\obj\Debug\BusinessObjects.pdb
+E:\My Project\Current Development Process\FutureSoft\Final\LastLast\POS\BusinessObjects\bin\Debug\BusinessObjects.dll
+E:\My Project\Current Development Process\FutureSoft\Final\LastLast\POS\BusinessObjects\bin\Debug\BusinessObjects.pdb
+E:\My Project\Current Development Process\FutureSoft\Final\LastLast\POS\BusinessObjects\bin\Debug\JsonPrettyPrinterPlus.dll
+E:\My Project\Current Development Process\FutureSoft\Final\LastLast\POS\BusinessObjects\bin\Debug\log4net.dll
+E:\My Project\Current Development Process\FutureSoft\Final\LastLast\POS\BusinessObjects\bin\Debug\MahApps.Metro.dll
+E:\My Project\Current Development Process\FutureSoft\Final\LastLast\POS\BusinessObjects\bin\Debug\Neodynamic.SDK.ThermalLabel.dll
+E:\My Project\Current Development Process\FutureSoft\Final\LastLast\POS\BusinessObjects\bin\Debug\ObjectPrinter.dll
+E:\My Project\Current Development Process\FutureSoft\Final\LastLast\POS\BusinessObjects\bin\Debug\ObjectPrinter.Log4Net.dll
+E:\My Project\Current Development Process\FutureSoft\Final\LastLast\POS\BusinessObjects\bin\Debug\System.Windows.Interactivity.dll
+E:\My Project\Current Development Process\FutureSoft\Final\LastLast\POS\BusinessObjects\bin\Debug\Tim.BarcodePrinter.dll
+E:\My Project\Current Development Process\FutureSoft\Final\LastLast\POS\BusinessObjects\bin\Debug\zxing.dll
+E:\My Project\Current Development Process\FutureSoft\Final\LastLast\POS\BusinessObjects\bin\Debug\log4net.xml
+E:\My Project\Current Development Process\FutureSoft\Final\LastLast\POS\BusinessObjects\bin\Debug\MahApps.Metro.pdb
+E:\My Project\Current Development Process\FutureSoft\Final\LastLast\POS\BusinessObjects\bin\Debug\MahApps.Metro.xml
+E:\My Project\Current Development Process\FutureSoft\Final\LastLast\POS\BusinessObjects\bin\Debug\Tim.BarcodePrinter.pdb
+E:\My Project\Current Development Process\FutureSoft\Final\LastLast\POS\BusinessObjects\obj\Debug\BusinessObjects.csprojResolveAssemblyReference.cache
+E:\My Project\Current Development Process\FutureSoft\Final\LastLast\POS\BusinessObjects\obj\Debug\BusinessObjects.dll
+E:\My Project\Current Development Process\FutureSoft\Final\LastLast\POS\BusinessObjects\obj\Debug\BusinessObjects.pdb
+C:\Users\HP\Desktop\POS\BusinessObjects\bin\Debug\BusinessObjects.dll
+C:\Users\HP\Desktop\POS\BusinessObjects\bin\Debug\BusinessObjects.pdb
+C:\Users\HP\Desktop\POS\BusinessObjects\bin\Debug\JsonPrettyPrinterPlus.dll
+C:\Users\HP\Desktop\POS\BusinessObjects\bin\Debug\log4net.dll
+C:\Users\HP\Desktop\POS\BusinessObjects\bin\Debug\MahApps.Metro.dll
+C:\Users\HP\Desktop\POS\BusinessObjects\bin\Debug\Neodynamic.SDK.ThermalLabel.dll
+C:\Users\HP\Desktop\POS\BusinessObjects\bin\Debug\ObjectPrinter.dll
+C:\Users\HP\Desktop\POS\BusinessObjects\bin\Debug\ObjectPrinter.Log4Net.dll
+C:\Users\HP\Desktop\POS\BusinessObjects\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\HP\Desktop\POS\BusinessObjects\bin\Debug\Tim.BarcodePrinter.dll
+C:\Users\HP\Desktop\POS\BusinessObjects\bin\Debug\zxing.dll
+C:\Users\HP\Desktop\POS\BusinessObjects\bin\Debug\log4net.xml
+C:\Users\HP\Desktop\POS\BusinessObjects\bin\Debug\MahApps.Metro.pdb
+C:\Users\HP\Desktop\POS\BusinessObjects\bin\Debug\MahApps.Metro.xml
+C:\Users\HP\Desktop\POS\BusinessObjects\bin\Debug\Tim.BarcodePrinter.pdb
+C:\Users\HP\Desktop\POS\BusinessObjects\obj\Debug\BusinessObjects.dll
+C:\Users\HP\Desktop\POS\BusinessObjects\obj\Debug\BusinessObjects.pdb
+E:\Live Projects\M.R Traders\5.0\POS\BusinessObjects\bin\Debug\BusinessObjects.dll
+E:\Live Projects\M.R Traders\5.0\POS\BusinessObjects\bin\Debug\BusinessObjects.pdb
+E:\Live Projects\M.R Traders\5.0\POS\BusinessObjects\bin\Debug\JsonPrettyPrinterPlus.dll
+E:\Live Projects\M.R Traders\5.0\POS\BusinessObjects\bin\Debug\log4net.dll
+E:\Live Projects\M.R Traders\5.0\POS\BusinessObjects\bin\Debug\MahApps.Metro.dll
+E:\Live Projects\M.R Traders\5.0\POS\BusinessObjects\bin\Debug\Neodynamic.SDK.ThermalLabel.dll
+E:\Live Projects\M.R Traders\5.0\POS\BusinessObjects\bin\Debug\ObjectPrinter.dll
+E:\Live Projects\M.R Traders\5.0\POS\BusinessObjects\bin\Debug\ObjectPrinter.Log4Net.dll
+E:\Live Projects\M.R Traders\5.0\POS\BusinessObjects\bin\Debug\System.Windows.Interactivity.dll
+E:\Live Projects\M.R Traders\5.0\POS\BusinessObjects\bin\Debug\Tim.BarcodePrinter.dll
+E:\Live Projects\M.R Traders\5.0\POS\BusinessObjects\bin\Debug\zxing.dll
+E:\Live Projects\M.R Traders\5.0\POS\BusinessObjects\bin\Debug\log4net.xml
+E:\Live Projects\M.R Traders\5.0\POS\BusinessObjects\bin\Debug\MahApps.Metro.pdb
+E:\Live Projects\M.R Traders\5.0\POS\BusinessObjects\bin\Debug\MahApps.Metro.xml
+E:\Live Projects\M.R Traders\5.0\POS\BusinessObjects\bin\Debug\Tim.BarcodePrinter.pdb
+E:\Live Projects\M.R Traders\5.0\POS\BusinessObjects\obj\Debug\BusinessObjects.dll
+E:\Live Projects\M.R Traders\5.0\POS\BusinessObjects\obj\Debug\BusinessObjects.pdb
+E:\Live Projects\M.R Traders\5.0\POS\BusinessObjects\obj\Debug\BusinessObjects.csprojResolveAssemblyReference.cache
+E:\Live Projects\M.R Traders\6.1\POS\BusinessObjects\bin\Debug\BusinessObjects.dll
+E:\Live Projects\M.R Traders\6.1\POS\BusinessObjects\bin\Debug\BusinessObjects.pdb
+E:\Live Projects\M.R Traders\6.1\POS\BusinessObjects\bin\Debug\JsonPrettyPrinterPlus.dll
+E:\Live Projects\M.R Traders\6.1\POS\BusinessObjects\bin\Debug\log4net.dll
+E:\Live Projects\M.R Traders\6.1\POS\BusinessObjects\bin\Debug\MahApps.Metro.dll
+E:\Live Projects\M.R Traders\6.1\POS\BusinessObjects\bin\Debug\Neodynamic.SDK.ThermalLabel.dll
+E:\Live Projects\M.R Traders\6.1\POS\BusinessObjects\bin\Debug\ObjectPrinter.dll
+E:\Live Projects\M.R Traders\6.1\POS\BusinessObjects\bin\Debug\ObjectPrinter.Log4Net.dll
+E:\Live Projects\M.R Traders\6.1\POS\BusinessObjects\bin\Debug\System.Windows.Interactivity.dll
+E:\Live Projects\M.R Traders\6.1\POS\BusinessObjects\bin\Debug\Tim.BarcodePrinter.dll
+E:\Live Projects\M.R Traders\6.1\POS\BusinessObjects\bin\Debug\zxing.dll
+E:\Live Projects\M.R Traders\6.1\POS\BusinessObjects\bin\Debug\log4net.xml
+E:\Live Projects\M.R Traders\6.1\POS\BusinessObjects\bin\Debug\MahApps.Metro.pdb
+E:\Live Projects\M.R Traders\6.1\POS\BusinessObjects\bin\Debug\MahApps.Metro.xml
+E:\Live Projects\M.R Traders\6.1\POS\BusinessObjects\bin\Debug\Tim.BarcodePrinter.pdb
+E:\Live Projects\M.R Traders\6.1\POS\BusinessObjects\obj\Debug\BusinessObjects.dll
+E:\Live Projects\M.R Traders\6.1\POS\BusinessObjects\obj\Debug\BusinessObjects.pdb
+E:\Live Projects\M.R Traders\6.1\POS\BusinessObjects\obj\Debug\BusinessObjects.csprojResolveAssemblyReference.cache
+E:\Live Projects\M.R Traders\6.2\POS\BusinessObjects\bin\Debug\BusinessObjects.dll
+E:\Live Projects\M.R Traders\6.2\POS\BusinessObjects\bin\Debug\BusinessObjects.pdb
+E:\Live Projects\M.R Traders\6.2\POS\BusinessObjects\bin\Debug\JsonPrettyPrinterPlus.dll
+E:\Live Projects\M.R Traders\6.2\POS\BusinessObjects\bin\Debug\log4net.dll
+E:\Live Projects\M.R Traders\6.2\POS\BusinessObjects\bin\Debug\MahApps.Metro.dll
+E:\Live Projects\M.R Traders\6.2\POS\BusinessObjects\bin\Debug\Neodynamic.SDK.ThermalLabel.dll
+E:\Live Projects\M.R Traders\6.2\POS\BusinessObjects\bin\Debug\ObjectPrinter.dll
+E:\Live Projects\M.R Traders\6.2\POS\BusinessObjects\bin\Debug\ObjectPrinter.Log4Net.dll
+E:\Live Projects\M.R Traders\6.2\POS\BusinessObjects\bin\Debug\System.Windows.Interactivity.dll
+E:\Live Projects\M.R Traders\6.2\POS\BusinessObjects\bin\Debug\Tim.BarcodePrinter.dll
+E:\Live Projects\M.R Traders\6.2\POS\BusinessObjects\bin\Debug\zxing.dll
+E:\Live Projects\M.R Traders\6.2\POS\BusinessObjects\bin\Debug\log4net.xml
+E:\Live Projects\M.R Traders\6.2\POS\BusinessObjects\bin\Debug\MahApps.Metro.pdb
+E:\Live Projects\M.R Traders\6.2\POS\BusinessObjects\bin\Debug\MahApps.Metro.xml
+E:\Live Projects\M.R Traders\6.2\POS\BusinessObjects\bin\Debug\Tim.BarcodePrinter.pdb
+E:\Live Projects\M.R Traders\6.2\POS\BusinessObjects\obj\Debug\BusinessObjects.csprojResolveAssemblyReference.cache
+E:\Live Projects\M.R Traders\6.2\POS\BusinessObjects\obj\Debug\BusinessObjects.dll
+E:\Live Projects\M.R Traders\6.2\POS\BusinessObjects\obj\Debug\BusinessObjects.pdb
+E:\Live Projects\M.R Traders\Source\6.2\POS\BusinessObjects\bin\Debug\BusinessObjects.dll
+E:\Live Projects\M.R Traders\Source\6.2\POS\BusinessObjects\bin\Debug\BusinessObjects.pdb
+E:\Live Projects\M.R Traders\Source\6.2\POS\BusinessObjects\bin\Debug\JsonPrettyPrinterPlus.dll
+E:\Live Projects\M.R Traders\Source\6.2\POS\BusinessObjects\bin\Debug\log4net.dll
+E:\Live Projects\M.R Traders\Source\6.2\POS\BusinessObjects\bin\Debug\MahApps.Metro.dll
+E:\Live Projects\M.R Traders\Source\6.2\POS\BusinessObjects\bin\Debug\Neodynamic.SDK.ThermalLabel.dll
+E:\Live Projects\M.R Traders\Source\6.2\POS\BusinessObjects\bin\Debug\ObjectPrinter.dll
+E:\Live Projects\M.R Traders\Source\6.2\POS\BusinessObjects\bin\Debug\ObjectPrinter.Log4Net.dll
+E:\Live Projects\M.R Traders\Source\6.2\POS\BusinessObjects\bin\Debug\System.Windows.Interactivity.dll
+E:\Live Projects\M.R Traders\Source\6.2\POS\BusinessObjects\bin\Debug\Tim.BarcodePrinter.dll
+E:\Live Projects\M.R Traders\Source\6.2\POS\BusinessObjects\bin\Debug\zxing.dll
+E:\Live Projects\M.R Traders\Source\6.2\POS\BusinessObjects\bin\Debug\log4net.xml
+E:\Live Projects\M.R Traders\Source\6.2\POS\BusinessObjects\bin\Debug\MahApps.Metro.pdb
+E:\Live Projects\M.R Traders\Source\6.2\POS\BusinessObjects\bin\Debug\MahApps.Metro.xml
+E:\Live Projects\M.R Traders\Source\6.2\POS\BusinessObjects\bin\Debug\Tim.BarcodePrinter.pdb
+E:\Live Projects\M.R Traders\Source\6.2\POS\BusinessObjects\obj\Debug\BusinessObjects.dll
+E:\Live Projects\M.R Traders\Source\6.2\POS\BusinessObjects\obj\Debug\BusinessObjects.pdb
+K:\C# App Shina\7.0\6.3\POS\BusinessObjects\bin\Debug\BusinessObjects.dll
+K:\C# App Shina\7.0\6.3\POS\BusinessObjects\bin\Debug\BusinessObjects.pdb
+K:\C# App Shina\7.0\6.3\POS\BusinessObjects\bin\Debug\JsonPrettyPrinterPlus.dll
+K:\C# App Shina\7.0\6.3\POS\BusinessObjects\bin\Debug\log4net.dll
+K:\C# App Shina\7.0\6.3\POS\BusinessObjects\bin\Debug\MahApps.Metro.dll
+K:\C# App Shina\7.0\6.3\POS\BusinessObjects\bin\Debug\Neodynamic.SDK.ThermalLabel.dll
+K:\C# App Shina\7.0\6.3\POS\BusinessObjects\bin\Debug\ObjectPrinter.dll
+K:\C# App Shina\7.0\6.3\POS\BusinessObjects\bin\Debug\ObjectPrinter.Log4Net.dll
+K:\C# App Shina\7.0\6.3\POS\BusinessObjects\bin\Debug\System.Windows.Interactivity.dll
+K:\C# App Shina\7.0\6.3\POS\BusinessObjects\bin\Debug\Tim.BarcodePrinter.dll
+K:\C# App Shina\7.0\6.3\POS\BusinessObjects\bin\Debug\zxing.dll
+K:\C# App Shina\7.0\6.3\POS\BusinessObjects\bin\Debug\log4net.xml
+K:\C# App Shina\7.0\6.3\POS\BusinessObjects\bin\Debug\MahApps.Metro.pdb
+K:\C# App Shina\7.0\6.3\POS\BusinessObjects\bin\Debug\MahApps.Metro.xml
+K:\C# App Shina\7.0\6.3\POS\BusinessObjects\bin\Debug\Tim.BarcodePrinter.pdb
+K:\C# App Shina\7.0\6.3\POS\BusinessObjects\obj\Debug\BusinessObjects.csprojResolveAssemblyReference.cache
+K:\C# App Shina\7.0\6.3\POS\BusinessObjects\obj\Debug\BusinessObjects.dll
+K:\C# App Shina\7.0\6.3\POS\BusinessObjects\obj\Debug\BusinessObjects.pdb
+K:\C# App Shina\7.0\POS\BusinessObjects\bin\Debug\BusinessObjects.dll
+K:\C# App Shina\7.0\POS\BusinessObjects\bin\Debug\BusinessObjects.pdb
+K:\C# App Shina\7.0\POS\BusinessObjects\bin\Debug\JsonPrettyPrinterPlus.dll
+K:\C# App Shina\7.0\POS\BusinessObjects\bin\Debug\log4net.dll
+K:\C# App Shina\7.0\POS\BusinessObjects\bin\Debug\MahApps.Metro.dll
+K:\C# App Shina\7.0\POS\BusinessObjects\bin\Debug\Neodynamic.SDK.ThermalLabel.dll
+K:\C# App Shina\7.0\POS\BusinessObjects\bin\Debug\ObjectPrinter.dll
+K:\C# App Shina\7.0\POS\BusinessObjects\bin\Debug\ObjectPrinter.Log4Net.dll
+K:\C# App Shina\7.0\POS\BusinessObjects\bin\Debug\System.Windows.Interactivity.dll
+K:\C# App Shina\7.0\POS\BusinessObjects\bin\Debug\Tim.BarcodePrinter.dll
+K:\C# App Shina\7.0\POS\BusinessObjects\bin\Debug\zxing.dll
+K:\C# App Shina\7.0\POS\BusinessObjects\bin\Debug\log4net.xml
+K:\C# App Shina\7.0\POS\BusinessObjects\bin\Debug\MahApps.Metro.pdb
+K:\C# App Shina\7.0\POS\BusinessObjects\bin\Debug\MahApps.Metro.xml
+K:\C# App Shina\7.0\POS\BusinessObjects\bin\Debug\Tim.BarcodePrinter.pdb
+K:\C# App Shina\7.0\POS\BusinessObjects\obj\Debug\BusinessObjects.dll
+K:\C# App Shina\7.0\POS\BusinessObjects\obj\Debug\BusinessObjects.pdb
+E:\Live Projects\M.R Traders\Source\6.5\POS\BusinessObjects\bin\Debug\BusinessObjects.dll
+E:\Live Projects\M.R Traders\Source\6.5\POS\BusinessObjects\bin\Debug\BusinessObjects.pdb
+E:\Live Projects\M.R Traders\Source\6.5\POS\BusinessObjects\bin\Debug\JsonPrettyPrinterPlus.dll
+E:\Live Projects\M.R Traders\Source\6.5\POS\BusinessObjects\bin\Debug\log4net.dll
+E:\Live Projects\M.R Traders\Source\6.5\POS\BusinessObjects\bin\Debug\MahApps.Metro.dll
+E:\Live Projects\M.R Traders\Source\6.5\POS\BusinessObjects\bin\Debug\Neodynamic.SDK.ThermalLabel.dll
+E:\Live Projects\M.R Traders\Source\6.5\POS\BusinessObjects\bin\Debug\ObjectPrinter.dll
+E:\Live Projects\M.R Traders\Source\6.5\POS\BusinessObjects\bin\Debug\ObjectPrinter.Log4Net.dll
+E:\Live Projects\M.R Traders\Source\6.5\POS\BusinessObjects\bin\Debug\System.Windows.Interactivity.dll
+E:\Live Projects\M.R Traders\Source\6.5\POS\BusinessObjects\bin\Debug\Tim.BarcodePrinter.dll
+E:\Live Projects\M.R Traders\Source\6.5\POS\BusinessObjects\bin\Debug\zxing.dll
+E:\Live Projects\M.R Traders\Source\6.5\POS\BusinessObjects\bin\Debug\log4net.xml
+E:\Live Projects\M.R Traders\Source\6.5\POS\BusinessObjects\bin\Debug\MahApps.Metro.pdb
+E:\Live Projects\M.R Traders\Source\6.5\POS\BusinessObjects\bin\Debug\MahApps.Metro.xml
+E:\Live Projects\M.R Traders\Source\6.5\POS\BusinessObjects\bin\Debug\Tim.BarcodePrinter.pdb
+E:\Live Projects\M.R Traders\Source\6.5\POS\BusinessObjects\obj\Debug\BusinessObjects.csprojResolveAssemblyReference.cache
+E:\Live Projects\M.R Traders\Source\6.5\POS\BusinessObjects\obj\Debug\BusinessObjects.dll
+E:\Live Projects\M.R Traders\Source\6.5\POS\BusinessObjects\obj\Debug\BusinessObjects.pdb
+K:\C# App Shina\7.1\7.2\POS\BusinessObjects\bin\Debug\BusinessObjects.dll
+K:\C# App Shina\7.1\7.2\POS\BusinessObjects\bin\Debug\BusinessObjects.pdb
+K:\C# App Shina\7.1\7.2\POS\BusinessObjects\bin\Debug\JsonPrettyPrinterPlus.dll
+K:\C# App Shina\7.1\7.2\POS\BusinessObjects\bin\Debug\log4net.dll
+K:\C# App Shina\7.1\7.2\POS\BusinessObjects\bin\Debug\MahApps.Metro.dll
+K:\C# App Shina\7.1\7.2\POS\BusinessObjects\bin\Debug\Neodynamic.SDK.ThermalLabel.dll
+K:\C# App Shina\7.1\7.2\POS\BusinessObjects\bin\Debug\ObjectPrinter.dll
+K:\C# App Shina\7.1\7.2\POS\BusinessObjects\bin\Debug\ObjectPrinter.Log4Net.dll
+K:\C# App Shina\7.1\7.2\POS\BusinessObjects\bin\Debug\System.Windows.Interactivity.dll
+K:\C# App Shina\7.1\7.2\POS\BusinessObjects\bin\Debug\Tim.BarcodePrinter.dll
+K:\C# App Shina\7.1\7.2\POS\BusinessObjects\bin\Debug\zxing.dll
+K:\C# App Shina\7.1\7.2\POS\BusinessObjects\bin\Debug\log4net.xml
+K:\C# App Shina\7.1\7.2\POS\BusinessObjects\bin\Debug\MahApps.Metro.pdb
+K:\C# App Shina\7.1\7.2\POS\BusinessObjects\bin\Debug\MahApps.Metro.xml
+K:\C# App Shina\7.1\7.2\POS\BusinessObjects\bin\Debug\Tim.BarcodePrinter.pdb
+K:\C# App Shina\7.1\7.2\POS\BusinessObjects\obj\Debug\BusinessObjects.csprojResolveAssemblyReference.cache
+K:\C# App Shina\7.1\7.2\POS\BusinessObjects\obj\Debug\BusinessObjects.dll
+K:\C# App Shina\7.1\7.2\POS\BusinessObjects\obj\Debug\BusinessObjects.pdb
+K:\FutureSoft POS\wITHOUT mETRO\POS\BusinessObjects\bin\Debug\BusinessObjects.dll
+K:\FutureSoft POS\wITHOUT mETRO\POS\BusinessObjects\bin\Debug\BusinessObjects.pdb
+K:\FutureSoft POS\wITHOUT mETRO\POS\BusinessObjects\bin\Debug\JsonPrettyPrinterPlus.dll
+K:\FutureSoft POS\wITHOUT mETRO\POS\BusinessObjects\bin\Debug\log4net.dll
+K:\FutureSoft POS\wITHOUT mETRO\POS\BusinessObjects\bin\Debug\MahApps.Metro.dll
+K:\FutureSoft POS\wITHOUT mETRO\POS\BusinessObjects\bin\Debug\Neodynamic.SDK.ThermalLabel.dll
+K:\FutureSoft POS\wITHOUT mETRO\POS\BusinessObjects\bin\Debug\ObjectPrinter.dll
+K:\FutureSoft POS\wITHOUT mETRO\POS\BusinessObjects\bin\Debug\ObjectPrinter.Log4Net.dll
+K:\FutureSoft POS\wITHOUT mETRO\POS\BusinessObjects\bin\Debug\System.Windows.Interactivity.dll
+K:\FutureSoft POS\wITHOUT mETRO\POS\BusinessObjects\bin\Debug\Tim.BarcodePrinter.dll
+K:\FutureSoft POS\wITHOUT mETRO\POS\BusinessObjects\bin\Debug\zxing.dll
+K:\FutureSoft POS\wITHOUT mETRO\POS\BusinessObjects\bin\Debug\log4net.xml
+K:\FutureSoft POS\wITHOUT mETRO\POS\BusinessObjects\bin\Debug\MahApps.Metro.pdb
+K:\FutureSoft POS\wITHOUT mETRO\POS\BusinessObjects\bin\Debug\MahApps.Metro.xml
+K:\FutureSoft POS\wITHOUT mETRO\POS\BusinessObjects\bin\Debug\Tim.BarcodePrinter.pdb
+K:\FutureSoft POS\wITHOUT mETRO\POS\BusinessObjects\obj\Debug\BusinessObjects.dll
+K:\FutureSoft POS\wITHOUT mETRO\POS\BusinessObjects\obj\Debug\BusinessObjects.pdb
+K:\FutureSoft POS\wITHOUT mETRO\POS\BusinessObjects\obj\Debug\BusinessObjects.csprojResolveAssemblyReference.cache
+C:\Users\Siraboy\Desktop\POS\BusinessObjects\bin\Debug\BusinessObjects.dll
+C:\Users\Siraboy\Desktop\POS\BusinessObjects\bin\Debug\BusinessObjects.pdb
+C:\Users\Siraboy\Desktop\POS\BusinessObjects\bin\Debug\JsonPrettyPrinterPlus.dll
+C:\Users\Siraboy\Desktop\POS\BusinessObjects\bin\Debug\log4net.dll
+C:\Users\Siraboy\Desktop\POS\BusinessObjects\bin\Debug\MahApps.Metro.dll
+C:\Users\Siraboy\Desktop\POS\BusinessObjects\bin\Debug\Neodynamic.SDK.ThermalLabel.dll
+C:\Users\Siraboy\Desktop\POS\BusinessObjects\bin\Debug\ObjectPrinter.dll
+C:\Users\Siraboy\Desktop\POS\BusinessObjects\bin\Debug\ObjectPrinter.Log4Net.dll
+C:\Users\Siraboy\Desktop\POS\BusinessObjects\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Siraboy\Desktop\POS\BusinessObjects\bin\Debug\Tim.BarcodePrinter.dll
+C:\Users\Siraboy\Desktop\POS\BusinessObjects\bin\Debug\zxing.dll
+C:\Users\Siraboy\Desktop\POS\BusinessObjects\bin\Debug\log4net.xml
+C:\Users\Siraboy\Desktop\POS\BusinessObjects\bin\Debug\MahApps.Metro.pdb
+C:\Users\Siraboy\Desktop\POS\BusinessObjects\bin\Debug\MahApps.Metro.xml
+C:\Users\Siraboy\Desktop\POS\BusinessObjects\bin\Debug\Tim.BarcodePrinter.pdb
+C:\Users\Siraboy\Desktop\POS\BusinessObjects\obj\Debug\BusinessObjects.csprojResolveAssemblyReference.cache
+C:\Users\Siraboy\Desktop\POS\BusinessObjects\obj\Debug\BusinessObjects.dll
+C:\Users\Siraboy\Desktop\POS\BusinessObjects\obj\Debug\BusinessObjects.pdb
+C:\Users\user\Desktop\POS - Copy\BusinessObjects\bin\Debug\BusinessObjects.dll
+C:\Users\user\Desktop\POS - Copy\BusinessObjects\bin\Debug\BusinessObjects.pdb
+C:\Users\user\Desktop\POS - Copy\BusinessObjects\bin\Debug\JsonPrettyPrinterPlus.dll
+C:\Users\user\Desktop\POS - Copy\BusinessObjects\bin\Debug\log4net.dll
+C:\Users\user\Desktop\POS - Copy\BusinessObjects\bin\Debug\MahApps.Metro.dll
+C:\Users\user\Desktop\POS - Copy\BusinessObjects\bin\Debug\Neodynamic.SDK.ThermalLabel.dll
+C:\Users\user\Desktop\POS - Copy\BusinessObjects\bin\Debug\ObjectPrinter.dll
+C:\Users\user\Desktop\POS - Copy\BusinessObjects\bin\Debug\ObjectPrinter.Log4Net.dll
+C:\Users\user\Desktop\POS - Copy\BusinessObjects\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\user\Desktop\POS - Copy\BusinessObjects\bin\Debug\Tim.BarcodePrinter.dll
+C:\Users\user\Desktop\POS - Copy\BusinessObjects\bin\Debug\zxing.dll
+C:\Users\user\Desktop\POS - Copy\BusinessObjects\bin\Debug\log4net.xml
+C:\Users\user\Desktop\POS - Copy\BusinessObjects\bin\Debug\MahApps.Metro.pdb
+C:\Users\user\Desktop\POS - Copy\BusinessObjects\bin\Debug\MahApps.Metro.xml
+C:\Users\user\Desktop\POS - Copy\BusinessObjects\bin\Debug\Tim.BarcodePrinter.pdb
+C:\Users\user\Desktop\POS - Copy\BusinessObjects\obj\Debug\BusinessObjects.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\POS - Copy\BusinessObjects\obj\Debug\BusinessObjects.dll
+C:\Users\user\Desktop\POS - Copy\BusinessObjects\obj\Debug\BusinessObjects.pdb
+C:\Users\user\Desktop\Vista System\1.2\POS - Copy\BusinessObjects\bin\Debug\BusinessObjects.dll
+C:\Users\user\Desktop\Vista System\1.2\POS - Copy\BusinessObjects\bin\Debug\BusinessObjects.pdb
+C:\Users\user\Desktop\Vista System\1.2\POS - Copy\BusinessObjects\bin\Debug\JsonPrettyPrinterPlus.dll
+C:\Users\user\Desktop\Vista System\1.2\POS - Copy\BusinessObjects\bin\Debug\log4net.dll
+C:\Users\user\Desktop\Vista System\1.2\POS - Copy\BusinessObjects\bin\Debug\MahApps.Metro.dll
+C:\Users\user\Desktop\Vista System\1.2\POS - Copy\BusinessObjects\bin\Debug\Neodynamic.SDK.ThermalLabel.dll
+C:\Users\user\Desktop\Vista System\1.2\POS - Copy\BusinessObjects\bin\Debug\ObjectPrinter.dll
+C:\Users\user\Desktop\Vista System\1.2\POS - Copy\BusinessObjects\bin\Debug\ObjectPrinter.Log4Net.dll
+C:\Users\user\Desktop\Vista System\1.2\POS - Copy\BusinessObjects\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\user\Desktop\Vista System\1.2\POS - Copy\BusinessObjects\bin\Debug\Tim.BarcodePrinter.dll
+C:\Users\user\Desktop\Vista System\1.2\POS - Copy\BusinessObjects\bin\Debug\zxing.dll
+C:\Users\user\Desktop\Vista System\1.2\POS - Copy\BusinessObjects\bin\Debug\log4net.xml
+C:\Users\user\Desktop\Vista System\1.2\POS - Copy\BusinessObjects\bin\Debug\MahApps.Metro.pdb
+C:\Users\user\Desktop\Vista System\1.2\POS - Copy\BusinessObjects\bin\Debug\MahApps.Metro.xml
+C:\Users\user\Desktop\Vista System\1.2\POS - Copy\BusinessObjects\bin\Debug\Tim.BarcodePrinter.pdb
+C:\Users\user\Desktop\Vista System\1.2\POS - Copy\BusinessObjects\obj\Debug\BusinessObjects.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Vista System\1.2\POS - Copy\BusinessObjects\obj\Debug\BusinessObjects.dll
+C:\Users\user\Desktop\Vista System\1.2\POS - Copy\BusinessObjects\obj\Debug\BusinessObjects.pdb
+C:\Users\Siraboy\Desktop\1.2\POS - Copy\BusinessObjects\bin\Debug\BusinessObjects.dll
+C:\Users\Siraboy\Desktop\1.2\POS - Copy\BusinessObjects\bin\Debug\BusinessObjects.pdb
+C:\Users\Siraboy\Desktop\1.2\POS - Copy\BusinessObjects\bin\Debug\JsonPrettyPrinterPlus.dll
+C:\Users\Siraboy\Desktop\1.2\POS - Copy\BusinessObjects\bin\Debug\log4net.dll
+C:\Users\Siraboy\Desktop\1.2\POS - Copy\BusinessObjects\bin\Debug\MahApps.Metro.dll
+C:\Users\Siraboy\Desktop\1.2\POS - Copy\BusinessObjects\bin\Debug\Neodynamic.SDK.ThermalLabel.dll
+C:\Users\Siraboy\Desktop\1.2\POS - Copy\BusinessObjects\bin\Debug\ObjectPrinter.dll
+C:\Users\Siraboy\Desktop\1.2\POS - Copy\BusinessObjects\bin\Debug\ObjectPrinter.Log4Net.dll
+C:\Users\Siraboy\Desktop\1.2\POS - Copy\BusinessObjects\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Siraboy\Desktop\1.2\POS - Copy\BusinessObjects\bin\Debug\Tim.BarcodePrinter.dll
+C:\Users\Siraboy\Desktop\1.2\POS - Copy\BusinessObjects\bin\Debug\zxing.dll
+C:\Users\Siraboy\Desktop\1.2\POS - Copy\BusinessObjects\bin\Debug\log4net.xml
+C:\Users\Siraboy\Desktop\1.2\POS - Copy\BusinessObjects\bin\Debug\MahApps.Metro.pdb
+C:\Users\Siraboy\Desktop\1.2\POS - Copy\BusinessObjects\bin\Debug\MahApps.Metro.xml
+C:\Users\Siraboy\Desktop\1.2\POS - Copy\BusinessObjects\bin\Debug\Tim.BarcodePrinter.pdb
+C:\Users\Siraboy\Desktop\1.2\POS - Copy\BusinessObjects\obj\Debug\BusinessObjects.csprojResolveAssemblyReference.cache
+C:\Users\Siraboy\Desktop\1.2\POS - Copy\BusinessObjects\obj\Debug\BusinessObjects.dll
+C:\Users\Siraboy\Desktop\1.2\POS - Copy\BusinessObjects\obj\Debug\BusinessObjects.pdb
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\BusinessObjects.dll
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\BusinessObjects.pdb
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\JsonPrettyPrinterPlus.dll
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\log4net.dll
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\MahApps.Metro.dll
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\Neodynamic.SDK.ThermalLabel.dll
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\ObjectPrinter.dll
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\ObjectPrinter.Log4Net.dll
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\Tim.BarcodePrinter.dll
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\zxing.dll
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\log4net.xml
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\MahApps.Metro.pdb
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\MahApps.Metro.xml
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\Tim.BarcodePrinter.pdb
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\obj\Debug\BusinessObjects.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\obj\Debug\BusinessObjects.dll
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\obj\Debug\BusinessObjects.pdb
+C:\Users\user\Desktop\Vista System\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\BusinessObjects.dll
+C:\Users\user\Desktop\Vista System\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\BusinessObjects.pdb
+C:\Users\user\Desktop\Vista System\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\JsonPrettyPrinterPlus.dll
+C:\Users\user\Desktop\Vista System\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\log4net.dll
+C:\Users\user\Desktop\Vista System\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\MahApps.Metro.dll
+C:\Users\user\Desktop\Vista System\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\Neodynamic.SDK.ThermalLabel.dll
+C:\Users\user\Desktop\Vista System\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\ObjectPrinter.dll
+C:\Users\user\Desktop\Vista System\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\ObjectPrinter.Log4Net.dll
+C:\Users\user\Desktop\Vista System\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\user\Desktop\Vista System\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\Tim.BarcodePrinter.dll
+C:\Users\user\Desktop\Vista System\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\zxing.dll
+C:\Users\user\Desktop\Vista System\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\log4net.xml
+C:\Users\user\Desktop\Vista System\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\MahApps.Metro.pdb
+C:\Users\user\Desktop\Vista System\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\MahApps.Metro.xml
+C:\Users\user\Desktop\Vista System\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\Tim.BarcodePrinter.pdb
+C:\Users\user\Desktop\Vista System\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\obj\Debug\BusinessObjects.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Vista System\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\obj\Debug\BusinessObjects.dll
+C:\Users\user\Desktop\Vista System\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\obj\Debug\BusinessObjects.pdb
+C:\Users\user\Desktop\Vista System\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\BusinessObjects.dll
+C:\Users\user\Desktop\Vista System\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\BusinessObjects.pdb
+C:\Users\user\Desktop\Vista System\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\JsonPrettyPrinterPlus.dll
+C:\Users\user\Desktop\Vista System\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\log4net.dll
+C:\Users\user\Desktop\Vista System\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\MahApps.Metro.dll
+C:\Users\user\Desktop\Vista System\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\Neodynamic.SDK.ThermalLabel.dll
+C:\Users\user\Desktop\Vista System\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\ObjectPrinter.dll
+C:\Users\user\Desktop\Vista System\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\ObjectPrinter.Log4Net.dll
+C:\Users\user\Desktop\Vista System\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\user\Desktop\Vista System\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\Tim.BarcodePrinter.dll
+C:\Users\user\Desktop\Vista System\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\zxing.dll
+C:\Users\user\Desktop\Vista System\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\log4net.xml
+C:\Users\user\Desktop\Vista System\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\MahApps.Metro.pdb
+C:\Users\user\Desktop\Vista System\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\MahApps.Metro.xml
+C:\Users\user\Desktop\Vista System\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\Tim.BarcodePrinter.pdb
+C:\Users\user\Desktop\Vista System\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\obj\Debug\BusinessObjects.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Vista System\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\obj\Debug\BusinessObjects.dll
+C:\Users\user\Desktop\Vista System\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\obj\Debug\BusinessObjects.pdb
+C:\Users\user\Desktop\Vista System\1.6\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\BusinessObjects.dll
+C:\Users\user\Desktop\Vista System\1.6\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\BusinessObjects.pdb
+C:\Users\user\Desktop\Vista System\1.6\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\JsonPrettyPrinterPlus.dll
+C:\Users\user\Desktop\Vista System\1.6\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\log4net.dll
+C:\Users\user\Desktop\Vista System\1.6\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\MahApps.Metro.dll
+C:\Users\user\Desktop\Vista System\1.6\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\Neodynamic.SDK.ThermalLabel.dll
+C:\Users\user\Desktop\Vista System\1.6\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\ObjectPrinter.dll
+C:\Users\user\Desktop\Vista System\1.6\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\ObjectPrinter.Log4Net.dll
+C:\Users\user\Desktop\Vista System\1.6\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\user\Desktop\Vista System\1.6\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\Tim.BarcodePrinter.dll
+C:\Users\user\Desktop\Vista System\1.6\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\zxing.dll
+C:\Users\user\Desktop\Vista System\1.6\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\log4net.xml
+C:\Users\user\Desktop\Vista System\1.6\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\MahApps.Metro.pdb
+C:\Users\user\Desktop\Vista System\1.6\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\MahApps.Metro.xml
+C:\Users\user\Desktop\Vista System\1.6\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\Tim.BarcodePrinter.pdb
+C:\Users\user\Desktop\Vista System\1.6\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\obj\Debug\BusinessObjects.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Vista System\1.6\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\obj\Debug\BusinessObjects.dll
+C:\Users\user\Desktop\Vista System\1.6\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\obj\Debug\BusinessObjects.pdb
+C:\Users\user\Desktop\Vista System\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\BusinessObjects.dll
+C:\Users\user\Desktop\Vista System\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\BusinessObjects.pdb
+C:\Users\user\Desktop\Vista System\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\JsonPrettyPrinterPlus.dll
+C:\Users\user\Desktop\Vista System\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\log4net.dll
+C:\Users\user\Desktop\Vista System\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\MahApps.Metro.dll
+C:\Users\user\Desktop\Vista System\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\Neodynamic.SDK.ThermalLabel.dll
+C:\Users\user\Desktop\Vista System\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\ObjectPrinter.dll
+C:\Users\user\Desktop\Vista System\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\ObjectPrinter.Log4Net.dll
+C:\Users\user\Desktop\Vista System\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\user\Desktop\Vista System\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\Tim.BarcodePrinter.dll
+C:\Users\user\Desktop\Vista System\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\zxing.dll
+C:\Users\user\Desktop\Vista System\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\log4net.xml
+C:\Users\user\Desktop\Vista System\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\MahApps.Metro.pdb
+C:\Users\user\Desktop\Vista System\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\MahApps.Metro.xml
+C:\Users\user\Desktop\Vista System\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\Tim.BarcodePrinter.pdb
+C:\Users\user\Desktop\Vista System\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\obj\Debug\BusinessObjects.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Vista System\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\obj\Debug\BusinessObjects.dll
+C:\Users\user\Desktop\Vista System\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\obj\Debug\BusinessObjects.pdb
+M:\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\BusinessObjects.dll
+M:\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\BusinessObjects.pdb
+M:\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\JsonPrettyPrinterPlus.dll
+M:\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\log4net.dll
+M:\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\MahApps.Metro.dll
+M:\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\Neodynamic.SDK.ThermalLabel.dll
+M:\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\ObjectPrinter.dll
+M:\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\ObjectPrinter.Log4Net.dll
+M:\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\System.Windows.Interactivity.dll
+M:\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\Tim.BarcodePrinter.dll
+M:\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\zxing.dll
+M:\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\log4net.xml
+M:\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\MahApps.Metro.pdb
+M:\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\MahApps.Metro.xml
+M:\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\Tim.BarcodePrinter.pdb
+M:\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\obj\Debug\BusinessObjects.csprojResolveAssemblyReference.cache
+M:\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\obj\Debug\BusinessObjects.dll
+M:\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\obj\Debug\BusinessObjects.pdb
+C:\Users\user\Desktop\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\BusinessObjects.dll
+C:\Users\user\Desktop\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\BusinessObjects.pdb
+C:\Users\user\Desktop\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\JsonPrettyPrinterPlus.dll
+C:\Users\user\Desktop\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\log4net.dll
+C:\Users\user\Desktop\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\MahApps.Metro.dll
+C:\Users\user\Desktop\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\Neodynamic.SDK.ThermalLabel.dll
+C:\Users\user\Desktop\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\ObjectPrinter.dll
+C:\Users\user\Desktop\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\ObjectPrinter.Log4Net.dll
+C:\Users\user\Desktop\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\user\Desktop\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\Tim.BarcodePrinter.dll
+C:\Users\user\Desktop\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\zxing.dll
+C:\Users\user\Desktop\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\log4net.xml
+C:\Users\user\Desktop\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\MahApps.Metro.pdb
+C:\Users\user\Desktop\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\MahApps.Metro.xml
+C:\Users\user\Desktop\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\Tim.BarcodePrinter.pdb
+C:\Users\user\Desktop\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\obj\Debug\BusinessObjects.dll
+C:\Users\user\Desktop\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\obj\Debug\BusinessObjects.pdb
+K:\Current Directory\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\BusinessObjects.dll
+K:\Current Directory\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\BusinessObjects.pdb
+K:\Current Directory\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\JsonPrettyPrinterPlus.dll
+K:\Current Directory\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\log4net.dll
+K:\Current Directory\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\MahApps.Metro.dll
+K:\Current Directory\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\Neodynamic.SDK.ThermalLabel.dll
+K:\Current Directory\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\ObjectPrinter.dll
+K:\Current Directory\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\ObjectPrinter.Log4Net.dll
+K:\Current Directory\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\System.Windows.Interactivity.dll
+K:\Current Directory\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\Tim.BarcodePrinter.dll
+K:\Current Directory\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\zxing.dll
+K:\Current Directory\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\log4net.xml
+K:\Current Directory\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\MahApps.Metro.pdb
+K:\Current Directory\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\MahApps.Metro.xml
+K:\Current Directory\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\Tim.BarcodePrinter.pdb
+K:\Current Directory\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\obj\Debug\BusinessObjects.csprojResolveAssemblyReference.cache
+K:\Current Directory\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\obj\Debug\BusinessObjects.dll
+K:\Current Directory\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\obj\Debug\BusinessObjects.pdb
+K:\FutureSoft POS\Vista 9.0\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\BusinessObjects.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\BusinessObjects.pdb
+K:\FutureSoft POS\Vista 9.0\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\JsonPrettyPrinterPlus.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\log4net.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\MahApps.Metro.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\Neodynamic.SDK.ThermalLabel.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\ObjectPrinter.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\ObjectPrinter.Log4Net.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\System.Windows.Interactivity.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\Tim.BarcodePrinter.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\zxing.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\log4net.xml
+K:\FutureSoft POS\Vista 9.0\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\MahApps.Metro.pdb
+K:\FutureSoft POS\Vista 9.0\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\MahApps.Metro.xml
+K:\FutureSoft POS\Vista 9.0\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\bin\Debug\Tim.BarcodePrinter.pdb
+K:\FutureSoft POS\Vista 9.0\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\obj\Debug\BusinessObjects.csprojResolveAssemblyReference.cache
+K:\FutureSoft POS\Vista 9.0\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\obj\Debug\BusinessObjects.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\BusinessObjects\obj\Debug\BusinessObjects.pdb
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS - Copy\BusinessObjects\bin\Debug\BusinessObjects.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS - Copy\BusinessObjects\bin\Debug\BusinessObjects.pdb
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS - Copy\BusinessObjects\bin\Debug\JsonPrettyPrinterPlus.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS - Copy\BusinessObjects\bin\Debug\log4net.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS - Copy\BusinessObjects\bin\Debug\MahApps.Metro.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS - Copy\BusinessObjects\bin\Debug\Neodynamic.SDK.ThermalLabel.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS - Copy\BusinessObjects\bin\Debug\ObjectPrinter.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS - Copy\BusinessObjects\bin\Debug\ObjectPrinter.Log4Net.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS - Copy\BusinessObjects\bin\Debug\System.Windows.Interactivity.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS - Copy\BusinessObjects\bin\Debug\Tim.BarcodePrinter.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS - Copy\BusinessObjects\bin\Debug\zxing.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS - Copy\BusinessObjects\bin\Debug\log4net.xml
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS - Copy\BusinessObjects\bin\Debug\MahApps.Metro.pdb
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS - Copy\BusinessObjects\bin\Debug\MahApps.Metro.xml
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS - Copy\BusinessObjects\bin\Debug\Tim.BarcodePrinter.pdb
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS - Copy\BusinessObjects\obj\Debug\BusinessObjects.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS - Copy\BusinessObjects\obj\Debug\BusinessObjects.pdb
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu\BusinessObjects\bin\Debug\BusinessObjects.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu\BusinessObjects\bin\Debug\BusinessObjects.pdb
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu\BusinessObjects\bin\Debug\JsonPrettyPrinterPlus.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu\BusinessObjects\bin\Debug\log4net.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu\BusinessObjects\bin\Debug\MahApps.Metro.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu\BusinessObjects\bin\Debug\Neodynamic.SDK.ThermalLabel.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu\BusinessObjects\bin\Debug\ObjectPrinter.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu\BusinessObjects\bin\Debug\ObjectPrinter.Log4Net.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu\BusinessObjects\bin\Debug\System.Windows.Interactivity.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu\BusinessObjects\bin\Debug\Tim.BarcodePrinter.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu\BusinessObjects\bin\Debug\zxing.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu\BusinessObjects\bin\Debug\log4net.xml
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu\BusinessObjects\bin\Debug\MahApps.Metro.pdb
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu\BusinessObjects\bin\Debug\MahApps.Metro.xml
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu\BusinessObjects\bin\Debug\Tim.BarcodePrinter.pdb
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu\BusinessObjects\obj\Debug\BusinessObjects.csprojResolveAssemblyReference.cache
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu\BusinessObjects\obj\Debug\BusinessObjects.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu\BusinessObjects\obj\Debug\BusinessObjects.pdb
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - MakingUserControl\BusinessObjects\bin\Debug\BusinessObjects.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - MakingUserControl\BusinessObjects\bin\Debug\BusinessObjects.pdb
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - MakingUserControl\BusinessObjects\bin\Debug\JsonPrettyPrinterPlus.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - MakingUserControl\BusinessObjects\bin\Debug\log4net.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - MakingUserControl\BusinessObjects\bin\Debug\MahApps.Metro.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - MakingUserControl\BusinessObjects\bin\Debug\Neodynamic.SDK.ThermalLabel.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - MakingUserControl\BusinessObjects\bin\Debug\ObjectPrinter.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - MakingUserControl\BusinessObjects\bin\Debug\ObjectPrinter.Log4Net.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - MakingUserControl\BusinessObjects\bin\Debug\System.Windows.Interactivity.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - MakingUserControl\BusinessObjects\bin\Debug\Tim.BarcodePrinter.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - MakingUserControl\BusinessObjects\bin\Debug\zxing.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - MakingUserControl\BusinessObjects\bin\Debug\log4net.xml
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - MakingUserControl\BusinessObjects\bin\Debug\MahApps.Metro.pdb
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - MakingUserControl\BusinessObjects\bin\Debug\MahApps.Metro.xml
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - MakingUserControl\BusinessObjects\bin\Debug\Tim.BarcodePrinter.pdb
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - MakingUserControl\BusinessObjects\obj\Debug\BusinessObjects.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - MakingUserControl\BusinessObjects\obj\Debug\BusinessObjects.pdb
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - MakingUserControl\BusinessObjects\obj\Debug\BusinessObjects.csprojResolveAssemblyReference.cache
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing\BusinessObjects\bin\Debug\BusinessObjects.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing\BusinessObjects\bin\Debug\BusinessObjects.pdb
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing\BusinessObjects\bin\Debug\JsonPrettyPrinterPlus.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing\BusinessObjects\bin\Debug\log4net.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing\BusinessObjects\bin\Debug\MahApps.Metro.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing\BusinessObjects\bin\Debug\Neodynamic.SDK.ThermalLabel.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing\BusinessObjects\bin\Debug\ObjectPrinter.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing\BusinessObjects\bin\Debug\ObjectPrinter.Log4Net.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing\BusinessObjects\bin\Debug\System.Windows.Interactivity.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing\BusinessObjects\bin\Debug\Tim.BarcodePrinter.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing\BusinessObjects\bin\Debug\zxing.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing\BusinessObjects\bin\Debug\log4net.xml
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing\BusinessObjects\bin\Debug\MahApps.Metro.pdb
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing\BusinessObjects\bin\Debug\MahApps.Metro.xml
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing\BusinessObjects\bin\Debug\Tim.BarcodePrinter.pdb
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing\BusinessObjects\obj\Debug\BusinessObjects.csprojResolveAssemblyReference.cache
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing\BusinessObjects\obj\Debug\BusinessObjects.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing\BusinessObjects\obj\Debug\BusinessObjects.pdb
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing - FIFO\BusinessObjects\bin\Debug\BusinessObjects.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing - FIFO\BusinessObjects\bin\Debug\BusinessObjects.pdb
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing - FIFO\BusinessObjects\bin\Debug\JsonPrettyPrinterPlus.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing - FIFO\BusinessObjects\bin\Debug\log4net.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing - FIFO\BusinessObjects\bin\Debug\MahApps.Metro.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing - FIFO\BusinessObjects\bin\Debug\Neodynamic.SDK.ThermalLabel.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing - FIFO\BusinessObjects\bin\Debug\ObjectPrinter.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing - FIFO\BusinessObjects\bin\Debug\ObjectPrinter.Log4Net.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing - FIFO\BusinessObjects\bin\Debug\System.Windows.Interactivity.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing - FIFO\BusinessObjects\bin\Debug\Tim.BarcodePrinter.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing - FIFO\BusinessObjects\bin\Debug\zxing.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing - FIFO\BusinessObjects\bin\Debug\log4net.xml
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing - FIFO\BusinessObjects\bin\Debug\MahApps.Metro.pdb
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing - FIFO\BusinessObjects\bin\Debug\MahApps.Metro.xml
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing - FIFO\BusinessObjects\bin\Debug\Tim.BarcodePrinter.pdb
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing - FIFO\BusinessObjects\obj\Debug\BusinessObjects.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing - FIFO\BusinessObjects\obj\Debug\BusinessObjects.pdb
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing - FIFO\BusinessObjects\obj\Debug\BusinessObjects.csprojResolveAssemblyReference.cache
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\publish Vista Pos\POS -withBunifu - Theme Changing - FIFO\BusinessObjects\bin\Debug\BusinessObjects.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\publish Vista Pos\POS -withBunifu - Theme Changing - FIFO\BusinessObjects\bin\Debug\BusinessObjects.pdb
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\publish Vista Pos\POS -withBunifu - Theme Changing - FIFO\BusinessObjects\bin\Debug\JsonPrettyPrinterPlus.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\publish Vista Pos\POS -withBunifu - Theme Changing - FIFO\BusinessObjects\bin\Debug\log4net.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\publish Vista Pos\POS -withBunifu - Theme Changing - FIFO\BusinessObjects\bin\Debug\MahApps.Metro.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\publish Vista Pos\POS -withBunifu - Theme Changing - FIFO\BusinessObjects\bin\Debug\Neodynamic.SDK.ThermalLabel.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\publish Vista Pos\POS -withBunifu - Theme Changing - FIFO\BusinessObjects\bin\Debug\ObjectPrinter.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\publish Vista Pos\POS -withBunifu - Theme Changing - FIFO\BusinessObjects\bin\Debug\ObjectPrinter.Log4Net.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\publish Vista Pos\POS -withBunifu - Theme Changing - FIFO\BusinessObjects\bin\Debug\System.Windows.Interactivity.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\publish Vista Pos\POS -withBunifu - Theme Changing - FIFO\BusinessObjects\bin\Debug\Tim.BarcodePrinter.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\publish Vista Pos\POS -withBunifu - Theme Changing - FIFO\BusinessObjects\bin\Debug\zxing.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\publish Vista Pos\POS -withBunifu - Theme Changing - FIFO\BusinessObjects\bin\Debug\log4net.xml
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\publish Vista Pos\POS -withBunifu - Theme Changing - FIFO\BusinessObjects\bin\Debug\MahApps.Metro.pdb
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\publish Vista Pos\POS -withBunifu - Theme Changing - FIFO\BusinessObjects\bin\Debug\MahApps.Metro.xml
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\publish Vista Pos\POS -withBunifu - Theme Changing - FIFO\BusinessObjects\bin\Debug\Tim.BarcodePrinter.pdb
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\publish Vista Pos\POS -withBunifu - Theme Changing - FIFO\BusinessObjects\obj\Debug\BusinessObjects.csprojResolveAssemblyReference.cache
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\publish Vista Pos\POS -withBunifu - Theme Changing - FIFO\BusinessObjects\obj\Debug\BusinessObjects.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\publish Vista Pos\POS -withBunifu - Theme Changing - FIFO\BusinessObjects\obj\Debug\BusinessObjects.pdb

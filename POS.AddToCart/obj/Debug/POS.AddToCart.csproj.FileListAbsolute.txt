@@ -1,0 +1,1102 @@
+E:\My Project\Current Development Process\Metro Featured POS\POS\POS.AddToCart\obj\Debug\POS.AddToCart.csprojResolveAssemblyReference.cache
+E:\My Project\Current Development Process\Metro Featured POS\POS\POS.AddToCart\obj\Debug\POS.AddToCart.FormBilling.resources
+E:\My Project\Current Development Process\Metro Featured POS\POS\POS.AddToCart\obj\Debug\ModernUIProject.Class.pnlLogin.resources
+E:\My Project\Current Development Process\Metro Featured POS\POS\POS.AddToCart\obj\Debug\POS.AddToCart.pnlRunningOrder.resources
+E:\My Project\Current Development Process\Metro Featured POS\POS\POS.AddToCart\obj\Debug\ModernUIProject.Class.pnlSlider.resources
+E:\My Project\Current Development Process\Metro Featured POS\POS\POS.AddToCart\obj\Debug\POS.AddToCart.Properties.Resources.resources
+E:\My Project\Current Development Process\Metro Featured POS\POS\POS.AddToCart\obj\Debug\POS.AddToCart.Sales_Report.resources
+E:\My Project\Current Development Process\Metro Featured POS\POS\POS.AddToCart\obj\Debug\POS.AddToCart.View_Sales.resources
+E:\My Project\Current Development Process\Metro Featured POS\POS\POS.AddToCart\obj\Debug\POS.AddToCart.csproj.GenerateResource.Cache
+E:\My Project\Current Development Process\Metro Featured POS\POS\POS.AddToCart\obj\Debug\POS.AddToCart.exe.licenses
+E:\My Project\Current Development Process\Metro Featured POS\POS\POS.AddToCart\bin\Debug\POS.AddToCart.exe.config
+E:\My Project\Current Development Process\Metro Featured POS\POS\POS.AddToCart\bin\Debug\POS.AddToCart.exe.manifest
+E:\My Project\Current Development Process\Metro Featured POS\POS\POS.AddToCart\bin\Debug\POS.AddToCart.exe
+E:\My Project\Current Development Process\Metro Featured POS\POS\POS.AddToCart\bin\Debug\POS.AddToCart.pdb
+E:\My Project\Current Development Process\Metro Featured POS\POS\POS.AddToCart\bin\Debug\BusinessObject1.dll
+E:\My Project\Current Development Process\Metro Featured POS\POS\POS.AddToCart\bin\Debug\BusinessObjects.dll
+E:\My Project\Current Development Process\Metro Featured POS\POS\POS.AddToCart\bin\Debug\JsonPrettyPrinterPlus.dll
+E:\My Project\Current Development Process\Metro Featured POS\POS\POS.AddToCart\bin\Debug\log4net.dll
+E:\My Project\Current Development Process\Metro Featured POS\POS\POS.AddToCart\bin\Debug\MahApps.Metro.dll
+E:\My Project\Current Development Process\Metro Featured POS\POS\POS.AddToCart\bin\Debug\Neodynamic.SDK.ThermalLabel.dll
+E:\My Project\Current Development Process\Metro Featured POS\POS\POS.AddToCart\bin\Debug\ObjectPrinter.dll
+E:\My Project\Current Development Process\Metro Featured POS\POS\POS.AddToCart\bin\Debug\ObjectPrinter.Log4Net.dll
+E:\My Project\Current Development Process\Metro Featured POS\POS\POS.AddToCart\bin\Debug\System.Windows.Interactivity.dll
+E:\My Project\Current Development Process\Metro Featured POS\POS\POS.AddToCart\bin\Debug\Tim.BarcodePrinter.dll
+E:\My Project\Current Development Process\Metro Featured POS\POS\POS.AddToCart\bin\Debug\Transitions.dll
+E:\My Project\Current Development Process\Metro Featured POS\POS\POS.AddToCart\bin\Debug\UserInterface.exe
+E:\My Project\Current Development Process\Metro Featured POS\POS\POS.AddToCart\bin\Debug\zxing.dll
+E:\My Project\Current Development Process\Metro Featured POS\POS\POS.AddToCart\bin\Debug\DataAccessCommon.dll
+E:\My Project\Current Development Process\Metro Featured POS\POS\POS.AddToCart\bin\Debug\AccessDatabase1.dll
+E:\My Project\Current Development Process\Metro Featured POS\POS\POS.AddToCart\bin\Debug\BusinessObjects.pdb
+E:\My Project\Current Development Process\Metro Featured POS\POS\POS.AddToCart\bin\Debug\BusinessObject1.pdb
+E:\My Project\Current Development Process\Metro Featured POS\POS\POS.AddToCart\bin\Debug\UserInterface.pdb
+E:\My Project\Current Development Process\Metro Featured POS\POS\POS.AddToCart\bin\Debug\log4net.xml
+E:\My Project\Current Development Process\Metro Featured POS\POS\POS.AddToCart\bin\Debug\MahApps.Metro.pdb
+E:\My Project\Current Development Process\Metro Featured POS\POS\POS.AddToCart\bin\Debug\MahApps.Metro.xml
+E:\My Project\Current Development Process\Metro Featured POS\POS\POS.AddToCart\bin\Debug\Tim.BarcodePrinter.pdb
+E:\My Project\Current Development Process\Metro Featured POS\POS\POS.AddToCart\bin\Debug\AccessDatabase1.pdb
+E:\My Project\Current Development Process\Metro Featured POS\POS\POS.AddToCart\bin\Debug\Native.BusinessObject1.manifest
+E:\My Project\Current Development Process\Metro Featured POS\POS\POS.AddToCart\obj\Debug\POS.AddToCart.exe.manifest
+E:\My Project\Current Development Process\Metro Featured POS\POS\POS.AddToCart\obj\Debug\POS.AddToCart.exe
+E:\My Project\Current Development Process\Metro Featured POS\POS\POS.AddToCart\obj\Debug\POS.AddToCart.pdb
+E:\My Project\Current Development Process\Metro Featured POS\POS\POS.AddToCart\obj\Debug\RdlCompile.cache
+E:\My Project\Current Development Process\Metro Featured POS\POS\POS.AddToCart\obj\Debug\RdlCompile.compiled
+E:\My Project\Current Development Process\Metro Featured POS\POS\POS.AddToCart\obj\Debug\POS.AddToCart.BarCode.resources
+E:\My Project\Current Development Process\Metro Featured POS\POS\POS.AddToCart\obj\Debug\POS.AddToCart.ManageExample.resources
+E:\My Project\Current Development Process\Metro Featured POS\POS\POS.AddToCart\obj\Debug\POS.AddToCart.UserControl1.resources
+E:\My Project\Current Development Process\Metro Featured POS\POS\POS.AddToCart\obj\Debug\POS.AddToCart.lnkCreateReg.resources
+E:\My Project\Current Development Process\Metro Featured POS\POS\POS.AddToCart\obj\Debug\POS.AddToCart.MacAccess.resources
+E:\My Project\Current Development Process\Metro Featured POS\POS\POS.AddToCart\obj\Debug\POS.AddToCart.VIewPrinters.resources
+E:\My Project\Current Development Process\FutureSoft\POS\POS.AddToCart\bin\Debug\POS.AddToCart.exe.config
+E:\My Project\Current Development Process\FutureSoft\POS\POS.AddToCart\obj\Debug\POS.AddToCart.exe
+E:\My Project\Current Development Process\FutureSoft\POS\POS.AddToCart\obj\Debug\POS.AddToCart.pdb
+E:\My Project\Current Development Process\FutureSoft\POS\POS.AddToCart\bin\Debug\POS.AddToCart.exe.manifest
+E:\My Project\Current Development Process\FutureSoft\POS\POS.AddToCart\bin\Debug\POS.AddToCart.exe
+E:\My Project\Current Development Process\FutureSoft\POS\POS.AddToCart\bin\Debug\POS.AddToCart.pdb
+E:\My Project\Current Development Process\FutureSoft\POS\POS.AddToCart\bin\Debug\BusinessObject1.dll
+E:\My Project\Current Development Process\FutureSoft\POS\POS.AddToCart\bin\Debug\BusinessObjects.dll
+E:\My Project\Current Development Process\FutureSoft\POS\POS.AddToCart\bin\Debug\JsonPrettyPrinterPlus.dll
+E:\My Project\Current Development Process\FutureSoft\POS\POS.AddToCart\bin\Debug\log4net.dll
+E:\My Project\Current Development Process\FutureSoft\POS\POS.AddToCart\bin\Debug\MahApps.Metro.dll
+E:\My Project\Current Development Process\FutureSoft\POS\POS.AddToCart\bin\Debug\Neodynamic.SDK.ThermalLabel.dll
+E:\My Project\Current Development Process\FutureSoft\POS\POS.AddToCart\bin\Debug\ObjectPrinter.dll
+E:\My Project\Current Development Process\FutureSoft\POS\POS.AddToCart\bin\Debug\ObjectPrinter.Log4Net.dll
+E:\My Project\Current Development Process\FutureSoft\POS\POS.AddToCart\bin\Debug\System.Windows.Interactivity.dll
+E:\My Project\Current Development Process\FutureSoft\POS\POS.AddToCart\bin\Debug\Tim.BarcodePrinter.dll
+E:\My Project\Current Development Process\FutureSoft\POS\POS.AddToCart\bin\Debug\Transitions.dll
+E:\My Project\Current Development Process\FutureSoft\POS\POS.AddToCart\bin\Debug\UserInterface.exe
+E:\My Project\Current Development Process\FutureSoft\POS\POS.AddToCart\bin\Debug\zxing.dll
+E:\My Project\Current Development Process\FutureSoft\POS\POS.AddToCart\bin\Debug\DataAccessCommon.dll
+E:\My Project\Current Development Process\FutureSoft\POS\POS.AddToCart\bin\Debug\AccessDatabase1.dll
+E:\My Project\Current Development Process\FutureSoft\POS\POS.AddToCart\bin\Debug\BusinessObjects.pdb
+E:\My Project\Current Development Process\FutureSoft\POS\POS.AddToCart\bin\Debug\BusinessObject1.pdb
+E:\My Project\Current Development Process\FutureSoft\POS\POS.AddToCart\bin\Debug\UserInterface.pdb
+E:\My Project\Current Development Process\FutureSoft\POS\POS.AddToCart\bin\Debug\log4net.xml
+E:\My Project\Current Development Process\FutureSoft\POS\POS.AddToCart\bin\Debug\MahApps.Metro.pdb
+E:\My Project\Current Development Process\FutureSoft\POS\POS.AddToCart\bin\Debug\MahApps.Metro.xml
+E:\My Project\Current Development Process\FutureSoft\POS\POS.AddToCart\bin\Debug\Tim.BarcodePrinter.pdb
+E:\My Project\Current Development Process\FutureSoft\POS\POS.AddToCart\bin\Debug\AccessDatabase1.pdb
+E:\My Project\Current Development Process\FutureSoft\POS\POS.AddToCart\bin\Debug\Native.BusinessObject1.manifest
+E:\My Project\Current Development Process\FutureSoft\POS\POS.AddToCart\obj\Debug\POS.AddToCart.csprojResolveAssemblyReference.cache
+E:\My Project\Current Development Process\FutureSoft\POS\POS.AddToCart\obj\Debug\POS.AddToCart.BarCode.resources
+E:\My Project\Current Development Process\FutureSoft\POS\POS.AddToCart\obj\Debug\POS.AddToCart.FormBilling.resources
+E:\My Project\Current Development Process\FutureSoft\POS\POS.AddToCart\obj\Debug\POS.AddToCart.lnkCreateReg.resources
+E:\My Project\Current Development Process\FutureSoft\POS\POS.AddToCart\obj\Debug\POS.AddToCart.MacAccess.resources
+E:\My Project\Current Development Process\FutureSoft\POS\POS.AddToCart\obj\Debug\POS.AddToCart.ManageExample.resources
+E:\My Project\Current Development Process\FutureSoft\POS\POS.AddToCart\obj\Debug\ModernUIProject.Class.pnlLogin.resources
+E:\My Project\Current Development Process\FutureSoft\POS\POS.AddToCart\obj\Debug\POS.AddToCart.pnlRunningOrder.resources
+E:\My Project\Current Development Process\FutureSoft\POS\POS.AddToCart\obj\Debug\ModernUIProject.Class.pnlSlider.resources
+E:\My Project\Current Development Process\FutureSoft\POS\POS.AddToCart\obj\Debug\POS.AddToCart.Properties.Resources.resources
+E:\My Project\Current Development Process\FutureSoft\POS\POS.AddToCart\obj\Debug\POS.AddToCart.Sales_Report.resources
+E:\My Project\Current Development Process\FutureSoft\POS\POS.AddToCart\obj\Debug\POS.AddToCart.UserControl1.resources
+E:\My Project\Current Development Process\FutureSoft\POS\POS.AddToCart\obj\Debug\POS.AddToCart.VIewPrinters.resources
+E:\My Project\Current Development Process\FutureSoft\POS\POS.AddToCart\obj\Debug\POS.AddToCart.View_Sales.resources
+E:\My Project\Current Development Process\FutureSoft\POS\POS.AddToCart\obj\Debug\POS.AddToCart.csproj.GenerateResource.Cache
+E:\My Project\Current Development Process\FutureSoft\POS\POS.AddToCart\obj\Debug\POS.AddToCart.exe.licenses
+E:\My Project\Current Development Process\FutureSoft\POS\POS.AddToCart\obj\Debug\RdlCompile.cache
+E:\My Project\Current Development Process\FutureSoft\POS\POS.AddToCart\obj\Debug\RdlCompile.compiled
+E:\My Project\Current Development Process\FutureSoft\POS\POS.AddToCart\obj\Debug\POS.AddToCart.exe.manifest
+E:\My Project\Current Development Process\FutureSoft\POS\POS.AddToCart\obj\Debug\POS.AddToCart.M_Products.resources
+E:\My Project\Current Development Process\FutureSoft\POS\POS.AddToCart\obj\Debug\POS.AddToCart.M_Category.resources
+E:\My Project\Current Development Process\FutureSoft\POS\POS.AddToCart\obj\Debug\POS.AddToCart.M_Units.resources
+E:\My Project\Current Development Process\FutureSoft\New folder\POS\POS.AddToCart\bin\Debug\POS.AddToCart.exe.config
+E:\My Project\Current Development Process\FutureSoft\New folder\POS\POS.AddToCart\obj\Debug\POS.AddToCart.exe
+E:\My Project\Current Development Process\FutureSoft\New folder\POS\POS.AddToCart\obj\Debug\POS.AddToCart.pdb
+E:\My Project\Current Development Process\FutureSoft\New folder\POS\POS.AddToCart\bin\Debug\POS.AddToCart.exe.manifest
+E:\My Project\Current Development Process\FutureSoft\New folder\POS\POS.AddToCart\bin\Debug\POS.AddToCart.exe
+E:\My Project\Current Development Process\FutureSoft\New folder\POS\POS.AddToCart\bin\Debug\POS.AddToCart.pdb
+E:\My Project\Current Development Process\FutureSoft\New folder\POS\POS.AddToCart\bin\Debug\BusinessObject1.dll
+E:\My Project\Current Development Process\FutureSoft\New folder\POS\POS.AddToCart\bin\Debug\BusinessObjects.dll
+E:\My Project\Current Development Process\FutureSoft\New folder\POS\POS.AddToCart\bin\Debug\JsonPrettyPrinterPlus.dll
+E:\My Project\Current Development Process\FutureSoft\New folder\POS\POS.AddToCart\bin\Debug\log4net.dll
+E:\My Project\Current Development Process\FutureSoft\New folder\POS\POS.AddToCart\bin\Debug\MahApps.Metro.dll
+E:\My Project\Current Development Process\FutureSoft\New folder\POS\POS.AddToCart\bin\Debug\Neodynamic.SDK.ThermalLabel.dll
+E:\My Project\Current Development Process\FutureSoft\New folder\POS\POS.AddToCart\bin\Debug\ObjectPrinter.dll
+E:\My Project\Current Development Process\FutureSoft\New folder\POS\POS.AddToCart\bin\Debug\ObjectPrinter.Log4Net.dll
+E:\My Project\Current Development Process\FutureSoft\New folder\POS\POS.AddToCart\bin\Debug\System.Windows.Interactivity.dll
+E:\My Project\Current Development Process\FutureSoft\New folder\POS\POS.AddToCart\bin\Debug\Tim.BarcodePrinter.dll
+E:\My Project\Current Development Process\FutureSoft\New folder\POS\POS.AddToCart\bin\Debug\zxing.dll
+E:\My Project\Current Development Process\FutureSoft\New folder\POS\POS.AddToCart\bin\Debug\DataAccessCommon.dll
+E:\My Project\Current Development Process\FutureSoft\New folder\POS\POS.AddToCart\bin\Debug\AccessDatabase1.dll
+E:\My Project\Current Development Process\FutureSoft\New folder\POS\POS.AddToCart\bin\Debug\BusinessObjects.pdb
+E:\My Project\Current Development Process\FutureSoft\New folder\POS\POS.AddToCart\bin\Debug\BusinessObject1.pdb
+E:\My Project\Current Development Process\FutureSoft\New folder\POS\POS.AddToCart\bin\Debug\log4net.xml
+E:\My Project\Current Development Process\FutureSoft\New folder\POS\POS.AddToCart\bin\Debug\MahApps.Metro.pdb
+E:\My Project\Current Development Process\FutureSoft\New folder\POS\POS.AddToCart\bin\Debug\MahApps.Metro.xml
+E:\My Project\Current Development Process\FutureSoft\New folder\POS\POS.AddToCart\bin\Debug\Tim.BarcodePrinter.pdb
+E:\My Project\Current Development Process\FutureSoft\New folder\POS\POS.AddToCart\bin\Debug\AccessDatabase1.pdb
+E:\My Project\Current Development Process\FutureSoft\New folder\POS\POS.AddToCart\bin\Debug\Native.BusinessObject1.manifest
+E:\My Project\Current Development Process\FutureSoft\New folder\POS\POS.AddToCart\obj\Debug\POS.AddToCart.csprojResolveAssemblyReference.cache
+E:\My Project\Current Development Process\FutureSoft\New folder\POS\POS.AddToCart\obj\Debug\POS.AddToCart.BarCode.resources
+E:\My Project\Current Development Process\FutureSoft\New folder\POS\POS.AddToCart\obj\Debug\POS.AddToCart.FormBilling.resources
+E:\My Project\Current Development Process\FutureSoft\New folder\POS\POS.AddToCart\obj\Debug\POS.AddToCart.lnkCreateReg.resources
+E:\My Project\Current Development Process\FutureSoft\New folder\POS\POS.AddToCart\obj\Debug\POS.AddToCart.MacAccess.resources
+E:\My Project\Current Development Process\FutureSoft\New folder\POS\POS.AddToCart\obj\Debug\POS.AddToCart.ManageExample.resources
+E:\My Project\Current Development Process\FutureSoft\New folder\POS\POS.AddToCart\obj\Debug\POS.AddToCart.M_Category.resources
+E:\My Project\Current Development Process\FutureSoft\New folder\POS\POS.AddToCart\obj\Debug\POS.AddToCart.M_Products.resources
+E:\My Project\Current Development Process\FutureSoft\New folder\POS\POS.AddToCart\obj\Debug\POS.AddToCart.M_Units.resources
+E:\My Project\Current Development Process\FutureSoft\New folder\POS\POS.AddToCart\obj\Debug\ModernUIProject.Class.pnlLogin.resources
+E:\My Project\Current Development Process\FutureSoft\New folder\POS\POS.AddToCart\obj\Debug\POS.AddToCart.pnlRunningOrder.resources
+E:\My Project\Current Development Process\FutureSoft\New folder\POS\POS.AddToCart\obj\Debug\ModernUIProject.Class.pnlSlider.resources
+E:\My Project\Current Development Process\FutureSoft\New folder\POS\POS.AddToCart\obj\Debug\POS.AddToCart.Properties.Resources.resources
+E:\My Project\Current Development Process\FutureSoft\New folder\POS\POS.AddToCart\obj\Debug\POS.AddToCart.Sales_Report.resources
+E:\My Project\Current Development Process\FutureSoft\New folder\POS\POS.AddToCart\obj\Debug\POS.AddToCart.UserControl1.resources
+E:\My Project\Current Development Process\FutureSoft\New folder\POS\POS.AddToCart\obj\Debug\POS.AddToCart.VIewPrinters.resources
+E:\My Project\Current Development Process\FutureSoft\New folder\POS\POS.AddToCart\obj\Debug\POS.AddToCart.View_Sales.resources
+E:\My Project\Current Development Process\FutureSoft\New folder\POS\POS.AddToCart\obj\Debug\POS.AddToCart.csproj.GenerateResource.Cache
+E:\My Project\Current Development Process\FutureSoft\New folder\POS\POS.AddToCart\obj\Debug\POS.AddToCart.exe.licenses
+E:\My Project\Current Development Process\FutureSoft\New folder\POS\POS.AddToCart\obj\Debug\RdlCompile.cache
+E:\My Project\Current Development Process\FutureSoft\New folder\POS\POS.AddToCart\obj\Debug\RdlCompile.compiled
+E:\My Project\Current Development Process\FutureSoft\New folder\POS\POS.AddToCart\obj\Debug\POS.AddToCart.exe.manifest
+E:\My Project\Current Development Process\FutureSoft\Final\POS\POS.AddToCart\bin\Debug\POS.AddToCart.exe.config
+E:\My Project\Current Development Process\FutureSoft\Final\POS\POS.AddToCart\bin\Debug\POS.AddToCart.exe.manifest
+E:\My Project\Current Development Process\FutureSoft\Final\POS\POS.AddToCart\bin\Debug\POS.AddToCart.exe
+E:\My Project\Current Development Process\FutureSoft\Final\POS\POS.AddToCart\bin\Debug\POS.AddToCart.pdb
+E:\My Project\Current Development Process\FutureSoft\Final\POS\POS.AddToCart\bin\Debug\BusinessObject1.dll
+E:\My Project\Current Development Process\FutureSoft\Final\POS\POS.AddToCart\bin\Debug\BusinessObjects.dll
+E:\My Project\Current Development Process\FutureSoft\Final\POS\POS.AddToCart\bin\Debug\JsonPrettyPrinterPlus.dll
+E:\My Project\Current Development Process\FutureSoft\Final\POS\POS.AddToCart\bin\Debug\log4net.dll
+E:\My Project\Current Development Process\FutureSoft\Final\POS\POS.AddToCart\bin\Debug\MahApps.Metro.dll
+E:\My Project\Current Development Process\FutureSoft\Final\POS\POS.AddToCart\bin\Debug\Neodynamic.SDK.ThermalLabel.dll
+E:\My Project\Current Development Process\FutureSoft\Final\POS\POS.AddToCart\bin\Debug\ObjectPrinter.dll
+E:\My Project\Current Development Process\FutureSoft\Final\POS\POS.AddToCart\bin\Debug\ObjectPrinter.Log4Net.dll
+E:\My Project\Current Development Process\FutureSoft\Final\POS\POS.AddToCart\bin\Debug\System.Windows.Interactivity.dll
+E:\My Project\Current Development Process\FutureSoft\Final\POS\POS.AddToCart\bin\Debug\Tim.BarcodePrinter.dll
+E:\My Project\Current Development Process\FutureSoft\Final\POS\POS.AddToCart\bin\Debug\zxing.dll
+E:\My Project\Current Development Process\FutureSoft\Final\POS\POS.AddToCart\bin\Debug\DataAccessCommon.dll
+E:\My Project\Current Development Process\FutureSoft\Final\POS\POS.AddToCart\bin\Debug\AccessDatabase1.dll
+E:\My Project\Current Development Process\FutureSoft\Final\POS\POS.AddToCart\bin\Debug\BusinessObjects.pdb
+E:\My Project\Current Development Process\FutureSoft\Final\POS\POS.AddToCart\bin\Debug\BusinessObject1.pdb
+E:\My Project\Current Development Process\FutureSoft\Final\POS\POS.AddToCart\bin\Debug\log4net.xml
+E:\My Project\Current Development Process\FutureSoft\Final\POS\POS.AddToCart\bin\Debug\MahApps.Metro.pdb
+E:\My Project\Current Development Process\FutureSoft\Final\POS\POS.AddToCart\bin\Debug\MahApps.Metro.xml
+E:\My Project\Current Development Process\FutureSoft\Final\POS\POS.AddToCart\bin\Debug\Tim.BarcodePrinter.pdb
+E:\My Project\Current Development Process\FutureSoft\Final\POS\POS.AddToCart\bin\Debug\AccessDatabase1.pdb
+E:\My Project\Current Development Process\FutureSoft\Final\POS\POS.AddToCart\bin\Debug\Native.BusinessObject1.manifest
+E:\My Project\Current Development Process\FutureSoft\Final\POS\POS.AddToCart\obj\Debug\POS.AddToCart.csprojResolveAssemblyReference.cache
+E:\My Project\Current Development Process\FutureSoft\Final\POS\POS.AddToCart\obj\Debug\POS.AddToCart.BarCode.resources
+E:\My Project\Current Development Process\FutureSoft\Final\POS\POS.AddToCart\obj\Debug\POS.AddToCart.FormBilling.resources
+E:\My Project\Current Development Process\FutureSoft\Final\POS\POS.AddToCart\obj\Debug\POS.AddToCart.lnkCreateReg.resources
+E:\My Project\Current Development Process\FutureSoft\Final\POS\POS.AddToCart\obj\Debug\POS.AddToCart.MacAccess.resources
+E:\My Project\Current Development Process\FutureSoft\Final\POS\POS.AddToCart\obj\Debug\POS.AddToCart.ManageExample.resources
+E:\My Project\Current Development Process\FutureSoft\Final\POS\POS.AddToCart\obj\Debug\POS.AddToCart.M_Category.resources
+E:\My Project\Current Development Process\FutureSoft\Final\POS\POS.AddToCart\obj\Debug\POS.AddToCart.M_Products.resources
+E:\My Project\Current Development Process\FutureSoft\Final\POS\POS.AddToCart\obj\Debug\POS.AddToCart.M_Units.resources
+E:\My Project\Current Development Process\FutureSoft\Final\POS\POS.AddToCart\obj\Debug\ModernUIProject.Class.pnlLogin.resources
+E:\My Project\Current Development Process\FutureSoft\Final\POS\POS.AddToCart\obj\Debug\POS.AddToCart.pnlRunningOrder.resources
+E:\My Project\Current Development Process\FutureSoft\Final\POS\POS.AddToCart\obj\Debug\ModernUIProject.Class.pnlSlider.resources
+E:\My Project\Current Development Process\FutureSoft\Final\POS\POS.AddToCart\obj\Debug\POS.AddToCart.Properties.Resources.resources
+E:\My Project\Current Development Process\FutureSoft\Final\POS\POS.AddToCart\obj\Debug\POS.AddToCart.Sales_Report.resources
+E:\My Project\Current Development Process\FutureSoft\Final\POS\POS.AddToCart\obj\Debug\POS.AddToCart.UserControl1.resources
+E:\My Project\Current Development Process\FutureSoft\Final\POS\POS.AddToCart\obj\Debug\POS.AddToCart.VIewPrinters.resources
+E:\My Project\Current Development Process\FutureSoft\Final\POS\POS.AddToCart\obj\Debug\POS.AddToCart.View_Sales.resources
+E:\My Project\Current Development Process\FutureSoft\Final\POS\POS.AddToCart\obj\Debug\POS.AddToCart.csproj.GenerateResource.Cache
+E:\My Project\Current Development Process\FutureSoft\Final\POS\POS.AddToCart\obj\Debug\POS.AddToCart.exe.licenses
+E:\My Project\Current Development Process\FutureSoft\Final\POS\POS.AddToCart\obj\Debug\RdlCompile.cache
+E:\My Project\Current Development Process\FutureSoft\Final\POS\POS.AddToCart\obj\Debug\RdlCompile.compiled
+E:\My Project\Current Development Process\FutureSoft\Final\POS\POS.AddToCart\obj\Debug\POS.AddToCart.exe.manifest
+E:\My Project\Current Development Process\FutureSoft\Final\POS\POS.AddToCart\obj\Debug\POS.AddToCart.exe
+E:\My Project\Current Development Process\FutureSoft\Final\POS\POS.AddToCart\obj\Debug\POS.AddToCart.pdb
+E:\My Project\Current Development Process\FutureSoft\Final\MyFInal\POS\POS.AddToCart\bin\Debug\POS.AddToCart.exe.config
+E:\My Project\Current Development Process\FutureSoft\Final\MyFInal\POS\POS.AddToCart\obj\Debug\POS.AddToCart.exe
+E:\My Project\Current Development Process\FutureSoft\Final\MyFInal\POS\POS.AddToCart\obj\Debug\POS.AddToCart.pdb
+E:\My Project\Current Development Process\FutureSoft\Final\MyFInal\POS\POS.AddToCart\obj\Debug\POS.AddToCart.csprojResolveAssemblyReference.cache
+E:\My Project\Current Development Process\FutureSoft\Final\MyFInal\POS\POS.AddToCart\obj\Debug\POS.AddToCart.BarCode.resources
+E:\My Project\Current Development Process\FutureSoft\Final\MyFInal\POS\POS.AddToCart\obj\Debug\POS.AddToCart.FormBilling.resources
+E:\My Project\Current Development Process\FutureSoft\Final\MyFInal\POS\POS.AddToCart\obj\Debug\POS.AddToCart.lnkCreateReg.resources
+E:\My Project\Current Development Process\FutureSoft\Final\MyFInal\POS\POS.AddToCart\obj\Debug\POS.AddToCart.MacAccess.resources
+E:\My Project\Current Development Process\FutureSoft\Final\MyFInal\POS\POS.AddToCart\obj\Debug\POS.AddToCart.ManageExample.resources
+E:\My Project\Current Development Process\FutureSoft\Final\MyFInal\POS\POS.AddToCart\obj\Debug\POS.AddToCart.M_Category.resources
+E:\My Project\Current Development Process\FutureSoft\Final\MyFInal\POS\POS.AddToCart\obj\Debug\POS.AddToCart.M_Products.resources
+E:\My Project\Current Development Process\FutureSoft\Final\MyFInal\POS\POS.AddToCart\obj\Debug\POS.AddToCart.M_Units.resources
+E:\My Project\Current Development Process\FutureSoft\Final\MyFInal\POS\POS.AddToCart\obj\Debug\ModernUIProject.Class.pnlLogin.resources
+E:\My Project\Current Development Process\FutureSoft\Final\MyFInal\POS\POS.AddToCart\obj\Debug\POS.AddToCart.pnlRunningOrder.resources
+E:\My Project\Current Development Process\FutureSoft\Final\MyFInal\POS\POS.AddToCart\obj\Debug\ModernUIProject.Class.pnlSlider.resources
+E:\My Project\Current Development Process\FutureSoft\Final\MyFInal\POS\POS.AddToCart\obj\Debug\POS.AddToCart.Properties.Resources.resources
+E:\My Project\Current Development Process\FutureSoft\Final\MyFInal\POS\POS.AddToCart\obj\Debug\POS.AddToCart.Sales_Report.resources
+E:\My Project\Current Development Process\FutureSoft\Final\MyFInal\POS\POS.AddToCart\obj\Debug\POS.AddToCart.UserControl1.resources
+E:\My Project\Current Development Process\FutureSoft\Final\MyFInal\POS\POS.AddToCart\obj\Debug\POS.AddToCart.VIewPrinters.resources
+E:\My Project\Current Development Process\FutureSoft\Final\MyFInal\POS\POS.AddToCart\obj\Debug\POS.AddToCart.View_Sales.resources
+E:\My Project\Current Development Process\FutureSoft\Final\MyFInal\POS\POS.AddToCart\obj\Debug\POS.AddToCart.csproj.GenerateResource.Cache
+E:\My Project\Current Development Process\FutureSoft\Final\MyFInal\POS\POS.AddToCart\obj\Debug\POS.AddToCart.exe.licenses
+E:\My Project\Current Development Process\FutureSoft\Final\MyFInal\POS\POS.AddToCart\obj\Debug\RdlCompile.cache
+E:\My Project\Current Development Process\FutureSoft\Final\MyFInal\POS\POS.AddToCart\obj\Debug\RdlCompile.compiled
+E:\My Project\Current Development Process\FutureSoft\Final\MyFInal\POS\POS.AddToCart\bin\Debug\POS.AddToCart.exe.manifest
+E:\My Project\Current Development Process\FutureSoft\Final\MyFInal\POS\POS.AddToCart\bin\Debug\POS.AddToCart.exe
+E:\My Project\Current Development Process\FutureSoft\Final\MyFInal\POS\POS.AddToCart\bin\Debug\POS.AddToCart.pdb
+E:\My Project\Current Development Process\FutureSoft\Final\MyFInal\POS\POS.AddToCart\bin\Debug\BusinessObject1.dll
+E:\My Project\Current Development Process\FutureSoft\Final\MyFInal\POS\POS.AddToCart\bin\Debug\BusinessObjects.dll
+E:\My Project\Current Development Process\FutureSoft\Final\MyFInal\POS\POS.AddToCart\bin\Debug\JsonPrettyPrinterPlus.dll
+E:\My Project\Current Development Process\FutureSoft\Final\MyFInal\POS\POS.AddToCart\bin\Debug\log4net.dll
+E:\My Project\Current Development Process\FutureSoft\Final\MyFInal\POS\POS.AddToCart\bin\Debug\MahApps.Metro.dll
+E:\My Project\Current Development Process\FutureSoft\Final\MyFInal\POS\POS.AddToCart\bin\Debug\Neodynamic.SDK.ThermalLabel.dll
+E:\My Project\Current Development Process\FutureSoft\Final\MyFInal\POS\POS.AddToCart\bin\Debug\ObjectPrinter.dll
+E:\My Project\Current Development Process\FutureSoft\Final\MyFInal\POS\POS.AddToCart\bin\Debug\ObjectPrinter.Log4Net.dll
+E:\My Project\Current Development Process\FutureSoft\Final\MyFInal\POS\POS.AddToCart\bin\Debug\System.Windows.Interactivity.dll
+E:\My Project\Current Development Process\FutureSoft\Final\MyFInal\POS\POS.AddToCart\bin\Debug\Tim.BarcodePrinter.dll
+E:\My Project\Current Development Process\FutureSoft\Final\MyFInal\POS\POS.AddToCart\bin\Debug\zxing.dll
+E:\My Project\Current Development Process\FutureSoft\Final\MyFInal\POS\POS.AddToCart\bin\Debug\DataAccessCommon.dll
+E:\My Project\Current Development Process\FutureSoft\Final\MyFInal\POS\POS.AddToCart\bin\Debug\AccessDatabase1.dll
+E:\My Project\Current Development Process\FutureSoft\Final\MyFInal\POS\POS.AddToCart\bin\Debug\BusinessObjects.pdb
+E:\My Project\Current Development Process\FutureSoft\Final\MyFInal\POS\POS.AddToCart\bin\Debug\BusinessObject1.pdb
+E:\My Project\Current Development Process\FutureSoft\Final\MyFInal\POS\POS.AddToCart\bin\Debug\log4net.xml
+E:\My Project\Current Development Process\FutureSoft\Final\MyFInal\POS\POS.AddToCart\bin\Debug\MahApps.Metro.pdb
+E:\My Project\Current Development Process\FutureSoft\Final\MyFInal\POS\POS.AddToCart\bin\Debug\MahApps.Metro.xml
+E:\My Project\Current Development Process\FutureSoft\Final\MyFInal\POS\POS.AddToCart\bin\Debug\Tim.BarcodePrinter.pdb
+E:\My Project\Current Development Process\FutureSoft\Final\MyFInal\POS\POS.AddToCart\bin\Debug\AccessDatabase1.pdb
+E:\My Project\Current Development Process\FutureSoft\Final\MyFInal\POS\POS.AddToCart\bin\Debug\Native.BusinessObject1.manifest
+E:\My Project\Current Development Process\FutureSoft\Final\MyFInal\POS\POS.AddToCart\obj\Debug\POS.AddToCart.exe.manifest
+E:\My Project\Current Development Process\FutureSoft\Final\LastLast\POS\POS.AddToCart\bin\Debug\POS.AddToCart.exe.config
+E:\My Project\Current Development Process\FutureSoft\Final\LastLast\POS\POS.AddToCart\obj\Debug\POS.AddToCart.exe
+E:\My Project\Current Development Process\FutureSoft\Final\LastLast\POS\POS.AddToCart\obj\Debug\POS.AddToCart.pdb
+E:\My Project\Current Development Process\FutureSoft\Final\LastLast\POS\POS.AddToCart\bin\Debug\POS.AddToCart.exe.manifest
+E:\My Project\Current Development Process\FutureSoft\Final\LastLast\POS\POS.AddToCart\bin\Debug\POS.AddToCart.exe
+E:\My Project\Current Development Process\FutureSoft\Final\LastLast\POS\POS.AddToCart\bin\Debug\POS.AddToCart.pdb
+E:\My Project\Current Development Process\FutureSoft\Final\LastLast\POS\POS.AddToCart\bin\Debug\BusinessObject1.dll
+E:\My Project\Current Development Process\FutureSoft\Final\LastLast\POS\POS.AddToCart\bin\Debug\BusinessObjects.dll
+E:\My Project\Current Development Process\FutureSoft\Final\LastLast\POS\POS.AddToCart\bin\Debug\JsonPrettyPrinterPlus.dll
+E:\My Project\Current Development Process\FutureSoft\Final\LastLast\POS\POS.AddToCart\bin\Debug\log4net.dll
+E:\My Project\Current Development Process\FutureSoft\Final\LastLast\POS\POS.AddToCart\bin\Debug\MahApps.Metro.dll
+E:\My Project\Current Development Process\FutureSoft\Final\LastLast\POS\POS.AddToCart\bin\Debug\Neodynamic.SDK.ThermalLabel.dll
+E:\My Project\Current Development Process\FutureSoft\Final\LastLast\POS\POS.AddToCart\bin\Debug\ObjectPrinter.dll
+E:\My Project\Current Development Process\FutureSoft\Final\LastLast\POS\POS.AddToCart\bin\Debug\ObjectPrinter.Log4Net.dll
+E:\My Project\Current Development Process\FutureSoft\Final\LastLast\POS\POS.AddToCart\bin\Debug\System.Windows.Interactivity.dll
+E:\My Project\Current Development Process\FutureSoft\Final\LastLast\POS\POS.AddToCart\bin\Debug\Tim.BarcodePrinter.dll
+E:\My Project\Current Development Process\FutureSoft\Final\LastLast\POS\POS.AddToCart\bin\Debug\zxing.dll
+E:\My Project\Current Development Process\FutureSoft\Final\LastLast\POS\POS.AddToCart\bin\Debug\DataAccessCommon.dll
+E:\My Project\Current Development Process\FutureSoft\Final\LastLast\POS\POS.AddToCart\bin\Debug\AccessDatabase1.dll
+E:\My Project\Current Development Process\FutureSoft\Final\LastLast\POS\POS.AddToCart\bin\Debug\BusinessObjects.pdb
+E:\My Project\Current Development Process\FutureSoft\Final\LastLast\POS\POS.AddToCart\bin\Debug\BusinessObject1.pdb
+E:\My Project\Current Development Process\FutureSoft\Final\LastLast\POS\POS.AddToCart\bin\Debug\log4net.xml
+E:\My Project\Current Development Process\FutureSoft\Final\LastLast\POS\POS.AddToCart\bin\Debug\MahApps.Metro.pdb
+E:\My Project\Current Development Process\FutureSoft\Final\LastLast\POS\POS.AddToCart\bin\Debug\MahApps.Metro.xml
+E:\My Project\Current Development Process\FutureSoft\Final\LastLast\POS\POS.AddToCart\bin\Debug\Tim.BarcodePrinter.pdb
+E:\My Project\Current Development Process\FutureSoft\Final\LastLast\POS\POS.AddToCart\bin\Debug\AccessDatabase1.pdb
+E:\My Project\Current Development Process\FutureSoft\Final\LastLast\POS\POS.AddToCart\bin\Debug\Native.BusinessObject1.manifest
+E:\My Project\Current Development Process\FutureSoft\Final\LastLast\POS\POS.AddToCart\obj\Debug\POS.AddToCart.csprojResolveAssemblyReference.cache
+E:\My Project\Current Development Process\FutureSoft\Final\LastLast\POS\POS.AddToCart\obj\Debug\POS.AddToCart.BarCode.resources
+E:\My Project\Current Development Process\FutureSoft\Final\LastLast\POS\POS.AddToCart\obj\Debug\POS.AddToCart.FormBilling.resources
+E:\My Project\Current Development Process\FutureSoft\Final\LastLast\POS\POS.AddToCart\obj\Debug\POS.AddToCart.lnkCreateReg.resources
+E:\My Project\Current Development Process\FutureSoft\Final\LastLast\POS\POS.AddToCart\obj\Debug\POS.AddToCart.MacAccess.resources
+E:\My Project\Current Development Process\FutureSoft\Final\LastLast\POS\POS.AddToCart\obj\Debug\POS.AddToCart.ManageExample.resources
+E:\My Project\Current Development Process\FutureSoft\Final\LastLast\POS\POS.AddToCart\obj\Debug\POS.AddToCart.M_Category.resources
+E:\My Project\Current Development Process\FutureSoft\Final\LastLast\POS\POS.AddToCart\obj\Debug\POS.AddToCart.M_Products.resources
+E:\My Project\Current Development Process\FutureSoft\Final\LastLast\POS\POS.AddToCart\obj\Debug\POS.AddToCart.M_Units.resources
+E:\My Project\Current Development Process\FutureSoft\Final\LastLast\POS\POS.AddToCart\obj\Debug\ModernUIProject.Class.pnlLogin.resources
+E:\My Project\Current Development Process\FutureSoft\Final\LastLast\POS\POS.AddToCart\obj\Debug\POS.AddToCart.pnlRunningOrder.resources
+E:\My Project\Current Development Process\FutureSoft\Final\LastLast\POS\POS.AddToCart\obj\Debug\ModernUIProject.Class.pnlSlider.resources
+E:\My Project\Current Development Process\FutureSoft\Final\LastLast\POS\POS.AddToCart\obj\Debug\POS.AddToCart.Properties.Resources.resources
+E:\My Project\Current Development Process\FutureSoft\Final\LastLast\POS\POS.AddToCart\obj\Debug\POS.AddToCart.Sales_Report.resources
+E:\My Project\Current Development Process\FutureSoft\Final\LastLast\POS\POS.AddToCart\obj\Debug\POS.AddToCart.UserControl1.resources
+E:\My Project\Current Development Process\FutureSoft\Final\LastLast\POS\POS.AddToCart\obj\Debug\POS.AddToCart.VIewPrinters.resources
+E:\My Project\Current Development Process\FutureSoft\Final\LastLast\POS\POS.AddToCart\obj\Debug\POS.AddToCart.View_Sales.resources
+E:\My Project\Current Development Process\FutureSoft\Final\LastLast\POS\POS.AddToCart\obj\Debug\POS.AddToCart.csproj.GenerateResource.Cache
+E:\My Project\Current Development Process\FutureSoft\Final\LastLast\POS\POS.AddToCart\obj\Debug\POS.AddToCart.exe.licenses
+E:\My Project\Current Development Process\FutureSoft\Final\LastLast\POS\POS.AddToCart\obj\Debug\RdlCompile.cache
+E:\My Project\Current Development Process\FutureSoft\Final\LastLast\POS\POS.AddToCart\obj\Debug\RdlCompile.compiled
+E:\My Project\Current Development Process\FutureSoft\Final\LastLast\POS\POS.AddToCart\obj\Debug\POS.AddToCart.exe.manifest
+C:\Users\HP\Desktop\POS\POS.AddToCart\bin\Debug\POS.AddToCart.exe.config
+C:\Users\HP\Desktop\POS\POS.AddToCart\obj\Debug\POS.AddToCart.exe
+C:\Users\HP\Desktop\POS\POS.AddToCart\obj\Debug\POS.AddToCart.pdb
+C:\Users\HP\Desktop\POS\POS.AddToCart\obj\Debug\POS.AddToCart.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\POS\POS.AddToCart\obj\Debug\POS.AddToCart.BarCode.resources
+C:\Users\HP\Desktop\POS\POS.AddToCart\obj\Debug\POS.AddToCart.FormBilling.resources
+C:\Users\HP\Desktop\POS\POS.AddToCart\obj\Debug\POS.AddToCart.lnkCreateReg.resources
+C:\Users\HP\Desktop\POS\POS.AddToCart\obj\Debug\POS.AddToCart.MacAccess.resources
+C:\Users\HP\Desktop\POS\POS.AddToCart\obj\Debug\POS.AddToCart.MainMenu_Form.resources
+C:\Users\HP\Desktop\POS\POS.AddToCart\obj\Debug\POS.AddToCart.ManageExample.resources
+C:\Users\HP\Desktop\POS\POS.AddToCart\obj\Debug\POS.AddToCart.M_Category.resources
+C:\Users\HP\Desktop\POS\POS.AddToCart\obj\Debug\POS.AddToCart.M_Products.resources
+C:\Users\HP\Desktop\POS\POS.AddToCart\obj\Debug\POS.AddToCart.M_Units.resources
+C:\Users\HP\Desktop\POS\POS.AddToCart\obj\Debug\ModernUIProject.Class.pnlLogin.resources
+C:\Users\HP\Desktop\POS\POS.AddToCart\obj\Debug\POS.AddToCart.pnlRunningOrder.resources
+C:\Users\HP\Desktop\POS\POS.AddToCart\obj\Debug\ModernUIProject.Class.pnlSlider.resources
+C:\Users\HP\Desktop\POS\POS.AddToCart\obj\Debug\POS.AddToCart.Properties.Resources.resources
+C:\Users\HP\Desktop\POS\POS.AddToCart\obj\Debug\POS.AddToCart.Sales_Report.resources
+C:\Users\HP\Desktop\POS\POS.AddToCart\obj\Debug\POS.AddToCart.UserControl1.resources
+C:\Users\HP\Desktop\POS\POS.AddToCart\obj\Debug\POS.AddToCart.VIewPrinters.resources
+C:\Users\HP\Desktop\POS\POS.AddToCart\obj\Debug\POS.AddToCart.View_Sales.resources
+C:\Users\HP\Desktop\POS\POS.AddToCart\obj\Debug\POS.AddToCart.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\POS\POS.AddToCart\obj\Debug\POS.AddToCart.exe.licenses
+C:\Users\HP\Desktop\POS\POS.AddToCart\obj\Debug\POS.AddToCart.DatabaseManagement_Form.resources
+C:\Users\HP\Desktop\POS\POS.AddToCart\obj\Debug\RdlCompile.cache
+C:\Users\HP\Desktop\POS\POS.AddToCart\obj\Debug\RdlCompile.compiled
+C:\Users\HP\Desktop\POS\POS.AddToCart\bin\Debug\POS.AddToCart.exe
+C:\Users\HP\Desktop\POS\POS.AddToCart\bin\Debug\POS.AddToCart.pdb
+C:\Users\HP\Desktop\POS\POS.AddToCart\bin\Debug\BusinessObjects.dll
+C:\Users\HP\Desktop\POS\POS.AddToCart\bin\Debug\JsonPrettyPrinterPlus.dll
+C:\Users\HP\Desktop\POS\POS.AddToCart\bin\Debug\log4net.dll
+C:\Users\HP\Desktop\POS\POS.AddToCart\bin\Debug\MahApps.Metro.dll
+C:\Users\HP\Desktop\POS\POS.AddToCart\bin\Debug\Neodynamic.SDK.ThermalLabel.dll
+C:\Users\HP\Desktop\POS\POS.AddToCart\bin\Debug\ObjectPrinter.dll
+C:\Users\HP\Desktop\POS\POS.AddToCart\bin\Debug\ObjectPrinter.Log4Net.dll
+C:\Users\HP\Desktop\POS\POS.AddToCart\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\HP\Desktop\POS\POS.AddToCart\bin\Debug\Tim.BarcodePrinter.dll
+C:\Users\HP\Desktop\POS\POS.AddToCart\bin\Debug\zxing.dll
+C:\Users\HP\Desktop\POS\POS.AddToCart\bin\Debug\DataAccessCommon.dll
+C:\Users\HP\Desktop\POS\POS.AddToCart\bin\Debug\BusinessObjects.pdb
+C:\Users\HP\Desktop\POS\POS.AddToCart\bin\Debug\log4net.xml
+C:\Users\HP\Desktop\POS\POS.AddToCart\bin\Debug\MahApps.Metro.pdb
+C:\Users\HP\Desktop\POS\POS.AddToCart\bin\Debug\MahApps.Metro.xml
+C:\Users\HP\Desktop\POS\POS.AddToCart\bin\Debug\Tim.BarcodePrinter.pdb
+E:\Live Projects\M.R Traders\5.0\POS\POS.AddToCart\bin\Debug\POS.AddToCart.exe.config
+E:\Live Projects\M.R Traders\5.0\POS\POS.AddToCart\obj\Debug\POS.AddToCart.exe
+E:\Live Projects\M.R Traders\5.0\POS\POS.AddToCart\obj\Debug\POS.AddToCart.pdb
+E:\Live Projects\M.R Traders\5.0\POS\POS.AddToCart\bin\Debug\POS.AddToCart.exe
+E:\Live Projects\M.R Traders\5.0\POS\POS.AddToCart\bin\Debug\POS.AddToCart.pdb
+E:\Live Projects\M.R Traders\5.0\POS\POS.AddToCart\bin\Debug\BusinessObjects.dll
+E:\Live Projects\M.R Traders\5.0\POS\POS.AddToCart\bin\Debug\JsonPrettyPrinterPlus.dll
+E:\Live Projects\M.R Traders\5.0\POS\POS.AddToCart\bin\Debug\log4net.dll
+E:\Live Projects\M.R Traders\5.0\POS\POS.AddToCart\bin\Debug\MahApps.Metro.dll
+E:\Live Projects\M.R Traders\5.0\POS\POS.AddToCart\bin\Debug\Neodynamic.SDK.ThermalLabel.dll
+E:\Live Projects\M.R Traders\5.0\POS\POS.AddToCart\bin\Debug\ObjectPrinter.dll
+E:\Live Projects\M.R Traders\5.0\POS\POS.AddToCart\bin\Debug\ObjectPrinter.Log4Net.dll
+E:\Live Projects\M.R Traders\5.0\POS\POS.AddToCart\bin\Debug\System.Windows.Interactivity.dll
+E:\Live Projects\M.R Traders\5.0\POS\POS.AddToCart\bin\Debug\Tim.BarcodePrinter.dll
+E:\Live Projects\M.R Traders\5.0\POS\POS.AddToCart\bin\Debug\zxing.dll
+E:\Live Projects\M.R Traders\5.0\POS\POS.AddToCart\bin\Debug\DataAccessCommon.dll
+E:\Live Projects\M.R Traders\5.0\POS\POS.AddToCart\bin\Debug\BusinessObjects.pdb
+E:\Live Projects\M.R Traders\5.0\POS\POS.AddToCart\bin\Debug\log4net.xml
+E:\Live Projects\M.R Traders\5.0\POS\POS.AddToCart\bin\Debug\MahApps.Metro.pdb
+E:\Live Projects\M.R Traders\5.0\POS\POS.AddToCart\bin\Debug\MahApps.Metro.xml
+E:\Live Projects\M.R Traders\5.0\POS\POS.AddToCart\bin\Debug\Tim.BarcodePrinter.pdb
+E:\Live Projects\M.R Traders\5.0\POS\POS.AddToCart\obj\Debug\POS.AddToCart.csprojResolveAssemblyReference.cache
+E:\Live Projects\M.R Traders\5.0\POS\POS.AddToCart\obj\Debug\POS.AddToCart.DatabaseManagement_Form.resources
+E:\Live Projects\M.R Traders\5.0\POS\POS.AddToCart\obj\Debug\POS.AddToCart.lnkCreateReg.resources
+E:\Live Projects\M.R Traders\5.0\POS\POS.AddToCart\obj\Debug\POS.AddToCart.MacAccess.resources
+E:\Live Projects\M.R Traders\5.0\POS\POS.AddToCart\obj\Debug\POS.AddToCart.MainMenu_Form.resources
+E:\Live Projects\M.R Traders\5.0\POS\POS.AddToCart\obj\Debug\POS.AddToCart.M_Category.resources
+E:\Live Projects\M.R Traders\5.0\POS\POS.AddToCart\obj\Debug\POS.AddToCart.M_Units.resources
+E:\Live Projects\M.R Traders\5.0\POS\POS.AddToCart\obj\Debug\POS.AddToCart.Properties.Resources.resources
+E:\Live Projects\M.R Traders\5.0\POS\POS.AddToCart\obj\Debug\POS.AddToCart.VIewPrinters.resources
+E:\Live Projects\M.R Traders\5.0\POS\POS.AddToCart\obj\Debug\POS.AddToCart.csproj.GenerateResource.Cache
+E:\Live Projects\M.R Traders\5.0\POS\POS.AddToCart\obj\Debug\POS.AddToCart.exe.licenses
+E:\Live Projects\M.R Traders\5.0\POS\POS.AddToCart\obj\Debug\POS.AddToCart.Form1.resources
+E:\Live Projects\M.R Traders\5.0\POS\POS.AddToCart\obj\Debug\POS.AddToCart.AddProduct.resources
+E:\Live Projects\M.R Traders\5.0\POS\POS.AddToCart\obj\Debug\POS.AddToCart.ViewProducts.resources
+E:\Live Projects\M.R Traders\5.0\POS\POS.AddToCart\obj\Debug\POS.AddToCart.FormBilling.resources
+E:\Live Projects\M.R Traders\6.1\POS\POS.AddToCart\bin\Debug\POS.AddToCart.exe.config
+E:\Live Projects\M.R Traders\6.1\POS\POS.AddToCart\obj\Debug\POS.AddToCart.exe
+E:\Live Projects\M.R Traders\6.1\POS\POS.AddToCart\obj\Debug\POS.AddToCart.pdb
+E:\Live Projects\M.R Traders\6.1\POS\POS.AddToCart\bin\Debug\POS.AddToCart.exe
+E:\Live Projects\M.R Traders\6.1\POS\POS.AddToCart\bin\Debug\POS.AddToCart.pdb
+E:\Live Projects\M.R Traders\6.1\POS\POS.AddToCart\bin\Debug\BusinessObjects.dll
+E:\Live Projects\M.R Traders\6.1\POS\POS.AddToCart\bin\Debug\JsonPrettyPrinterPlus.dll
+E:\Live Projects\M.R Traders\6.1\POS\POS.AddToCart\bin\Debug\log4net.dll
+E:\Live Projects\M.R Traders\6.1\POS\POS.AddToCart\bin\Debug\MahApps.Metro.dll
+E:\Live Projects\M.R Traders\6.1\POS\POS.AddToCart\bin\Debug\Neodynamic.SDK.ThermalLabel.dll
+E:\Live Projects\M.R Traders\6.1\POS\POS.AddToCart\bin\Debug\ObjectPrinter.dll
+E:\Live Projects\M.R Traders\6.1\POS\POS.AddToCart\bin\Debug\ObjectPrinter.Log4Net.dll
+E:\Live Projects\M.R Traders\6.1\POS\POS.AddToCart\bin\Debug\System.Windows.Interactivity.dll
+E:\Live Projects\M.R Traders\6.1\POS\POS.AddToCart\bin\Debug\Tim.BarcodePrinter.dll
+E:\Live Projects\M.R Traders\6.1\POS\POS.AddToCart\bin\Debug\zxing.dll
+E:\Live Projects\M.R Traders\6.1\POS\POS.AddToCart\bin\Debug\DataAccessCommon.dll
+E:\Live Projects\M.R Traders\6.1\POS\POS.AddToCart\bin\Debug\BusinessObjects.pdb
+E:\Live Projects\M.R Traders\6.1\POS\POS.AddToCart\bin\Debug\log4net.xml
+E:\Live Projects\M.R Traders\6.1\POS\POS.AddToCart\bin\Debug\MahApps.Metro.pdb
+E:\Live Projects\M.R Traders\6.1\POS\POS.AddToCart\bin\Debug\MahApps.Metro.xml
+E:\Live Projects\M.R Traders\6.1\POS\POS.AddToCart\bin\Debug\Tim.BarcodePrinter.pdb
+E:\Live Projects\M.R Traders\6.1\POS\POS.AddToCart\obj\Debug\POS.AddToCart.csprojResolveAssemblyReference.cache
+E:\Live Projects\M.R Traders\6.1\POS\POS.AddToCart\obj\Debug\POS.AddToCart.AddProduct.resources
+E:\Live Projects\M.R Traders\6.1\POS\POS.AddToCart\obj\Debug\POS.AddToCart.DatabaseManagement_Form.resources
+E:\Live Projects\M.R Traders\6.1\POS\POS.AddToCart\obj\Debug\POS.AddToCart.Form1.resources
+E:\Live Projects\M.R Traders\6.1\POS\POS.AddToCart\obj\Debug\POS.AddToCart.FormBilling.resources
+E:\Live Projects\M.R Traders\6.1\POS\POS.AddToCart\obj\Debug\POS.AddToCart.lnkCreateReg.resources
+E:\Live Projects\M.R Traders\6.1\POS\POS.AddToCart\obj\Debug\POS.AddToCart.MacAccess.resources
+E:\Live Projects\M.R Traders\6.1\POS\POS.AddToCart\obj\Debug\POS.AddToCart.MainMenu_Form.resources
+E:\Live Projects\M.R Traders\6.1\POS\POS.AddToCart\obj\Debug\POS.AddToCart.M_Category.resources
+E:\Live Projects\M.R Traders\6.1\POS\POS.AddToCart\obj\Debug\POS.AddToCart.Properties.Resources.resources
+E:\Live Projects\M.R Traders\6.1\POS\POS.AddToCart\obj\Debug\POS.AddToCart.VIewPrinters.resources
+E:\Live Projects\M.R Traders\6.1\POS\POS.AddToCart\obj\Debug\POS.AddToCart.ViewProducts.resources
+E:\Live Projects\M.R Traders\6.1\POS\POS.AddToCart\obj\Debug\POS.AddToCart.csproj.GenerateResource.Cache
+E:\Live Projects\M.R Traders\6.1\POS\POS.AddToCart\obj\Debug\POS.AddToCart.exe.licenses
+E:\Live Projects\M.R Traders\6.2\POS\POS.AddToCart\bin\Debug\POS.AddToCart.exe.config
+E:\Live Projects\M.R Traders\6.2\POS\POS.AddToCart\obj\Debug\POS.AddToCart.exe
+E:\Live Projects\M.R Traders\6.2\POS\POS.AddToCart\obj\Debug\POS.AddToCart.pdb
+E:\Live Projects\M.R Traders\6.2\POS\POS.AddToCart\bin\Debug\POS.AddToCart.exe
+E:\Live Projects\M.R Traders\6.2\POS\POS.AddToCart\bin\Debug\POS.AddToCart.pdb
+E:\Live Projects\M.R Traders\6.2\POS\POS.AddToCart\bin\Debug\BusinessObjects.dll
+E:\Live Projects\M.R Traders\6.2\POS\POS.AddToCart\bin\Debug\JsonPrettyPrinterPlus.dll
+E:\Live Projects\M.R Traders\6.2\POS\POS.AddToCart\bin\Debug\log4net.dll
+E:\Live Projects\M.R Traders\6.2\POS\POS.AddToCart\bin\Debug\MahApps.Metro.dll
+E:\Live Projects\M.R Traders\6.2\POS\POS.AddToCart\bin\Debug\Neodynamic.SDK.ThermalLabel.dll
+E:\Live Projects\M.R Traders\6.2\POS\POS.AddToCart\bin\Debug\ObjectPrinter.dll
+E:\Live Projects\M.R Traders\6.2\POS\POS.AddToCart\bin\Debug\ObjectPrinter.Log4Net.dll
+E:\Live Projects\M.R Traders\6.2\POS\POS.AddToCart\bin\Debug\System.Windows.Interactivity.dll
+E:\Live Projects\M.R Traders\6.2\POS\POS.AddToCart\bin\Debug\Tim.BarcodePrinter.dll
+E:\Live Projects\M.R Traders\6.2\POS\POS.AddToCart\bin\Debug\zxing.dll
+E:\Live Projects\M.R Traders\6.2\POS\POS.AddToCart\bin\Debug\DataAccessCommon.dll
+E:\Live Projects\M.R Traders\6.2\POS\POS.AddToCart\bin\Debug\BusinessObjects.pdb
+E:\Live Projects\M.R Traders\6.2\POS\POS.AddToCart\bin\Debug\log4net.xml
+E:\Live Projects\M.R Traders\6.2\POS\POS.AddToCart\bin\Debug\MahApps.Metro.pdb
+E:\Live Projects\M.R Traders\6.2\POS\POS.AddToCart\bin\Debug\MahApps.Metro.xml
+E:\Live Projects\M.R Traders\6.2\POS\POS.AddToCart\bin\Debug\Tim.BarcodePrinter.pdb
+E:\Live Projects\M.R Traders\6.2\POS\POS.AddToCart\obj\Debug\POS.AddToCart.csprojResolveAssemblyReference.cache
+E:\Live Projects\M.R Traders\6.2\POS\POS.AddToCart\obj\Debug\POS.AddToCart.AddProduct.resources
+E:\Live Projects\M.R Traders\6.2\POS\POS.AddToCart\obj\Debug\POS.AddToCart.DatabaseManagement_Form.resources
+E:\Live Projects\M.R Traders\6.2\POS\POS.AddToCart\obj\Debug\POS.AddToCart.Form1.resources
+E:\Live Projects\M.R Traders\6.2\POS\POS.AddToCart\obj\Debug\POS.AddToCart.FormBilling.resources
+E:\Live Projects\M.R Traders\6.2\POS\POS.AddToCart\obj\Debug\POS.AddToCart.lnkCreateReg.resources
+E:\Live Projects\M.R Traders\6.2\POS\POS.AddToCart\obj\Debug\POS.AddToCart.MacAccess.resources
+E:\Live Projects\M.R Traders\6.2\POS\POS.AddToCart\obj\Debug\POS.AddToCart.MainMenu_Form.resources
+E:\Live Projects\M.R Traders\6.2\POS\POS.AddToCart\obj\Debug\POS.AddToCart.M_Category.resources
+E:\Live Projects\M.R Traders\6.2\POS\POS.AddToCart\obj\Debug\POS.AddToCart.Properties.Resources.resources
+E:\Live Projects\M.R Traders\6.2\POS\POS.AddToCart\obj\Debug\POS.AddToCart.VIewPrinters.resources
+E:\Live Projects\M.R Traders\6.2\POS\POS.AddToCart\obj\Debug\POS.AddToCart.ViewProducts.resources
+E:\Live Projects\M.R Traders\6.2\POS\POS.AddToCart\obj\Debug\POS.AddToCart.csproj.GenerateResource.Cache
+E:\Live Projects\M.R Traders\6.2\POS\POS.AddToCart\obj\Debug\POS.AddToCart.exe.licenses
+E:\Live Projects\M.R Traders\Source\6.2\POS\POS.AddToCart\bin\Debug\POS.AddToCart.exe.config
+E:\Live Projects\M.R Traders\Source\6.2\POS\POS.AddToCart\bin\Debug\POS.AddToCart.exe
+E:\Live Projects\M.R Traders\Source\6.2\POS\POS.AddToCart\bin\Debug\POS.AddToCart.pdb
+E:\Live Projects\M.R Traders\Source\6.2\POS\POS.AddToCart\bin\Debug\BusinessObjects.dll
+E:\Live Projects\M.R Traders\Source\6.2\POS\POS.AddToCart\bin\Debug\JsonPrettyPrinterPlus.dll
+E:\Live Projects\M.R Traders\Source\6.2\POS\POS.AddToCart\bin\Debug\log4net.dll
+E:\Live Projects\M.R Traders\Source\6.2\POS\POS.AddToCart\bin\Debug\MahApps.Metro.dll
+E:\Live Projects\M.R Traders\Source\6.2\POS\POS.AddToCart\bin\Debug\Neodynamic.SDK.ThermalLabel.dll
+E:\Live Projects\M.R Traders\Source\6.2\POS\POS.AddToCart\bin\Debug\ObjectPrinter.dll
+E:\Live Projects\M.R Traders\Source\6.2\POS\POS.AddToCart\bin\Debug\ObjectPrinter.Log4Net.dll
+E:\Live Projects\M.R Traders\Source\6.2\POS\POS.AddToCart\bin\Debug\System.Windows.Interactivity.dll
+E:\Live Projects\M.R Traders\Source\6.2\POS\POS.AddToCart\bin\Debug\Tim.BarcodePrinter.dll
+E:\Live Projects\M.R Traders\Source\6.2\POS\POS.AddToCart\bin\Debug\zxing.dll
+E:\Live Projects\M.R Traders\Source\6.2\POS\POS.AddToCart\bin\Debug\DataAccessCommon.dll
+E:\Live Projects\M.R Traders\Source\6.2\POS\POS.AddToCart\bin\Debug\BusinessObjects.pdb
+E:\Live Projects\M.R Traders\Source\6.2\POS\POS.AddToCart\bin\Debug\log4net.xml
+E:\Live Projects\M.R Traders\Source\6.2\POS\POS.AddToCart\bin\Debug\MahApps.Metro.pdb
+E:\Live Projects\M.R Traders\Source\6.2\POS\POS.AddToCart\bin\Debug\MahApps.Metro.xml
+E:\Live Projects\M.R Traders\Source\6.2\POS\POS.AddToCart\bin\Debug\Tim.BarcodePrinter.pdb
+E:\Live Projects\M.R Traders\Source\6.2\POS\POS.AddToCart\obj\Debug\POS.AddToCart.csprojResolveAssemblyReference.cache
+E:\Live Projects\M.R Traders\Source\6.2\POS\POS.AddToCart\obj\Debug\POS.AddToCart.AddProduct.resources
+E:\Live Projects\M.R Traders\Source\6.2\POS\POS.AddToCart\obj\Debug\POS.AddToCart.DatabaseManagement_Form.resources
+E:\Live Projects\M.R Traders\Source\6.2\POS\POS.AddToCart\obj\Debug\POS.AddToCart.Form1.resources
+E:\Live Projects\M.R Traders\Source\6.2\POS\POS.AddToCart\obj\Debug\POS.AddToCart.FormBilling.resources
+E:\Live Projects\M.R Traders\Source\6.2\POS\POS.AddToCart\obj\Debug\POS.AddToCart.MainMenu_Form.resources
+E:\Live Projects\M.R Traders\Source\6.2\POS\POS.AddToCart\obj\Debug\POS.AddToCart.M_Category.resources
+E:\Live Projects\M.R Traders\Source\6.2\POS\POS.AddToCart\obj\Debug\POS.AddToCart.Properties.Resources.resources
+E:\Live Projects\M.R Traders\Source\6.2\POS\POS.AddToCart\obj\Debug\POS.AddToCart.VIewPrinters.resources
+E:\Live Projects\M.R Traders\Source\6.2\POS\POS.AddToCart\obj\Debug\POS.AddToCart.ViewProducts.resources
+E:\Live Projects\M.R Traders\Source\6.2\POS\POS.AddToCart\obj\Debug\POS.AddToCart.csproj.GenerateResource.Cache
+E:\Live Projects\M.R Traders\Source\6.2\POS\POS.AddToCart\obj\Debug\POS.AddToCart.exe.licenses
+E:\Live Projects\M.R Traders\Source\6.2\POS\POS.AddToCart\obj\Debug\POS.AddToCart.exe
+E:\Live Projects\M.R Traders\Source\6.2\POS\POS.AddToCart\obj\Debug\POS.AddToCart.pdb
+K:\C# App Shina\7.0\6.3\POS\POS.AddToCart\bin\Debug\POS.AddToCart.exe.config
+K:\C# App Shina\7.0\6.3\POS\POS.AddToCart\obj\Debug\POS.AddToCart.exe
+K:\C# App Shina\7.0\6.3\POS\POS.AddToCart\obj\Debug\POS.AddToCart.pdb
+K:\C# App Shina\7.0\6.3\POS\POS.AddToCart\bin\Debug\POS.AddToCart.exe
+K:\C# App Shina\7.0\6.3\POS\POS.AddToCart\bin\Debug\POS.AddToCart.pdb
+K:\C# App Shina\7.0\6.3\POS\POS.AddToCart\bin\Debug\BusinessObjects.dll
+K:\C# App Shina\7.0\6.3\POS\POS.AddToCart\bin\Debug\JsonPrettyPrinterPlus.dll
+K:\C# App Shina\7.0\6.3\POS\POS.AddToCart\bin\Debug\log4net.dll
+K:\C# App Shina\7.0\6.3\POS\POS.AddToCart\bin\Debug\MahApps.Metro.dll
+K:\C# App Shina\7.0\6.3\POS\POS.AddToCart\bin\Debug\Neodynamic.SDK.ThermalLabel.dll
+K:\C# App Shina\7.0\6.3\POS\POS.AddToCart\bin\Debug\ObjectPrinter.dll
+K:\C# App Shina\7.0\6.3\POS\POS.AddToCart\bin\Debug\ObjectPrinter.Log4Net.dll
+K:\C# App Shina\7.0\6.3\POS\POS.AddToCart\bin\Debug\System.Windows.Interactivity.dll
+K:\C# App Shina\7.0\6.3\POS\POS.AddToCart\bin\Debug\Tim.BarcodePrinter.dll
+K:\C# App Shina\7.0\6.3\POS\POS.AddToCart\bin\Debug\zxing.dll
+K:\C# App Shina\7.0\6.3\POS\POS.AddToCart\bin\Debug\DataAccessCommon.dll
+K:\C# App Shina\7.0\6.3\POS\POS.AddToCart\bin\Debug\BusinessObjects.pdb
+K:\C# App Shina\7.0\6.3\POS\POS.AddToCart\bin\Debug\log4net.xml
+K:\C# App Shina\7.0\6.3\POS\POS.AddToCart\bin\Debug\MahApps.Metro.pdb
+K:\C# App Shina\7.0\6.3\POS\POS.AddToCart\bin\Debug\MahApps.Metro.xml
+K:\C# App Shina\7.0\6.3\POS\POS.AddToCart\bin\Debug\Tim.BarcodePrinter.pdb
+K:\C# App Shina\7.0\6.3\POS\POS.AddToCart\obj\Debug\POS.AddToCart.csprojResolveAssemblyReference.cache
+K:\C# App Shina\7.0\6.3\POS\POS.AddToCart\obj\Debug\POS.AddToCart.AddProduct.resources
+K:\C# App Shina\7.0\6.3\POS\POS.AddToCart\obj\Debug\POS.AddToCart.DatabaseManagement_Form.resources
+K:\C# App Shina\7.0\6.3\POS\POS.AddToCart\obj\Debug\POS.AddToCart.Form1.resources
+K:\C# App Shina\7.0\6.3\POS\POS.AddToCart\obj\Debug\POS.AddToCart.FormBilling.resources
+K:\C# App Shina\7.0\6.3\POS\POS.AddToCart\obj\Debug\POS.AddToCart.M_Category.resources
+K:\C# App Shina\7.0\6.3\POS\POS.AddToCart\obj\Debug\POS.AddToCart.Properties.Resources.resources
+K:\C# App Shina\7.0\6.3\POS\POS.AddToCart\obj\Debug\POS.AddToCart.VIewPrinters.resources
+K:\C# App Shina\7.0\6.3\POS\POS.AddToCart\obj\Debug\POS.AddToCart.ViewProducts.resources
+K:\C# App Shina\7.0\6.3\POS\POS.AddToCart\obj\Debug\POS.AddToCart.csproj.GenerateResource.Cache
+K:\C# App Shina\7.0\6.3\POS\POS.AddToCart\obj\Debug\POS.AddToCart.exe.licenses
+K:\C# App Shina\7.0\6.3\POS\POS.AddToCart\obj\Debug\POS.AddToCart.Form2.resources
+K:\C# App Shina\7.0\POS\POS.AddToCart\bin\Debug\POS.AddToCart.exe.config
+K:\C# App Shina\7.0\POS\POS.AddToCart\bin\Debug\POS.AddToCart.exe
+K:\C# App Shina\7.0\POS\POS.AddToCart\bin\Debug\POS.AddToCart.pdb
+K:\C# App Shina\7.0\POS\POS.AddToCart\bin\Debug\BusinessObjects.dll
+K:\C# App Shina\7.0\POS\POS.AddToCart\bin\Debug\JsonPrettyPrinterPlus.dll
+K:\C# App Shina\7.0\POS\POS.AddToCart\bin\Debug\log4net.dll
+K:\C# App Shina\7.0\POS\POS.AddToCart\bin\Debug\MahApps.Metro.dll
+K:\C# App Shina\7.0\POS\POS.AddToCart\bin\Debug\Neodynamic.SDK.ThermalLabel.dll
+K:\C# App Shina\7.0\POS\POS.AddToCart\bin\Debug\ObjectPrinter.dll
+K:\C# App Shina\7.0\POS\POS.AddToCart\bin\Debug\ObjectPrinter.Log4Net.dll
+K:\C# App Shina\7.0\POS\POS.AddToCart\bin\Debug\System.Windows.Interactivity.dll
+K:\C# App Shina\7.0\POS\POS.AddToCart\bin\Debug\Tim.BarcodePrinter.dll
+K:\C# App Shina\7.0\POS\POS.AddToCart\bin\Debug\zxing.dll
+K:\C# App Shina\7.0\POS\POS.AddToCart\bin\Debug\DataAccessCommon.dll
+K:\C# App Shina\7.0\POS\POS.AddToCart\bin\Debug\BusinessObjects.pdb
+K:\C# App Shina\7.0\POS\POS.AddToCart\bin\Debug\log4net.xml
+K:\C# App Shina\7.0\POS\POS.AddToCart\bin\Debug\MahApps.Metro.pdb
+K:\C# App Shina\7.0\POS\POS.AddToCart\bin\Debug\MahApps.Metro.xml
+K:\C# App Shina\7.0\POS\POS.AddToCart\bin\Debug\Tim.BarcodePrinter.pdb
+K:\C# App Shina\7.0\POS\POS.AddToCart\obj\Debug\POS.AddToCart.csprojResolveAssemblyReference.cache
+K:\C# App Shina\7.0\POS\POS.AddToCart\obj\Debug\POS.AddToCart.AddProduct.resources
+K:\C# App Shina\7.0\POS\POS.AddToCart\obj\Debug\POS.AddToCart.DatabaseManagement_Form.resources
+K:\C# App Shina\7.0\POS\POS.AddToCart\obj\Debug\POS.AddToCart.Form1.resources
+K:\C# App Shina\7.0\POS\POS.AddToCart\obj\Debug\POS.AddToCart.Form2.resources
+K:\C# App Shina\7.0\POS\POS.AddToCart\obj\Debug\POS.AddToCart.FormBilling.resources
+K:\C# App Shina\7.0\POS\POS.AddToCart\obj\Debug\POS.AddToCart.M_Category.resources
+K:\C# App Shina\7.0\POS\POS.AddToCart\obj\Debug\POS.AddToCart.Properties.Resources.resources
+K:\C# App Shina\7.0\POS\POS.AddToCart\obj\Debug\POS.AddToCart.VIewPrinters.resources
+K:\C# App Shina\7.0\POS\POS.AddToCart\obj\Debug\POS.AddToCart.ViewProducts.resources
+K:\C# App Shina\7.0\POS\POS.AddToCart\obj\Debug\POS.AddToCart.csproj.GenerateResource.Cache
+K:\C# App Shina\7.0\POS\POS.AddToCart\obj\Debug\POS.AddToCart.exe.licenses
+K:\C# App Shina\7.0\POS\POS.AddToCart\obj\Debug\POS.AddToCart.exe
+K:\C# App Shina\7.0\POS\POS.AddToCart\obj\Debug\POS.AddToCart.pdb
+K:\C# App Shina\7.0\Copy\POS\POS.AddToCart\bin\Debug\POS.AddToCart.exe.config
+K:\C# App Shina\7.0\Copy\POS\POS.AddToCart\obj\Debug\POS.AddToCart.exe
+K:\C# App Shina\7.0\Copy\POS\POS.AddToCart\obj\Debug\POS.AddToCart.pdb
+K:\C# App Shina\7.0\Copy\POS\POS.AddToCart\bin\Debug\POS.AddToCart.exe
+K:\C# App Shina\7.0\Copy\POS\POS.AddToCart\bin\Debug\POS.AddToCart.pdb
+K:\C# App Shina\7.0\Copy\POS\POS.AddToCart\bin\Debug\BusinessObjects.dll
+K:\C# App Shina\7.0\Copy\POS\POS.AddToCart\bin\Debug\JsonPrettyPrinterPlus.dll
+K:\C# App Shina\7.0\Copy\POS\POS.AddToCart\bin\Debug\log4net.dll
+K:\C# App Shina\7.0\Copy\POS\POS.AddToCart\bin\Debug\MahApps.Metro.dll
+K:\C# App Shina\7.0\Copy\POS\POS.AddToCart\bin\Debug\Neodynamic.SDK.ThermalLabel.dll
+K:\C# App Shina\7.0\Copy\POS\POS.AddToCart\bin\Debug\ObjectPrinter.dll
+K:\C# App Shina\7.0\Copy\POS\POS.AddToCart\bin\Debug\ObjectPrinter.Log4Net.dll
+K:\C# App Shina\7.0\Copy\POS\POS.AddToCart\bin\Debug\System.Windows.Interactivity.dll
+K:\C# App Shina\7.0\Copy\POS\POS.AddToCart\bin\Debug\Tim.BarcodePrinter.dll
+K:\C# App Shina\7.0\Copy\POS\POS.AddToCart\bin\Debug\zxing.dll
+K:\C# App Shina\7.0\Copy\POS\POS.AddToCart\bin\Debug\DataAccessCommon.dll
+K:\C# App Shina\7.0\Copy\POS\POS.AddToCart\bin\Debug\BusinessObjects.pdb
+K:\C# App Shina\7.0\Copy\POS\POS.AddToCart\bin\Debug\log4net.xml
+K:\C# App Shina\7.0\Copy\POS\POS.AddToCart\bin\Debug\MahApps.Metro.pdb
+K:\C# App Shina\7.0\Copy\POS\POS.AddToCart\bin\Debug\MahApps.Metro.xml
+K:\C# App Shina\7.0\Copy\POS\POS.AddToCart\bin\Debug\Tim.BarcodePrinter.pdb
+K:\C# App Shina\7.0\Copy\POS\POS.AddToCart\obj\Debug\POS.AddToCart.csprojResolveAssemblyReference.cache
+K:\C# App Shina\7.0\Copy\POS\POS.AddToCart\obj\Debug\POS.AddToCart.AddProduct.resources
+K:\C# App Shina\7.0\Copy\POS\POS.AddToCart\obj\Debug\POS.AddToCart.DatabaseManagement_Form.resources
+K:\C# App Shina\7.0\Copy\POS\POS.AddToCart\obj\Debug\POS.AddToCart.Form1.resources
+K:\C# App Shina\7.0\Copy\POS\POS.AddToCart\obj\Debug\POS.AddToCart.Form2.resources
+K:\C# App Shina\7.0\Copy\POS\POS.AddToCart\obj\Debug\POS.AddToCart.FormBilling.resources
+K:\C# App Shina\7.0\Copy\POS\POS.AddToCart\obj\Debug\POS.AddToCart.M_Category.resources
+K:\C# App Shina\7.0\Copy\POS\POS.AddToCart\obj\Debug\POS.AddToCart.Properties.Resources.resources
+K:\C# App Shina\7.0\Copy\POS\POS.AddToCart\obj\Debug\POS.AddToCart.VIewPrinters.resources
+K:\C# App Shina\7.0\Copy\POS\POS.AddToCart\obj\Debug\POS.AddToCart.ViewProducts.resources
+K:\C# App Shina\7.0\Copy\POS\POS.AddToCart\obj\Debug\POS.AddToCart.csproj.GenerateResource.Cache
+K:\C# App Shina\7.0\Copy\POS\POS.AddToCart\obj\Debug\POS.AddToCart.exe.licenses
+K:\C# App Shina\7.1\Copy of 7.1\POS\POS.AddToCart\bin\Debug\POS.AddToCart.exe.config
+K:\C# App Shina\7.1\Copy of 7.1\POS\POS.AddToCart\obj\Debug\POS.AddToCart.exe
+K:\C# App Shina\7.1\Copy of 7.1\POS\POS.AddToCart\obj\Debug\POS.AddToCart.pdb
+K:\C# App Shina\7.1\Copy of 7.1\POS\POS.AddToCart\bin\Debug\POS.AddToCart.exe
+K:\C# App Shina\7.1\Copy of 7.1\POS\POS.AddToCart\bin\Debug\POS.AddToCart.pdb
+K:\C# App Shina\7.1\Copy of 7.1\POS\POS.AddToCart\bin\Debug\BusinessObjects.dll
+K:\C# App Shina\7.1\Copy of 7.1\POS\POS.AddToCart\bin\Debug\JsonPrettyPrinterPlus.dll
+K:\C# App Shina\7.1\Copy of 7.1\POS\POS.AddToCart\bin\Debug\log4net.dll
+K:\C# App Shina\7.1\Copy of 7.1\POS\POS.AddToCart\bin\Debug\MahApps.Metro.dll
+K:\C# App Shina\7.1\Copy of 7.1\POS\POS.AddToCart\bin\Debug\Neodynamic.SDK.ThermalLabel.dll
+K:\C# App Shina\7.1\Copy of 7.1\POS\POS.AddToCart\bin\Debug\ObjectPrinter.dll
+K:\C# App Shina\7.1\Copy of 7.1\POS\POS.AddToCart\bin\Debug\ObjectPrinter.Log4Net.dll
+K:\C# App Shina\7.1\Copy of 7.1\POS\POS.AddToCart\bin\Debug\System.Windows.Interactivity.dll
+K:\C# App Shina\7.1\Copy of 7.1\POS\POS.AddToCart\bin\Debug\Tim.BarcodePrinter.dll
+K:\C# App Shina\7.1\Copy of 7.1\POS\POS.AddToCart\bin\Debug\zxing.dll
+K:\C# App Shina\7.1\Copy of 7.1\POS\POS.AddToCart\bin\Debug\DataAccessCommon.dll
+K:\C# App Shina\7.1\Copy of 7.1\POS\POS.AddToCart\bin\Debug\BusinessObjects.pdb
+K:\C# App Shina\7.1\Copy of 7.1\POS\POS.AddToCart\bin\Debug\log4net.xml
+K:\C# App Shina\7.1\Copy of 7.1\POS\POS.AddToCart\bin\Debug\MahApps.Metro.pdb
+K:\C# App Shina\7.1\Copy of 7.1\POS\POS.AddToCart\bin\Debug\MahApps.Metro.xml
+K:\C# App Shina\7.1\Copy of 7.1\POS\POS.AddToCart\bin\Debug\Tim.BarcodePrinter.pdb
+K:\C# App Shina\7.1\Copy of 7.1\POS\POS.AddToCart\obj\Debug\POS.AddToCart.csprojResolveAssemblyReference.cache
+K:\C# App Shina\7.1\Copy of 7.1\POS\POS.AddToCart\obj\Debug\POS.AddToCart.AddProduct.resources
+K:\C# App Shina\7.1\Copy of 7.1\POS\POS.AddToCart\obj\Debug\POS.AddToCart.DatabaseManagement_Form.resources
+K:\C# App Shina\7.1\Copy of 7.1\POS\POS.AddToCart\obj\Debug\POS.AddToCart.Form1.resources
+K:\C# App Shina\7.1\Copy of 7.1\POS\POS.AddToCart\obj\Debug\POS.AddToCart.Form2.resources
+K:\C# App Shina\7.1\Copy of 7.1\POS\POS.AddToCart\obj\Debug\POS.AddToCart.FormBilling.resources
+K:\C# App Shina\7.1\Copy of 7.1\POS\POS.AddToCart\obj\Debug\POS.AddToCart.M_Category.resources
+K:\C# App Shina\7.1\Copy of 7.1\POS\POS.AddToCart\obj\Debug\POS.AddToCart.Properties.Resources.resources
+K:\C# App Shina\7.1\Copy of 7.1\POS\POS.AddToCart\obj\Debug\POS.AddToCart.VIewPrinters.resources
+K:\C# App Shina\7.1\Copy of 7.1\POS\POS.AddToCart\obj\Debug\POS.AddToCart.ViewProducts.resources
+K:\C# App Shina\7.1\Copy of 7.1\POS\POS.AddToCart\obj\Debug\POS.AddToCart.csproj.GenerateResource.Cache
+K:\C# App Shina\7.1\Copy of 7.1\POS\POS.AddToCart\obj\Debug\POS.AddToCart.exe.licenses
+E:\Live Projects\M.R Traders\Source\6.5\POS\POS.AddToCart\bin\Debug\POS.AddToCart.exe.config
+E:\Live Projects\M.R Traders\Source\6.5\POS\POS.AddToCart\obj\Debug\POS.AddToCart.exe
+E:\Live Projects\M.R Traders\Source\6.5\POS\POS.AddToCart\obj\Debug\POS.AddToCart.pdb
+E:\Live Projects\M.R Traders\Source\6.5\POS\POS.AddToCart\bin\Debug\POS.AddToCart.exe
+E:\Live Projects\M.R Traders\Source\6.5\POS\POS.AddToCart\bin\Debug\POS.AddToCart.pdb
+E:\Live Projects\M.R Traders\Source\6.5\POS\POS.AddToCart\bin\Debug\BusinessObjects.dll
+E:\Live Projects\M.R Traders\Source\6.5\POS\POS.AddToCart\bin\Debug\JsonPrettyPrinterPlus.dll
+E:\Live Projects\M.R Traders\Source\6.5\POS\POS.AddToCart\bin\Debug\log4net.dll
+E:\Live Projects\M.R Traders\Source\6.5\POS\POS.AddToCart\bin\Debug\MahApps.Metro.dll
+E:\Live Projects\M.R Traders\Source\6.5\POS\POS.AddToCart\bin\Debug\Neodynamic.SDK.ThermalLabel.dll
+E:\Live Projects\M.R Traders\Source\6.5\POS\POS.AddToCart\bin\Debug\ObjectPrinter.dll
+E:\Live Projects\M.R Traders\Source\6.5\POS\POS.AddToCart\bin\Debug\ObjectPrinter.Log4Net.dll
+E:\Live Projects\M.R Traders\Source\6.5\POS\POS.AddToCart\bin\Debug\System.Windows.Interactivity.dll
+E:\Live Projects\M.R Traders\Source\6.5\POS\POS.AddToCart\bin\Debug\Tim.BarcodePrinter.dll
+E:\Live Projects\M.R Traders\Source\6.5\POS\POS.AddToCart\bin\Debug\zxing.dll
+E:\Live Projects\M.R Traders\Source\6.5\POS\POS.AddToCart\bin\Debug\DataAccessCommon.dll
+E:\Live Projects\M.R Traders\Source\6.5\POS\POS.AddToCart\bin\Debug\BusinessObjects.pdb
+E:\Live Projects\M.R Traders\Source\6.5\POS\POS.AddToCart\bin\Debug\log4net.xml
+E:\Live Projects\M.R Traders\Source\6.5\POS\POS.AddToCart\bin\Debug\MahApps.Metro.pdb
+E:\Live Projects\M.R Traders\Source\6.5\POS\POS.AddToCart\bin\Debug\MahApps.Metro.xml
+E:\Live Projects\M.R Traders\Source\6.5\POS\POS.AddToCart\bin\Debug\Tim.BarcodePrinter.pdb
+E:\Live Projects\M.R Traders\Source\6.5\POS\POS.AddToCart\obj\Debug\POS.AddToCart.csprojResolveAssemblyReference.cache
+E:\Live Projects\M.R Traders\Source\6.5\POS\POS.AddToCart\obj\Debug\POS.AddToCart.AddProduct.resources
+E:\Live Projects\M.R Traders\Source\6.5\POS\POS.AddToCart\obj\Debug\POS.AddToCart.DatabaseManagement_Form.resources
+E:\Live Projects\M.R Traders\Source\6.5\POS\POS.AddToCart\obj\Debug\POS.AddToCart.Form1.resources
+E:\Live Projects\M.R Traders\Source\6.5\POS\POS.AddToCart\obj\Debug\POS.AddToCart.Form2.resources
+E:\Live Projects\M.R Traders\Source\6.5\POS\POS.AddToCart\obj\Debug\POS.AddToCart.FormBilling.resources
+E:\Live Projects\M.R Traders\Source\6.5\POS\POS.AddToCart\obj\Debug\POS.AddToCart.M_Category.resources
+E:\Live Projects\M.R Traders\Source\6.5\POS\POS.AddToCart\obj\Debug\POS.AddToCart.Properties.Resources.resources
+E:\Live Projects\M.R Traders\Source\6.5\POS\POS.AddToCart\obj\Debug\POS.AddToCart.VIewPrinters.resources
+E:\Live Projects\M.R Traders\Source\6.5\POS\POS.AddToCart\obj\Debug\POS.AddToCart.ViewProducts.resources
+E:\Live Projects\M.R Traders\Source\6.5\POS\POS.AddToCart\obj\Debug\POS.AddToCart.csproj.GenerateResource.Cache
+E:\Live Projects\M.R Traders\Source\6.5\POS\POS.AddToCart\obj\Debug\POS.AddToCart.exe.licenses
+E:\Live Projects\M.R Traders\Source\6.5\POS\POS.AddToCart\obj\Debug\POS.AddToCart.MainMenu_Form.resources
+K:\C# App Shina\7.1\7.2\POS\POS.AddToCart\bin\Debug\POS.AddToCart.exe.config
+K:\C# App Shina\7.1\7.2\POS\POS.AddToCart\obj\Debug\POS.AddToCart.exe
+K:\C# App Shina\7.1\7.2\POS\POS.AddToCart\obj\Debug\POS.AddToCart.pdb
+K:\C# App Shina\7.1\7.2\POS\POS.AddToCart\bin\Debug\POS.AddToCart.exe
+K:\C# App Shina\7.1\7.2\POS\POS.AddToCart\bin\Debug\POS.AddToCart.pdb
+K:\C# App Shina\7.1\7.2\POS\POS.AddToCart\bin\Debug\BusinessObjects.dll
+K:\C# App Shina\7.1\7.2\POS\POS.AddToCart\bin\Debug\JsonPrettyPrinterPlus.dll
+K:\C# App Shina\7.1\7.2\POS\POS.AddToCart\bin\Debug\log4net.dll
+K:\C# App Shina\7.1\7.2\POS\POS.AddToCart\bin\Debug\MahApps.Metro.dll
+K:\C# App Shina\7.1\7.2\POS\POS.AddToCart\bin\Debug\Neodynamic.SDK.ThermalLabel.dll
+K:\C# App Shina\7.1\7.2\POS\POS.AddToCart\bin\Debug\ObjectPrinter.dll
+K:\C# App Shina\7.1\7.2\POS\POS.AddToCart\bin\Debug\ObjectPrinter.Log4Net.dll
+K:\C# App Shina\7.1\7.2\POS\POS.AddToCart\bin\Debug\System.Windows.Interactivity.dll
+K:\C# App Shina\7.1\7.2\POS\POS.AddToCart\bin\Debug\Tim.BarcodePrinter.dll
+K:\C# App Shina\7.1\7.2\POS\POS.AddToCart\bin\Debug\zxing.dll
+K:\C# App Shina\7.1\7.2\POS\POS.AddToCart\bin\Debug\DataAccessCommon.dll
+K:\C# App Shina\7.1\7.2\POS\POS.AddToCart\bin\Debug\BusinessObjects.pdb
+K:\C# App Shina\7.1\7.2\POS\POS.AddToCart\bin\Debug\log4net.xml
+K:\C# App Shina\7.1\7.2\POS\POS.AddToCart\bin\Debug\MahApps.Metro.pdb
+K:\C# App Shina\7.1\7.2\POS\POS.AddToCart\bin\Debug\MahApps.Metro.xml
+K:\C# App Shina\7.1\7.2\POS\POS.AddToCart\bin\Debug\Tim.BarcodePrinter.pdb
+K:\C# App Shina\7.1\7.2\POS\POS.AddToCart\obj\Debug\POS.AddToCart.csprojResolveAssemblyReference.cache
+K:\C# App Shina\7.1\7.2\POS\POS.AddToCart\obj\Debug\POS.AddToCart.AddProduct.resources
+K:\C# App Shina\7.1\7.2\POS\POS.AddToCart\obj\Debug\POS.AddToCart.DatabaseManagement_Form.resources
+K:\C# App Shina\7.1\7.2\POS\POS.AddToCart\obj\Debug\POS.AddToCart.Form1.resources
+K:\C# App Shina\7.1\7.2\POS\POS.AddToCart\obj\Debug\POS.AddToCart.Form2.resources
+K:\C# App Shina\7.1\7.2\POS\POS.AddToCart\obj\Debug\POS.AddToCart.FormBilling.resources
+K:\C# App Shina\7.1\7.2\POS\POS.AddToCart\obj\Debug\POS.AddToCart.MainMenu_Form.resources
+K:\C# App Shina\7.1\7.2\POS\POS.AddToCart\obj\Debug\POS.AddToCart.M_Category.resources
+K:\C# App Shina\7.1\7.2\POS\POS.AddToCart\obj\Debug\POS.AddToCart.Properties.Resources.resources
+K:\C# App Shina\7.1\7.2\POS\POS.AddToCart\obj\Debug\POS.AddToCart.VIewPrinters.resources
+K:\C# App Shina\7.1\7.2\POS\POS.AddToCart\obj\Debug\POS.AddToCart.ViewProducts.resources
+K:\C# App Shina\7.1\7.2\POS\POS.AddToCart\obj\Debug\POS.AddToCart.csproj.GenerateResource.Cache
+K:\C# App Shina\7.1\7.2\POS\POS.AddToCart\obj\Debug\POS.AddToCart.exe.licenses
+K:\FutureSoft POS\wITHOUT mETRO\POS\POS.AddToCart\obj\Debug\POS.AddToCart.AddProduct.resources
+K:\FutureSoft POS\wITHOUT mETRO\POS\POS.AddToCart\obj\Debug\POS.AddToCart.AddStock.resources
+K:\FutureSoft POS\wITHOUT mETRO\POS\POS.AddToCart\obj\Debug\POS.AddToCart.DatabaseManagement_Form.resources
+K:\FutureSoft POS\wITHOUT mETRO\POS\POS.AddToCart\obj\Debug\POS.AddToCart.Form2.resources
+K:\FutureSoft POS\wITHOUT mETRO\POS\POS.AddToCart\obj\Debug\POS.AddToCart.Form3.resources
+K:\FutureSoft POS\wITHOUT mETRO\POS\POS.AddToCart\obj\Debug\POS.AddToCart.FormBilling.resources
+K:\FutureSoft POS\wITHOUT mETRO\POS\POS.AddToCart\obj\Debug\POS.AddToCart.inti.resources
+K:\FutureSoft POS\wITHOUT mETRO\POS\POS.AddToCart\obj\Debug\POS.AddToCart.loading.resources
+K:\FutureSoft POS\wITHOUT mETRO\POS\POS.AddToCart\obj\Debug\POS.AddToCart.Login.resources
+K:\FutureSoft POS\wITHOUT mETRO\POS\POS.AddToCart\obj\Debug\POS.AddToCart.MainMenu_Form.resources
+K:\FutureSoft POS\wITHOUT mETRO\POS\POS.AddToCart\obj\Debug\POS.AddToCart.ManageStock.resources
+K:\FutureSoft POS\wITHOUT mETRO\POS\POS.AddToCart\obj\Debug\POS.AddToCart.manage_Stock.resources
+K:\FutureSoft POS\wITHOUT mETRO\POS\POS.AddToCart\obj\Debug\POS.AddToCart.M_Category.resources
+K:\FutureSoft POS\wITHOUT mETRO\POS\POS.AddToCart\obj\Debug\POS.AddToCart.Properties.Resources.resources
+K:\FutureSoft POS\wITHOUT mETRO\POS\POS.AddToCart\obj\Debug\POS.AddToCart.StartUp.resources
+K:\FutureSoft POS\wITHOUT mETRO\POS\POS.AddToCart\obj\Debug\POS.AddToCart.StockReturn.resources
+K:\FutureSoft POS\wITHOUT mETRO\POS\POS.AddToCart\obj\Debug\POS.AddToCart.TestForm.resources
+K:\FutureSoft POS\wITHOUT mETRO\POS\POS.AddToCart\obj\Debug\POS.AddToCart.View_Dercription.resources
+K:\FutureSoft POS\wITHOUT mETRO\POS\POS.AddToCart\obj\Debug\POS.AddToCart.ViewCart.resources
+K:\FutureSoft POS\wITHOUT mETRO\POS\POS.AddToCart\obj\Debug\POS.AddToCart.VIewPrinters.resources
+K:\FutureSoft POS\wITHOUT mETRO\POS\POS.AddToCart\obj\Debug\POS.AddToCart.ViewProducts.resources
+K:\FutureSoft POS\wITHOUT mETRO\POS\POS.AddToCart\obj\Debug\POS.AddToCart.View_Stock.resources
+K:\FutureSoft POS\wITHOUT mETRO\POS\POS.AddToCart\obj\Debug\POS.AddToCart.csproj.GenerateResource.Cache
+K:\FutureSoft POS\wITHOUT mETRO\POS\POS.AddToCart\obj\Debug\POS.AddToCart.exe.licenses
+K:\FutureSoft POS\wITHOUT mETRO\POS\POS.AddToCart\bin\Debug\POS.AddToCart.exe.config
+K:\FutureSoft POS\wITHOUT mETRO\POS\POS.AddToCart\bin\Debug\POS.AddToCart.exe
+K:\FutureSoft POS\wITHOUT mETRO\POS\POS.AddToCart\bin\Debug\POS.AddToCart.pdb
+K:\FutureSoft POS\wITHOUT mETRO\POS\POS.AddToCart\bin\Debug\BusinessObjects.dll
+K:\FutureSoft POS\wITHOUT mETRO\POS\POS.AddToCart\bin\Debug\JsonPrettyPrinterPlus.dll
+K:\FutureSoft POS\wITHOUT mETRO\POS\POS.AddToCart\bin\Debug\log4net.dll
+K:\FutureSoft POS\wITHOUT mETRO\POS\POS.AddToCart\bin\Debug\MahApps.Metro.dll
+K:\FutureSoft POS\wITHOUT mETRO\POS\POS.AddToCart\bin\Debug\Neodynamic.SDK.ThermalLabel.dll
+K:\FutureSoft POS\wITHOUT mETRO\POS\POS.AddToCart\bin\Debug\ObjectPrinter.dll
+K:\FutureSoft POS\wITHOUT mETRO\POS\POS.AddToCart\bin\Debug\ObjectPrinter.Log4Net.dll
+K:\FutureSoft POS\wITHOUT mETRO\POS\POS.AddToCart\bin\Debug\System.Windows.Interactivity.dll
+K:\FutureSoft POS\wITHOUT mETRO\POS\POS.AddToCart\bin\Debug\Tim.BarcodePrinter.dll
+K:\FutureSoft POS\wITHOUT mETRO\POS\POS.AddToCart\bin\Debug\zxing.dll
+K:\FutureSoft POS\wITHOUT mETRO\POS\POS.AddToCart\bin\Debug\DataAccessCommon.dll
+K:\FutureSoft POS\wITHOUT mETRO\POS\POS.AddToCart\bin\Debug\BusinessObjects.pdb
+K:\FutureSoft POS\wITHOUT mETRO\POS\POS.AddToCart\bin\Debug\log4net.xml
+K:\FutureSoft POS\wITHOUT mETRO\POS\POS.AddToCart\bin\Debug\MahApps.Metro.pdb
+K:\FutureSoft POS\wITHOUT mETRO\POS\POS.AddToCart\bin\Debug\MahApps.Metro.xml
+K:\FutureSoft POS\wITHOUT mETRO\POS\POS.AddToCart\bin\Debug\Tim.BarcodePrinter.pdb
+K:\FutureSoft POS\wITHOUT mETRO\POS\POS.AddToCart\obj\Debug\POS.AddToCart.csprojResolveAssemblyReference.cache
+K:\FutureSoft POS\wITHOUT mETRO\POS\POS.AddToCart\obj\Debug\POS.AddToCart.exe
+K:\FutureSoft POS\wITHOUT mETRO\POS\POS.AddToCart\obj\Debug\POS.AddToCart.pdb
+K:\FutureSoft POS\wITHOUT mETRO\POS\POS.AddToCart\obj\Debug\POS.AddToCart.Report_Sales.resources
+K:\FutureSoft POS\wITHOUT mETRO\POS\POS.AddToCart\obj\Debug\RdlCompile.cache
+K:\FutureSoft POS\wITHOUT mETRO\POS\POS.AddToCart\obj\Debug\RdlCompile.compiled
+K:\FutureSoft POS\wITHOUT mETRO\POS\POS.AddToCart\obj\Debug\POS.AddToCart.BillPrint.resources
+K:\FutureSoft POS\wITHOUT mETRO\POS\POS.AddToCart\obj\Debug\POS.AddToCart.Stock_Report.resources
+K:\FutureSoft POS\wITHOUT mETRO\POS\POS.AddToCart\obj\Debug\POS.AddToCart.Stock_Update.resources
+K:\FutureSoft POS\wITHOUT mETRO\POS\POS.AddToCart\obj\Debug\POS.AddToCart.ViewStockUpdate.resources
+K:\FutureSoft POS\wITHOUT mETRO\POS\POS.AddToCart\obj\Debug\POS.AddToCart.ViewSales.resources
+K:\FutureSoft POS\wITHOUT mETRO\POS\POS.AddToCart\obj\Debug\POS.AddToCart.View_Sales_Product.resources
+K:\FutureSoft POS\wITHOUT mETRO\POS\POS.AddToCart\obj\Debug\POS.AddToCart.Manage_Creditors.resources
+K:\FutureSoft POS\wITHOUT mETRO\POS\POS.AddToCart\obj\Debug\POS.AddToCart.Edit_Credit.resources
+K:\FutureSoft POS\wITHOUT mETRO\POS\POS.AddToCart\obj\Debug\POS.AddToCart.UserManage.resources
+K:\FutureSoft POS\wITHOUT mETRO\POS\POS.AddToCart\obj\Debug\POS.AddToCart.Form1Old.resources
+K:\FutureSoft POS\wITHOUT mETRO\POS\POS.AddToCart\obj\Debug\POS.AddToCart.Test2.resources
+C:\Users\Siraboy\Desktop\POS\POS.AddToCart\bin\Debug\POS.AddToCart.exe.config
+C:\Users\Siraboy\Desktop\POS\POS.AddToCart\obj\Debug\POS.AddToCart.exe
+C:\Users\Siraboy\Desktop\POS\POS.AddToCart\obj\Debug\POS.AddToCart.pdb
+C:\Users\Siraboy\Desktop\POS\POS.AddToCart\obj\Debug\POS.AddToCart.csprojResolveAssemblyReference.cache
+C:\Users\Siraboy\Desktop\POS\POS.AddToCart\obj\Debug\POS.AddToCart.AddProduct.resources
+C:\Users\Siraboy\Desktop\POS\POS.AddToCart\obj\Debug\POS.AddToCart.AddStock.resources
+C:\Users\Siraboy\Desktop\POS\POS.AddToCart\obj\Debug\POS.AddToCart.BillPrint.resources
+C:\Users\Siraboy\Desktop\POS\POS.AddToCart\obj\Debug\POS.AddToCart.DatabaseManagement_Form.resources
+C:\Users\Siraboy\Desktop\POS\POS.AddToCart\obj\Debug\POS.AddToCart.Edit_Credit.resources
+C:\Users\Siraboy\Desktop\POS\POS.AddToCart\obj\Debug\POS.AddToCart.Form1Old.resources
+C:\Users\Siraboy\Desktop\POS\POS.AddToCart\obj\Debug\POS.AddToCart.Form2.resources
+C:\Users\Siraboy\Desktop\POS\POS.AddToCart\obj\Debug\POS.AddToCart.Form3.resources
+C:\Users\Siraboy\Desktop\POS\POS.AddToCart\obj\Debug\POS.AddToCart.FormBilling.resources
+C:\Users\Siraboy\Desktop\POS\POS.AddToCart\obj\Debug\POS.AddToCart.loading.resources
+C:\Users\Siraboy\Desktop\POS\POS.AddToCart\obj\Debug\POS.AddToCart.Login.resources
+C:\Users\Siraboy\Desktop\POS\POS.AddToCart\obj\Debug\POS.AddToCart.MainMenu_Form.resources
+C:\Users\Siraboy\Desktop\POS\POS.AddToCart\obj\Debug\POS.AddToCart.ManageStock.resources
+C:\Users\Siraboy\Desktop\POS\POS.AddToCart\obj\Debug\POS.AddToCart.Manage_Creditors.resources
+C:\Users\Siraboy\Desktop\POS\POS.AddToCart\obj\Debug\POS.AddToCart.manage_Stock.resources
+C:\Users\Siraboy\Desktop\POS\POS.AddToCart\obj\Debug\POS.AddToCart.M_Category.resources
+C:\Users\Siraboy\Desktop\POS\POS.AddToCart\obj\Debug\POS.AddToCart.Properties.Resources.resources
+C:\Users\Siraboy\Desktop\POS\POS.AddToCart\obj\Debug\POS.AddToCart.Report_Sales.resources
+C:\Users\Siraboy\Desktop\POS\POS.AddToCart\obj\Debug\POS.AddToCart.StartUp.resources
+C:\Users\Siraboy\Desktop\POS\POS.AddToCart\obj\Debug\POS.AddToCart.StockReturn.resources
+C:\Users\Siraboy\Desktop\POS\POS.AddToCart\obj\Debug\POS.AddToCart.Stock_Report.resources
+C:\Users\Siraboy\Desktop\POS\POS.AddToCart\obj\Debug\POS.AddToCart.Stock_Update.resources
+C:\Users\Siraboy\Desktop\POS\POS.AddToCart\obj\Debug\POS.AddToCart.Test2.resources
+C:\Users\Siraboy\Desktop\POS\POS.AddToCart\obj\Debug\POS.AddToCart.TestForm.resources
+C:\Users\Siraboy\Desktop\POS\POS.AddToCart\obj\Debug\POS.AddToCart.UserManage.resources
+C:\Users\Siraboy\Desktop\POS\POS.AddToCart\obj\Debug\POS.AddToCart.View_Dercription.resources
+C:\Users\Siraboy\Desktop\POS\POS.AddToCart\obj\Debug\POS.AddToCart.ViewCart.resources
+C:\Users\Siraboy\Desktop\POS\POS.AddToCart\obj\Debug\POS.AddToCart.VIewPrinters.resources
+C:\Users\Siraboy\Desktop\POS\POS.AddToCart\obj\Debug\POS.AddToCart.ViewProducts.resources
+C:\Users\Siraboy\Desktop\POS\POS.AddToCart\obj\Debug\POS.AddToCart.ViewSales.resources
+C:\Users\Siraboy\Desktop\POS\POS.AddToCart\obj\Debug\POS.AddToCart.ViewStockUpdate.resources
+C:\Users\Siraboy\Desktop\POS\POS.AddToCart\obj\Debug\POS.AddToCart.View_Sales_Product.resources
+C:\Users\Siraboy\Desktop\POS\POS.AddToCart\obj\Debug\POS.AddToCart.View_Stock.resources
+C:\Users\Siraboy\Desktop\POS\POS.AddToCart\obj\Debug\POS.AddToCart.csproj.GenerateResource.Cache
+C:\Users\Siraboy\Desktop\POS\POS.AddToCart\obj\Debug\POS.AddToCart.exe.licenses
+C:\Users\Siraboy\Desktop\POS\POS.AddToCart\obj\Debug\RdlCompile.cache
+C:\Users\Siraboy\Desktop\POS\POS.AddToCart\obj\Debug\RdlCompile.compiled
+C:\Users\Siraboy\Desktop\POS\POS.AddToCart\bin\Debug\POS.AddToCart.exe
+C:\Users\Siraboy\Desktop\POS\POS.AddToCart\bin\Debug\POS.AddToCart.pdb
+C:\Users\Siraboy\Desktop\POS\POS.AddToCart\bin\Debug\BusinessObjects.dll
+C:\Users\Siraboy\Desktop\POS\POS.AddToCart\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\Siraboy\Desktop\POS\POS.AddToCart\bin\Debug\JsonPrettyPrinterPlus.dll
+C:\Users\Siraboy\Desktop\POS\POS.AddToCart\bin\Debug\log4net.dll
+C:\Users\Siraboy\Desktop\POS\POS.AddToCart\bin\Debug\MahApps.Metro.dll
+C:\Users\Siraboy\Desktop\POS\POS.AddToCart\bin\Debug\Neodynamic.SDK.ThermalLabel.dll
+C:\Users\Siraboy\Desktop\POS\POS.AddToCart\bin\Debug\ObjectPrinter.dll
+C:\Users\Siraboy\Desktop\POS\POS.AddToCart\bin\Debug\ObjectPrinter.Log4Net.dll
+C:\Users\Siraboy\Desktop\POS\POS.AddToCart\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Siraboy\Desktop\POS\POS.AddToCart\bin\Debug\Tim.BarcodePrinter.dll
+C:\Users\Siraboy\Desktop\POS\POS.AddToCart\bin\Debug\zxing.dll
+C:\Users\Siraboy\Desktop\POS\POS.AddToCart\bin\Debug\DataAccessCommon.dll
+C:\Users\Siraboy\Desktop\POS\POS.AddToCart\bin\Debug\BusinessObjects.pdb
+C:\Users\Siraboy\Desktop\POS\POS.AddToCart\bin\Debug\log4net.xml
+C:\Users\Siraboy\Desktop\POS\POS.AddToCart\bin\Debug\MahApps.Metro.pdb
+C:\Users\Siraboy\Desktop\POS\POS.AddToCart\bin\Debug\MahApps.Metro.xml
+C:\Users\Siraboy\Desktop\POS\POS.AddToCart\bin\Debug\Tim.BarcodePrinter.pdb
+C:\Users\user\Desktop\POS - Copy\POS.AddToCart\bin\Debug\POS.AddToCart.exe.config
+C:\Users\user\Desktop\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.exe
+C:\Users\user\Desktop\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.pdb
+C:\Users\user\Desktop\POS - Copy\POS.AddToCart\bin\Debug\POS.AddToCart.exe
+C:\Users\user\Desktop\POS - Copy\POS.AddToCart\bin\Debug\POS.AddToCart.pdb
+C:\Users\user\Desktop\POS - Copy\POS.AddToCart\bin\Debug\BusinessObjects.dll
+C:\Users\user\Desktop\POS - Copy\POS.AddToCart\bin\Debug\JsonPrettyPrinterPlus.dll
+C:\Users\user\Desktop\POS - Copy\POS.AddToCart\bin\Debug\log4net.dll
+C:\Users\user\Desktop\POS - Copy\POS.AddToCart\bin\Debug\MahApps.Metro.dll
+C:\Users\user\Desktop\POS - Copy\POS.AddToCart\bin\Debug\Neodynamic.SDK.ThermalLabel.dll
+C:\Users\user\Desktop\POS - Copy\POS.AddToCart\bin\Debug\ObjectPrinter.dll
+C:\Users\user\Desktop\POS - Copy\POS.AddToCart\bin\Debug\ObjectPrinter.Log4Net.dll
+C:\Users\user\Desktop\POS - Copy\POS.AddToCart\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\user\Desktop\POS - Copy\POS.AddToCart\bin\Debug\Tim.BarcodePrinter.dll
+C:\Users\user\Desktop\POS - Copy\POS.AddToCart\bin\Debug\zxing.dll
+C:\Users\user\Desktop\POS - Copy\POS.AddToCart\bin\Debug\DataAccessCommon.dll
+C:\Users\user\Desktop\POS - Copy\POS.AddToCart\bin\Debug\BusinessObjects.pdb
+C:\Users\user\Desktop\POS - Copy\POS.AddToCart\bin\Debug\log4net.xml
+C:\Users\user\Desktop\POS - Copy\POS.AddToCart\bin\Debug\MahApps.Metro.pdb
+C:\Users\user\Desktop\POS - Copy\POS.AddToCart\bin\Debug\MahApps.Metro.xml
+C:\Users\user\Desktop\POS - Copy\POS.AddToCart\bin\Debug\Tim.BarcodePrinter.pdb
+C:\Users\user\Desktop\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.AddProduct.resources
+C:\Users\user\Desktop\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.AddStock.resources
+C:\Users\user\Desktop\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.BillPrint.resources
+C:\Users\user\Desktop\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.DatabaseManagement_Form.resources
+C:\Users\user\Desktop\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Edit_Credit.resources
+C:\Users\user\Desktop\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Form1Old.resources
+C:\Users\user\Desktop\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Form2.resources
+C:\Users\user\Desktop\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Form3.resources
+C:\Users\user\Desktop\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.FormBilling.resources
+C:\Users\user\Desktop\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.loading.resources
+C:\Users\user\Desktop\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Login.resources
+C:\Users\user\Desktop\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.MainMenu_Form.resources
+C:\Users\user\Desktop\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.ManageStock.resources
+C:\Users\user\Desktop\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Manage_Creditors.resources
+C:\Users\user\Desktop\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.manage_Stock.resources
+C:\Users\user\Desktop\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.M_Category.resources
+C:\Users\user\Desktop\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Properties.Resources.resources
+C:\Users\user\Desktop\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Report_Sales.resources
+C:\Users\user\Desktop\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.StartUp.resources
+C:\Users\user\Desktop\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.StockReturn.resources
+C:\Users\user\Desktop\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Stock_Report.resources
+C:\Users\user\Desktop\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Stock_Update.resources
+C:\Users\user\Desktop\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Test2.resources
+C:\Users\user\Desktop\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.TestForm.resources
+C:\Users\user\Desktop\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.UserManage.resources
+C:\Users\user\Desktop\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.View_Dercription.resources
+C:\Users\user\Desktop\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.ViewCart.resources
+C:\Users\user\Desktop\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.VIewPrinters.resources
+C:\Users\user\Desktop\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.ViewProducts.resources
+C:\Users\user\Desktop\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.ViewSales.resources
+C:\Users\user\Desktop\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.ViewStockUpdate.resources
+C:\Users\user\Desktop\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.View_Sales_Product.resources
+C:\Users\user\Desktop\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.View_Stock.resources
+C:\Users\user\Desktop\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.exe.licenses
+C:\Users\user\Desktop\POS - Copy\POS.AddToCart\obj\Debug\RdlCompile.cache
+C:\Users\user\Desktop\POS - Copy\POS.AddToCart\obj\Debug\RdlCompile.compiled
+C:\Users\user\Desktop\Vista System\1.1\POS - Copy\POS.AddToCart\bin\Debug\POS.AddToCart.exe.config
+C:\Users\user\Desktop\Vista System\1.1\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.exe
+C:\Users\user\Desktop\Vista System\1.1\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.pdb
+C:\Users\user\Desktop\Vista System\1.2\POS - Copy\POS.AddToCart\bin\Debug\POS.AddToCart.exe.config
+C:\Users\user\Desktop\Vista System\1.2\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.exe
+C:\Users\user\Desktop\Vista System\1.2\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.pdb
+C:\Users\user\Desktop\Vista System\1.2\POS - Copy\POS.AddToCart\bin\Debug\POS.AddToCart.exe
+C:\Users\user\Desktop\Vista System\1.2\POS - Copy\POS.AddToCart\bin\Debug\POS.AddToCart.pdb
+C:\Users\user\Desktop\Vista System\1.2\POS - Copy\POS.AddToCart\bin\Debug\BusinessObjects.dll
+C:\Users\user\Desktop\Vista System\1.2\POS - Copy\POS.AddToCart\bin\Debug\JsonPrettyPrinterPlus.dll
+C:\Users\user\Desktop\Vista System\1.2\POS - Copy\POS.AddToCart\bin\Debug\log4net.dll
+C:\Users\user\Desktop\Vista System\1.2\POS - Copy\POS.AddToCart\bin\Debug\MahApps.Metro.dll
+C:\Users\user\Desktop\Vista System\1.2\POS - Copy\POS.AddToCart\bin\Debug\Neodynamic.SDK.ThermalLabel.dll
+C:\Users\user\Desktop\Vista System\1.2\POS - Copy\POS.AddToCart\bin\Debug\ObjectPrinter.dll
+C:\Users\user\Desktop\Vista System\1.2\POS - Copy\POS.AddToCart\bin\Debug\ObjectPrinter.Log4Net.dll
+C:\Users\user\Desktop\Vista System\1.2\POS - Copy\POS.AddToCart\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\user\Desktop\Vista System\1.2\POS - Copy\POS.AddToCart\bin\Debug\Tim.BarcodePrinter.dll
+C:\Users\user\Desktop\Vista System\1.2\POS - Copy\POS.AddToCart\bin\Debug\zxing.dll
+C:\Users\user\Desktop\Vista System\1.2\POS - Copy\POS.AddToCart\bin\Debug\DataAccessCommon.dll
+C:\Users\user\Desktop\Vista System\1.2\POS - Copy\POS.AddToCart\bin\Debug\BusinessObjects.pdb
+C:\Users\user\Desktop\Vista System\1.2\POS - Copy\POS.AddToCart\bin\Debug\log4net.xml
+C:\Users\user\Desktop\Vista System\1.2\POS - Copy\POS.AddToCart\bin\Debug\MahApps.Metro.pdb
+C:\Users\user\Desktop\Vista System\1.2\POS - Copy\POS.AddToCart\bin\Debug\MahApps.Metro.xml
+C:\Users\user\Desktop\Vista System\1.2\POS - Copy\POS.AddToCart\bin\Debug\Tim.BarcodePrinter.pdb
+C:\Users\user\Desktop\Vista System\1.2\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Vista System\1.2\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.AddProduct.resources
+C:\Users\user\Desktop\Vista System\1.2\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.AddStock.resources
+C:\Users\user\Desktop\Vista System\1.2\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.BillPrint.resources
+C:\Users\user\Desktop\Vista System\1.2\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.DatabaseManagement_Form.resources
+C:\Users\user\Desktop\Vista System\1.2\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Edit_Credit.resources
+C:\Users\user\Desktop\Vista System\1.2\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Form1Old.resources
+C:\Users\user\Desktop\Vista System\1.2\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Form2.resources
+C:\Users\user\Desktop\Vista System\1.2\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Form3.resources
+C:\Users\user\Desktop\Vista System\1.2\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.FormBilling.resources
+C:\Users\user\Desktop\Vista System\1.2\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.loading.resources
+C:\Users\user\Desktop\Vista System\1.2\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Login.resources
+C:\Users\user\Desktop\Vista System\1.2\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.MainMenu_Form.resources
+C:\Users\user\Desktop\Vista System\1.2\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.ManageStock.resources
+C:\Users\user\Desktop\Vista System\1.2\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Manage_Creditors.resources
+C:\Users\user\Desktop\Vista System\1.2\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.manage_Stock.resources
+C:\Users\user\Desktop\Vista System\1.2\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.M_Category.resources
+C:\Users\user\Desktop\Vista System\1.2\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Properties.Resources.resources
+C:\Users\user\Desktop\Vista System\1.2\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Report_Sales.resources
+C:\Users\user\Desktop\Vista System\1.2\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.StartUp.resources
+C:\Users\user\Desktop\Vista System\1.2\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.StockReturn.resources
+C:\Users\user\Desktop\Vista System\1.2\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Stock_Report.resources
+C:\Users\user\Desktop\Vista System\1.2\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Stock_Update.resources
+C:\Users\user\Desktop\Vista System\1.2\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Test2.resources
+C:\Users\user\Desktop\Vista System\1.2\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.TestForm.resources
+C:\Users\user\Desktop\Vista System\1.2\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.UserManage.resources
+C:\Users\user\Desktop\Vista System\1.2\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.View_Dercription.resources
+C:\Users\user\Desktop\Vista System\1.2\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.ViewCart.resources
+C:\Users\user\Desktop\Vista System\1.2\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.VIewPrinters.resources
+C:\Users\user\Desktop\Vista System\1.2\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.ViewProducts.resources
+C:\Users\user\Desktop\Vista System\1.2\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.ViewSales.resources
+C:\Users\user\Desktop\Vista System\1.2\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.ViewStockUpdate.resources
+C:\Users\user\Desktop\Vista System\1.2\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.View_Sales_Product.resources
+C:\Users\user\Desktop\Vista System\1.2\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.View_Stock.resources
+C:\Users\user\Desktop\Vista System\1.2\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Vista System\1.2\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.exe.licenses
+C:\Users\user\Desktop\Vista System\1.2\POS - Copy\POS.AddToCart\obj\Debug\RdlCompile.cache
+C:\Users\user\Desktop\Vista System\1.2\POS - Copy\POS.AddToCart\obj\Debug\RdlCompile.compiled
+C:\Users\Siraboy\Desktop\1.2\POS - Copy\POS.AddToCart\bin\Debug\POS.AddToCart.exe.config
+C:\Users\Siraboy\Desktop\1.2\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.exe
+C:\Users\Siraboy\Desktop\1.2\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.pdb
+C:\Users\Siraboy\Desktop\1.2\POS - Copy\POS.AddToCart\bin\Debug\POS.AddToCart.exe
+C:\Users\Siraboy\Desktop\1.2\POS - Copy\POS.AddToCart\bin\Debug\POS.AddToCart.pdb
+C:\Users\Siraboy\Desktop\1.2\POS - Copy\POS.AddToCart\bin\Debug\BusinessObjects.dll
+C:\Users\Siraboy\Desktop\1.2\POS - Copy\POS.AddToCart\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\Siraboy\Desktop\1.2\POS - Copy\POS.AddToCart\bin\Debug\JsonPrettyPrinterPlus.dll
+C:\Users\Siraboy\Desktop\1.2\POS - Copy\POS.AddToCart\bin\Debug\log4net.dll
+C:\Users\Siraboy\Desktop\1.2\POS - Copy\POS.AddToCart\bin\Debug\MahApps.Metro.dll
+C:\Users\Siraboy\Desktop\1.2\POS - Copy\POS.AddToCart\bin\Debug\Neodynamic.SDK.ThermalLabel.dll
+C:\Users\Siraboy\Desktop\1.2\POS - Copy\POS.AddToCart\bin\Debug\ObjectPrinter.dll
+C:\Users\Siraboy\Desktop\1.2\POS - Copy\POS.AddToCart\bin\Debug\ObjectPrinter.Log4Net.dll
+C:\Users\Siraboy\Desktop\1.2\POS - Copy\POS.AddToCart\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Siraboy\Desktop\1.2\POS - Copy\POS.AddToCart\bin\Debug\Tim.BarcodePrinter.dll
+C:\Users\Siraboy\Desktop\1.2\POS - Copy\POS.AddToCart\bin\Debug\zxing.dll
+C:\Users\Siraboy\Desktop\1.2\POS - Copy\POS.AddToCart\bin\Debug\DataAccessCommon.dll
+C:\Users\Siraboy\Desktop\1.2\POS - Copy\POS.AddToCart\bin\Debug\BusinessObjects.pdb
+C:\Users\Siraboy\Desktop\1.2\POS - Copy\POS.AddToCart\bin\Debug\log4net.xml
+C:\Users\Siraboy\Desktop\1.2\POS - Copy\POS.AddToCart\bin\Debug\MahApps.Metro.pdb
+C:\Users\Siraboy\Desktop\1.2\POS - Copy\POS.AddToCart\bin\Debug\MahApps.Metro.xml
+C:\Users\Siraboy\Desktop\1.2\POS - Copy\POS.AddToCart\bin\Debug\Tim.BarcodePrinter.pdb
+C:\Users\Siraboy\Desktop\1.2\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.csprojResolveAssemblyReference.cache
+C:\Users\Siraboy\Desktop\1.2\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.AddProduct.resources
+C:\Users\Siraboy\Desktop\1.2\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.AddStock.resources
+C:\Users\Siraboy\Desktop\1.2\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.BillPrint.resources
+C:\Users\Siraboy\Desktop\1.2\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.DatabaseManagement_Form.resources
+C:\Users\Siraboy\Desktop\1.2\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Edit_Credit.resources
+C:\Users\Siraboy\Desktop\1.2\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Form1Old.resources
+C:\Users\Siraboy\Desktop\1.2\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Form2.resources
+C:\Users\Siraboy\Desktop\1.2\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Form3.resources
+C:\Users\Siraboy\Desktop\1.2\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.FormBilling.resources
+C:\Users\Siraboy\Desktop\1.2\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.loading.resources
+C:\Users\Siraboy\Desktop\1.2\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Login.resources
+C:\Users\Siraboy\Desktop\1.2\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.MainMenu_Form.resources
+C:\Users\Siraboy\Desktop\1.2\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.ManageStock.resources
+C:\Users\Siraboy\Desktop\1.2\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Manage_Creditors.resources
+C:\Users\Siraboy\Desktop\1.2\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.manage_Stock.resources
+C:\Users\Siraboy\Desktop\1.2\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.M_Category.resources
+C:\Users\Siraboy\Desktop\1.2\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Properties.Resources.resources
+C:\Users\Siraboy\Desktop\1.2\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Report_Sales.resources
+C:\Users\Siraboy\Desktop\1.2\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.StartUp.resources
+C:\Users\Siraboy\Desktop\1.2\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.StockReturn.resources
+C:\Users\Siraboy\Desktop\1.2\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Stock_Report.resources
+C:\Users\Siraboy\Desktop\1.2\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Stock_Update.resources
+C:\Users\Siraboy\Desktop\1.2\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Test2.resources
+C:\Users\Siraboy\Desktop\1.2\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.TestForm.resources
+C:\Users\Siraboy\Desktop\1.2\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.UserManage.resources
+C:\Users\Siraboy\Desktop\1.2\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.View_Dercription.resources
+C:\Users\Siraboy\Desktop\1.2\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.ViewCart.resources
+C:\Users\Siraboy\Desktop\1.2\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.VIewPrinters.resources
+C:\Users\Siraboy\Desktop\1.2\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.ViewProducts.resources
+C:\Users\Siraboy\Desktop\1.2\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.ViewSales.resources
+C:\Users\Siraboy\Desktop\1.2\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.ViewStockUpdate.resources
+C:\Users\Siraboy\Desktop\1.2\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.View_Sales_Product.resources
+C:\Users\Siraboy\Desktop\1.2\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.View_Stock.resources
+C:\Users\Siraboy\Desktop\1.2\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.csproj.GenerateResource.Cache
+C:\Users\Siraboy\Desktop\1.2\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.exe.licenses
+C:\Users\Siraboy\Desktop\1.2\POS - Copy\POS.AddToCart\obj\Debug\RdlCompile.cache
+C:\Users\Siraboy\Desktop\1.2\POS - Copy\POS.AddToCart\obj\Debug\RdlCompile.compiled
+C:\Users\user\Desktop\1.3\POS - Copy\POS.AddToCart\bin\Debug\POS.AddToCart.exe.config
+C:\Users\user\Desktop\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.exe
+C:\Users\user\Desktop\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.pdb
+C:\Users\user\Desktop\1.3\POS - Copy\POS.AddToCart\bin\Debug\POS.AddToCart.exe
+C:\Users\user\Desktop\1.3\POS - Copy\POS.AddToCart\bin\Debug\POS.AddToCart.pdb
+C:\Users\user\Desktop\1.3\POS - Copy\POS.AddToCart\bin\Debug\BusinessObjects.dll
+C:\Users\user\Desktop\1.3\POS - Copy\POS.AddToCart\bin\Debug\JsonPrettyPrinterPlus.dll
+C:\Users\user\Desktop\1.3\POS - Copy\POS.AddToCart\bin\Debug\log4net.dll
+C:\Users\user\Desktop\1.3\POS - Copy\POS.AddToCart\bin\Debug\MahApps.Metro.dll
+C:\Users\user\Desktop\1.3\POS - Copy\POS.AddToCart\bin\Debug\Neodynamic.SDK.ThermalLabel.dll
+C:\Users\user\Desktop\1.3\POS - Copy\POS.AddToCart\bin\Debug\ObjectPrinter.dll
+C:\Users\user\Desktop\1.3\POS - Copy\POS.AddToCart\bin\Debug\ObjectPrinter.Log4Net.dll
+C:\Users\user\Desktop\1.3\POS - Copy\POS.AddToCart\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\user\Desktop\1.3\POS - Copy\POS.AddToCart\bin\Debug\Tim.BarcodePrinter.dll
+C:\Users\user\Desktop\1.3\POS - Copy\POS.AddToCart\bin\Debug\zxing.dll
+C:\Users\user\Desktop\1.3\POS - Copy\POS.AddToCart\bin\Debug\DataAccessCommon.dll
+C:\Users\user\Desktop\1.3\POS - Copy\POS.AddToCart\bin\Debug\BusinessObjects.pdb
+C:\Users\user\Desktop\1.3\POS - Copy\POS.AddToCart\bin\Debug\log4net.xml
+C:\Users\user\Desktop\1.3\POS - Copy\POS.AddToCart\bin\Debug\MahApps.Metro.pdb
+C:\Users\user\Desktop\1.3\POS - Copy\POS.AddToCart\bin\Debug\MahApps.Metro.xml
+C:\Users\user\Desktop\1.3\POS - Copy\POS.AddToCart\bin\Debug\Tim.BarcodePrinter.pdb
+C:\Users\user\Desktop\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.AddProduct.resources
+C:\Users\user\Desktop\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.AddStock.resources
+C:\Users\user\Desktop\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.BillPrint.resources
+C:\Users\user\Desktop\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.DatabaseManagement_Form.resources
+C:\Users\user\Desktop\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Edit_Credit.resources
+C:\Users\user\Desktop\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Form1Old.resources
+C:\Users\user\Desktop\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Form2.resources
+C:\Users\user\Desktop\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Form3.resources
+C:\Users\user\Desktop\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.FormBilling.resources
+C:\Users\user\Desktop\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.loading.resources
+C:\Users\user\Desktop\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Login.resources
+C:\Users\user\Desktop\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.MainMenu_Form.resources
+C:\Users\user\Desktop\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.ManageStock.resources
+C:\Users\user\Desktop\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Manage_Creditors.resources
+C:\Users\user\Desktop\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.manage_Stock.resources
+C:\Users\user\Desktop\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.M_Category.resources
+C:\Users\user\Desktop\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Properties.Resources.resources
+C:\Users\user\Desktop\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Report_Sales.resources
+C:\Users\user\Desktop\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.StartUp.resources
+C:\Users\user\Desktop\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.StockReturn.resources
+C:\Users\user\Desktop\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Stock_Report.resources
+C:\Users\user\Desktop\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Stock_Update.resources
+C:\Users\user\Desktop\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Test2.resources
+C:\Users\user\Desktop\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.TestForm.resources
+C:\Users\user\Desktop\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.UserManage.resources
+C:\Users\user\Desktop\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.View_Dercription.resources
+C:\Users\user\Desktop\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.ViewCart.resources
+C:\Users\user\Desktop\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.VIewPrinters.resources
+C:\Users\user\Desktop\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.ViewProducts.resources
+C:\Users\user\Desktop\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.ViewSales.resources
+C:\Users\user\Desktop\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.ViewStockUpdate.resources
+C:\Users\user\Desktop\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.View_Sales_Product.resources
+C:\Users\user\Desktop\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.View_Stock.resources
+C:\Users\user\Desktop\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.exe.licenses
+C:\Users\user\Desktop\1.3\POS - Copy\POS.AddToCart\obj\Debug\RdlCompile.cache
+C:\Users\user\Desktop\1.3\POS - Copy\POS.AddToCart\obj\Debug\RdlCompile.compiled
+C:\Users\user\Desktop\Vista System\1.3 Setup\1.3\POS - Copy\POS.AddToCart\bin\Debug\POS.AddToCart.exe.config
+C:\Users\user\Desktop\Vista System\1.3 Setup\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.exe
+C:\Users\user\Desktop\Vista System\1.3 Setup\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.pdb
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\POS.AddToCart.exe.config
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.exe
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.pdb
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\POS.AddToCart.exe
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\POS.AddToCart.pdb
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\BusinessObjects.dll
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\JsonPrettyPrinterPlus.dll
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\log4net.dll
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\MahApps.Metro.dll
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\Neodynamic.SDK.ThermalLabel.dll
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\ObjectPrinter.dll
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\ObjectPrinter.Log4Net.dll
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\Tim.BarcodePrinter.dll
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\zxing.dll
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\DataAccessCommon.dll
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\BusinessObjects.pdb
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\log4net.xml
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\MahApps.Metro.pdb
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\MahApps.Metro.xml
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\Tim.BarcodePrinter.pdb
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.AddProduct.resources
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.AddStock.resources
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.BillPrint.resources
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.DatabaseManagement_Form.resources
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Edit_Credit.resources
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Form1Old.resources
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Form2.resources
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Form3.resources
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.FormBilling.resources
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.loading.resources
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Login.resources
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.MainMenu_Form.resources
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.ManageStock.resources
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Manage_Creditors.resources
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.manage_Stock.resources
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.M_Category.resources
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Properties.Resources.resources
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Report_Sales.resources
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.StartUp.resources
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.StockReturn.resources
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Stock_Report.resources
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Stock_Update.resources
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Test2.resources
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.TestForm.resources
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.UserManage.resources
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.View_Dercription.resources
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.ViewCart.resources
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.VIewPrinters.resources
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.ViewProducts.resources
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.ViewSales.resources
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.ViewStockUpdate.resources
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.View_Sales_Product.resources
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.View_Stock.resources
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.exe.licenses
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\RdlCompile.cache
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\RdlCompile.compiled

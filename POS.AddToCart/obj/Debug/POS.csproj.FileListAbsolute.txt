@@ -1,0 +1,1077 @@
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.AddProduct.resources
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.AddStock.resources
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.BillPrint.resources
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.DatabaseManagement_Form.resources
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Edit_Credit.resources
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Form1Old.resources
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Form2.resources
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Form3.resources
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.FormBilling.resources
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.loading.resources
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Login.resources
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.MainMenu_Form.resources
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.ManageStock.resources
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Manage_Creditors.resources
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.manage_Stock.resources
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.M_Category.resources
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Properties.Resources.resources
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Report_Sales.resources
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.StartUp.resources
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.StockReturn.resources
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Stock_Report.resources
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Stock_Update.resources
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Test2.resources
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.TestForm.resources
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.UserManage.resources
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.View_Dercription.resources
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.ViewCart.resources
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.VIewPrinters.resources
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.ViewProducts.resources
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.ViewSales.resources
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.ViewStockUpdate.resources
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.View_Sales_Product.resources
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.View_Stock.resources
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.exe.licenses
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\RdlCompile.cache
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\RdlCompile.compiled
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.exe
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.pdb
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\POS.AddToCart.exe.config
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\POS.AddToCart.exe
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\POS.AddToCart.pdb
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\BusinessObjects.dll
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\JsonPrettyPrinterPlus.dll
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\log4net.dll
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\MahApps.Metro.dll
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\Neodynamic.SDK.ThermalLabel.dll
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\ObjectPrinter.dll
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\ObjectPrinter.Log4Net.dll
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\Tim.BarcodePrinter.dll
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\zxing.dll
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\DataAccessCommon.dll
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\BusinessObjects.pdb
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\log4net.xml
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\MahApps.Metro.pdb
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\MahApps.Metro.xml
+C:\Users\user\Desktop\Vista System\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\Tim.BarcodePrinter.pdb
+C:\Users\user\Desktop\Vista System\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\POS.AddToCart.exe.config
+C:\Users\user\Desktop\Vista System\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\POS.AddToCart.exe
+C:\Users\user\Desktop\Vista System\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\POS.AddToCart.pdb
+C:\Users\user\Desktop\Vista System\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\BusinessObjects.dll
+C:\Users\user\Desktop\Vista System\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\JsonPrettyPrinterPlus.dll
+C:\Users\user\Desktop\Vista System\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\log4net.dll
+C:\Users\user\Desktop\Vista System\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\MahApps.Metro.dll
+C:\Users\user\Desktop\Vista System\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\Neodynamic.SDK.ThermalLabel.dll
+C:\Users\user\Desktop\Vista System\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\ObjectPrinter.dll
+C:\Users\user\Desktop\Vista System\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\ObjectPrinter.Log4Net.dll
+C:\Users\user\Desktop\Vista System\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\user\Desktop\Vista System\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\Tim.BarcodePrinter.dll
+C:\Users\user\Desktop\Vista System\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\zxing.dll
+C:\Users\user\Desktop\Vista System\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\DataAccessCommon.dll
+C:\Users\user\Desktop\Vista System\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\BusinessObjects.pdb
+C:\Users\user\Desktop\Vista System\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\log4net.xml
+C:\Users\user\Desktop\Vista System\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\MahApps.Metro.pdb
+C:\Users\user\Desktop\Vista System\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\MahApps.Metro.xml
+C:\Users\user\Desktop\Vista System\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\Tim.BarcodePrinter.pdb
+C:\Users\user\Desktop\Vista System\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Vista System\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.AddProduct.resources
+C:\Users\user\Desktop\Vista System\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.AddStock.resources
+C:\Users\user\Desktop\Vista System\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.BillPrint.resources
+C:\Users\user\Desktop\Vista System\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.DatabaseManagement_Form.resources
+C:\Users\user\Desktop\Vista System\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Edit_Credit.resources
+C:\Users\user\Desktop\Vista System\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Form1Old.resources
+C:\Users\user\Desktop\Vista System\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Form2.resources
+C:\Users\user\Desktop\Vista System\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Form3.resources
+C:\Users\user\Desktop\Vista System\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.FormBilling.resources
+C:\Users\user\Desktop\Vista System\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.loading.resources
+C:\Users\user\Desktop\Vista System\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Login.resources
+C:\Users\user\Desktop\Vista System\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.MainMenu_Form.resources
+C:\Users\user\Desktop\Vista System\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.ManageStock.resources
+C:\Users\user\Desktop\Vista System\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Manage_Creditors.resources
+C:\Users\user\Desktop\Vista System\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.manage_Stock.resources
+C:\Users\user\Desktop\Vista System\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.M_Category.resources
+C:\Users\user\Desktop\Vista System\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Properties.Resources.resources
+C:\Users\user\Desktop\Vista System\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Report_Sales.resources
+C:\Users\user\Desktop\Vista System\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.StartUp.resources
+C:\Users\user\Desktop\Vista System\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.StockReturn.resources
+C:\Users\user\Desktop\Vista System\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Stock_Report.resources
+C:\Users\user\Desktop\Vista System\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Stock_Update.resources
+C:\Users\user\Desktop\Vista System\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Test2.resources
+C:\Users\user\Desktop\Vista System\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.TestForm.resources
+C:\Users\user\Desktop\Vista System\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.UserManage.resources
+C:\Users\user\Desktop\Vista System\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.View_Dercription.resources
+C:\Users\user\Desktop\Vista System\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.ViewCart.resources
+C:\Users\user\Desktop\Vista System\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.VIewPrinters.resources
+C:\Users\user\Desktop\Vista System\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.ViewProducts.resources
+C:\Users\user\Desktop\Vista System\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.ViewSales.resources
+C:\Users\user\Desktop\Vista System\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.ViewSoldProduct.resources
+C:\Users\user\Desktop\Vista System\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.ViewStockUpdate.resources
+C:\Users\user\Desktop\Vista System\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.View_Sales_Product.resources
+C:\Users\user\Desktop\Vista System\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.View_Stock.resources
+C:\Users\user\Desktop\Vista System\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.V_Stock.resources
+C:\Users\user\Desktop\Vista System\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Vista System\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.exe.licenses
+C:\Users\user\Desktop\Vista System\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\RdlCompile.cache
+C:\Users\user\Desktop\Vista System\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\RdlCompile.compiled
+C:\Users\user\Desktop\Vista System\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.exe
+C:\Users\user\Desktop\Vista System\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.pdb
+C:\Users\user\Desktop\Vista System\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\POS.AddToCart.exe.config
+C:\Users\user\Desktop\Vista System\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.exe
+C:\Users\user\Desktop\Vista System\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.pdb
+C:\Users\user\Desktop\Vista System\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Vista System\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.AddProduct.resources
+C:\Users\user\Desktop\Vista System\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.AddStock.resources
+C:\Users\user\Desktop\Vista System\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.BillPrint.resources
+C:\Users\user\Desktop\Vista System\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.DatabaseManagement_Form.resources
+C:\Users\user\Desktop\Vista System\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Edit_Credit.resources
+C:\Users\user\Desktop\Vista System\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Form1Old.resources
+C:\Users\user\Desktop\Vista System\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Form2.resources
+C:\Users\user\Desktop\Vista System\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Form3.resources
+C:\Users\user\Desktop\Vista System\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.FormBilling.resources
+C:\Users\user\Desktop\Vista System\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.loading.resources
+C:\Users\user\Desktop\Vista System\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Login.resources
+C:\Users\user\Desktop\Vista System\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.MainMenu_Form.resources
+C:\Users\user\Desktop\Vista System\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.ManageStock.resources
+C:\Users\user\Desktop\Vista System\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Manage_Creditors.resources
+C:\Users\user\Desktop\Vista System\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.manage_Stock.resources
+C:\Users\user\Desktop\Vista System\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.M_Category.resources
+C:\Users\user\Desktop\Vista System\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Properties.Resources.resources
+C:\Users\user\Desktop\Vista System\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Report_Sales.resources
+C:\Users\user\Desktop\Vista System\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.StartUp.resources
+C:\Users\user\Desktop\Vista System\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.StockReturn.resources
+C:\Users\user\Desktop\Vista System\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Stock_Report.resources
+C:\Users\user\Desktop\Vista System\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Stock_Update.resources
+C:\Users\user\Desktop\Vista System\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Test2.resources
+C:\Users\user\Desktop\Vista System\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.TestForm.resources
+C:\Users\user\Desktop\Vista System\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.UserManage.resources
+C:\Users\user\Desktop\Vista System\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.View_Dercription.resources
+C:\Users\user\Desktop\Vista System\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.ViewCart.resources
+C:\Users\user\Desktop\Vista System\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.VIewPrinters.resources
+C:\Users\user\Desktop\Vista System\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.ViewProducts.resources
+C:\Users\user\Desktop\Vista System\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.ViewSales.resources
+C:\Users\user\Desktop\Vista System\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.ViewSoldProduct.resources
+C:\Users\user\Desktop\Vista System\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.ViewStockUpdate.resources
+C:\Users\user\Desktop\Vista System\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.View_Sales_Product.resources
+C:\Users\user\Desktop\Vista System\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.View_Stock.resources
+C:\Users\user\Desktop\Vista System\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.V_Stock.resources
+C:\Users\user\Desktop\Vista System\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Vista System\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.exe.licenses
+C:\Users\user\Desktop\Vista System\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\RdlCompile.cache
+C:\Users\user\Desktop\Vista System\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\RdlCompile.compiled
+C:\Users\user\Desktop\Vista System\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\POS.AddToCart.exe
+C:\Users\user\Desktop\Vista System\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\POS.AddToCart.pdb
+C:\Users\user\Desktop\Vista System\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\BusinessObjects.dll
+C:\Users\user\Desktop\Vista System\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\JsonPrettyPrinterPlus.dll
+C:\Users\user\Desktop\Vista System\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\log4net.dll
+C:\Users\user\Desktop\Vista System\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\MahApps.Metro.dll
+C:\Users\user\Desktop\Vista System\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\Neodynamic.SDK.ThermalLabel.dll
+C:\Users\user\Desktop\Vista System\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\ObjectPrinter.dll
+C:\Users\user\Desktop\Vista System\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\ObjectPrinter.Log4Net.dll
+C:\Users\user\Desktop\Vista System\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\user\Desktop\Vista System\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\Tim.BarcodePrinter.dll
+C:\Users\user\Desktop\Vista System\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\zxing.dll
+C:\Users\user\Desktop\Vista System\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\DataAccessCommon.dll
+C:\Users\user\Desktop\Vista System\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\BusinessObjects.pdb
+C:\Users\user\Desktop\Vista System\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\log4net.xml
+C:\Users\user\Desktop\Vista System\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\MahApps.Metro.pdb
+C:\Users\user\Desktop\Vista System\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\MahApps.Metro.xml
+C:\Users\user\Desktop\Vista System\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\Tim.BarcodePrinter.pdb
+C:\Users\user\Desktop\Vista System\1.5 Extends 1.4\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\POS.AddToCart.exe.config
+C:\Users\user\Desktop\Vista System\1.5 Extends 1.4\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.exe
+C:\Users\user\Desktop\Vista System\1.5 Extends 1.4\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.pdb
+C:\Users\user\Desktop\Vista System\1.5 Extends 1.4\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\POS.AddToCart.exe
+C:\Users\user\Desktop\Vista System\1.5 Extends 1.4\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\POS.AddToCart.pdb
+C:\Users\user\Desktop\Vista System\1.5 Extends 1.4\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\BusinessObjects.dll
+C:\Users\user\Desktop\Vista System\1.5 Extends 1.4\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\JsonPrettyPrinterPlus.dll
+C:\Users\user\Desktop\Vista System\1.5 Extends 1.4\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\log4net.dll
+C:\Users\user\Desktop\Vista System\1.5 Extends 1.4\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\MahApps.Metro.dll
+C:\Users\user\Desktop\Vista System\1.5 Extends 1.4\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\Neodynamic.SDK.ThermalLabel.dll
+C:\Users\user\Desktop\Vista System\1.5 Extends 1.4\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\ObjectPrinter.dll
+C:\Users\user\Desktop\Vista System\1.5 Extends 1.4\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\ObjectPrinter.Log4Net.dll
+C:\Users\user\Desktop\Vista System\1.5 Extends 1.4\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\user\Desktop\Vista System\1.5 Extends 1.4\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\Tim.BarcodePrinter.dll
+C:\Users\user\Desktop\Vista System\1.5 Extends 1.4\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\zxing.dll
+C:\Users\user\Desktop\Vista System\1.5 Extends 1.4\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\DataAccessCommon.dll
+C:\Users\user\Desktop\Vista System\1.5 Extends 1.4\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\BusinessObjects.pdb
+C:\Users\user\Desktop\Vista System\1.5 Extends 1.4\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\log4net.xml
+C:\Users\user\Desktop\Vista System\1.5 Extends 1.4\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\MahApps.Metro.pdb
+C:\Users\user\Desktop\Vista System\1.5 Extends 1.4\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\MahApps.Metro.xml
+C:\Users\user\Desktop\Vista System\1.5 Extends 1.4\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\Tim.BarcodePrinter.pdb
+C:\Users\user\Desktop\Vista System\1.5 Extends 1.4\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Vista System\1.5 Extends 1.4\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.AddProduct.resources
+C:\Users\user\Desktop\Vista System\1.5 Extends 1.4\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.AddStock.resources
+C:\Users\user\Desktop\Vista System\1.5 Extends 1.4\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.BillPrint.resources
+C:\Users\user\Desktop\Vista System\1.5 Extends 1.4\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.DatabaseManagement_Form.resources
+C:\Users\user\Desktop\Vista System\1.5 Extends 1.4\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Edit_Credit.resources
+C:\Users\user\Desktop\Vista System\1.5 Extends 1.4\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Form1Old.resources
+C:\Users\user\Desktop\Vista System\1.5 Extends 1.4\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Form2.resources
+C:\Users\user\Desktop\Vista System\1.5 Extends 1.4\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Form3.resources
+C:\Users\user\Desktop\Vista System\1.5 Extends 1.4\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.FormBilling.resources
+C:\Users\user\Desktop\Vista System\1.5 Extends 1.4\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.loading.resources
+C:\Users\user\Desktop\Vista System\1.5 Extends 1.4\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Login.resources
+C:\Users\user\Desktop\Vista System\1.5 Extends 1.4\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.MainMenu_Form.resources
+C:\Users\user\Desktop\Vista System\1.5 Extends 1.4\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.ManageStock.resources
+C:\Users\user\Desktop\Vista System\1.5 Extends 1.4\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Manage_Creditors.resources
+C:\Users\user\Desktop\Vista System\1.5 Extends 1.4\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.manage_Stock.resources
+C:\Users\user\Desktop\Vista System\1.5 Extends 1.4\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.M_Category.resources
+C:\Users\user\Desktop\Vista System\1.5 Extends 1.4\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Properties.Resources.resources
+C:\Users\user\Desktop\Vista System\1.5 Extends 1.4\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Report_Sales.resources
+C:\Users\user\Desktop\Vista System\1.5 Extends 1.4\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.StartUp.resources
+C:\Users\user\Desktop\Vista System\1.5 Extends 1.4\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.StockReturn.resources
+C:\Users\user\Desktop\Vista System\1.5 Extends 1.4\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Stock_Report.resources
+C:\Users\user\Desktop\Vista System\1.5 Extends 1.4\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Stock_Update.resources
+C:\Users\user\Desktop\Vista System\1.5 Extends 1.4\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Test2.resources
+C:\Users\user\Desktop\Vista System\1.5 Extends 1.4\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.TestForm.resources
+C:\Users\user\Desktop\Vista System\1.5 Extends 1.4\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.UserManage.resources
+C:\Users\user\Desktop\Vista System\1.5 Extends 1.4\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.View_Dercription.resources
+C:\Users\user\Desktop\Vista System\1.5 Extends 1.4\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.ViewCart.resources
+C:\Users\user\Desktop\Vista System\1.5 Extends 1.4\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.VIewPrinters.resources
+C:\Users\user\Desktop\Vista System\1.5 Extends 1.4\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.ViewProducts.resources
+C:\Users\user\Desktop\Vista System\1.5 Extends 1.4\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.ViewSales.resources
+C:\Users\user\Desktop\Vista System\1.5 Extends 1.4\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.ViewSoldProduct.resources
+C:\Users\user\Desktop\Vista System\1.5 Extends 1.4\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.ViewStockUpdate.resources
+C:\Users\user\Desktop\Vista System\1.5 Extends 1.4\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.View_Sales_Product.resources
+C:\Users\user\Desktop\Vista System\1.5 Extends 1.4\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.View_Stock.resources
+C:\Users\user\Desktop\Vista System\1.5 Extends 1.4\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.V_Stock.resources
+C:\Users\user\Desktop\Vista System\1.5 Extends 1.4\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Vista System\1.5 Extends 1.4\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.exe.licenses
+C:\Users\user\Desktop\Vista System\1.5 Extends 1.4\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\RdlCompile.cache
+C:\Users\user\Desktop\Vista System\1.5 Extends 1.4\1.5\1.4\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\RdlCompile.compiled
+C:\Users\user\Desktop\Vista System\1.6\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\POS.AddToCart.exe.config
+C:\Users\user\Desktop\Vista System\1.6\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.exe
+C:\Users\user\Desktop\Vista System\1.6\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.pdb
+C:\Users\user\Desktop\Vista System\1.6\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\POS.AddToCart.exe
+C:\Users\user\Desktop\Vista System\1.6\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\POS.AddToCart.pdb
+C:\Users\user\Desktop\Vista System\1.6\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\BusinessObjects.dll
+C:\Users\user\Desktop\Vista System\1.6\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\JsonPrettyPrinterPlus.dll
+C:\Users\user\Desktop\Vista System\1.6\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\log4net.dll
+C:\Users\user\Desktop\Vista System\1.6\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\MahApps.Metro.dll
+C:\Users\user\Desktop\Vista System\1.6\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\Neodynamic.SDK.ThermalLabel.dll
+C:\Users\user\Desktop\Vista System\1.6\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\ObjectPrinter.dll
+C:\Users\user\Desktop\Vista System\1.6\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\ObjectPrinter.Log4Net.dll
+C:\Users\user\Desktop\Vista System\1.6\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\user\Desktop\Vista System\1.6\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\Tim.BarcodePrinter.dll
+C:\Users\user\Desktop\Vista System\1.6\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\zxing.dll
+C:\Users\user\Desktop\Vista System\1.6\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\DataAccessCommon.dll
+C:\Users\user\Desktop\Vista System\1.6\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\BusinessObjects.pdb
+C:\Users\user\Desktop\Vista System\1.6\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\log4net.xml
+C:\Users\user\Desktop\Vista System\1.6\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\MahApps.Metro.pdb
+C:\Users\user\Desktop\Vista System\1.6\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\MahApps.Metro.xml
+C:\Users\user\Desktop\Vista System\1.6\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\Tim.BarcodePrinter.pdb
+C:\Users\user\Desktop\Vista System\1.6\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Vista System\1.6\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.AddProduct.resources
+C:\Users\user\Desktop\Vista System\1.6\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.AddStock.resources
+C:\Users\user\Desktop\Vista System\1.6\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.BillPrint.resources
+C:\Users\user\Desktop\Vista System\1.6\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.DatabaseManagement_Form.resources
+C:\Users\user\Desktop\Vista System\1.6\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Edit_Credit.resources
+C:\Users\user\Desktop\Vista System\1.6\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Form1Old.resources
+C:\Users\user\Desktop\Vista System\1.6\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Form2.resources
+C:\Users\user\Desktop\Vista System\1.6\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Form3.resources
+C:\Users\user\Desktop\Vista System\1.6\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.FormBilling.resources
+C:\Users\user\Desktop\Vista System\1.6\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.loading.resources
+C:\Users\user\Desktop\Vista System\1.6\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Login.resources
+C:\Users\user\Desktop\Vista System\1.6\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.MainMenu_Form.resources
+C:\Users\user\Desktop\Vista System\1.6\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.ManageStock.resources
+C:\Users\user\Desktop\Vista System\1.6\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Manage_Creditors.resources
+C:\Users\user\Desktop\Vista System\1.6\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.manage_Stock.resources
+C:\Users\user\Desktop\Vista System\1.6\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.M_Category.resources
+C:\Users\user\Desktop\Vista System\1.6\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Properties.Resources.resources
+C:\Users\user\Desktop\Vista System\1.6\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Report_Sales.resources
+C:\Users\user\Desktop\Vista System\1.6\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.StartUp.resources
+C:\Users\user\Desktop\Vista System\1.6\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.StockReturn.resources
+C:\Users\user\Desktop\Vista System\1.6\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Stock_Report.resources
+C:\Users\user\Desktop\Vista System\1.6\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Stock_Update.resources
+C:\Users\user\Desktop\Vista System\1.6\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Test2.resources
+C:\Users\user\Desktop\Vista System\1.6\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.TestForm.resources
+C:\Users\user\Desktop\Vista System\1.6\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.UserManage.resources
+C:\Users\user\Desktop\Vista System\1.6\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.View_Dercription.resources
+C:\Users\user\Desktop\Vista System\1.6\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.ViewCart.resources
+C:\Users\user\Desktop\Vista System\1.6\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.VIewPrinters.resources
+C:\Users\user\Desktop\Vista System\1.6\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.ViewProducts.resources
+C:\Users\user\Desktop\Vista System\1.6\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.ViewSales.resources
+C:\Users\user\Desktop\Vista System\1.6\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.ViewSoldProduct.resources
+C:\Users\user\Desktop\Vista System\1.6\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.ViewStockUpdate.resources
+C:\Users\user\Desktop\Vista System\1.6\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.View_Sales_Product.resources
+C:\Users\user\Desktop\Vista System\1.6\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.View_Stock.resources
+C:\Users\user\Desktop\Vista System\1.6\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.V_Stock.resources
+C:\Users\user\Desktop\Vista System\1.6\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Vista System\1.6\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.exe.licenses
+C:\Users\user\Desktop\Vista System\1.6\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\RdlCompile.cache
+C:\Users\user\Desktop\Vista System\1.6\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\RdlCompile.compiled
+C:\Users\user\Desktop\Vista System\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\POS.AddToCart.exe.config
+C:\Users\user\Desktop\Vista System\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\POS.AddToCart.exe
+C:\Users\user\Desktop\Vista System\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\POS.AddToCart.pdb
+C:\Users\user\Desktop\Vista System\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\BusinessObjects.dll
+C:\Users\user\Desktop\Vista System\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\JsonPrettyPrinterPlus.dll
+C:\Users\user\Desktop\Vista System\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\log4net.dll
+C:\Users\user\Desktop\Vista System\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\MahApps.Metro.dll
+C:\Users\user\Desktop\Vista System\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\Neodynamic.SDK.ThermalLabel.dll
+C:\Users\user\Desktop\Vista System\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\ObjectPrinter.dll
+C:\Users\user\Desktop\Vista System\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\ObjectPrinter.Log4Net.dll
+C:\Users\user\Desktop\Vista System\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\user\Desktop\Vista System\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\Tim.BarcodePrinter.dll
+C:\Users\user\Desktop\Vista System\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\zxing.dll
+C:\Users\user\Desktop\Vista System\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\DataAccessCommon.dll
+C:\Users\user\Desktop\Vista System\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\BusinessObjects.pdb
+C:\Users\user\Desktop\Vista System\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\log4net.xml
+C:\Users\user\Desktop\Vista System\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\MahApps.Metro.pdb
+C:\Users\user\Desktop\Vista System\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\MahApps.Metro.xml
+C:\Users\user\Desktop\Vista System\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\Tim.BarcodePrinter.pdb
+C:\Users\user\Desktop\Vista System\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Vista System\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.AddProduct.resources
+C:\Users\user\Desktop\Vista System\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.BillPrint.resources
+C:\Users\user\Desktop\Vista System\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.DatabaseManagement_Form.resources
+C:\Users\user\Desktop\Vista System\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Edit_Credit.resources
+C:\Users\user\Desktop\Vista System\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Form3.resources
+C:\Users\user\Desktop\Vista System\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.FormBilling.resources
+C:\Users\user\Desktop\Vista System\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.loading.resources
+C:\Users\user\Desktop\Vista System\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Login.resources
+C:\Users\user\Desktop\Vista System\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.MainMenu_Form.resources
+C:\Users\user\Desktop\Vista System\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.ManageStock.resources
+C:\Users\user\Desktop\Vista System\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Manage_Creditors.resources
+C:\Users\user\Desktop\Vista System\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.M_Category.resources
+C:\Users\user\Desktop\Vista System\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Properties.Resources.resources
+C:\Users\user\Desktop\Vista System\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Report_Sales.resources
+C:\Users\user\Desktop\Vista System\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.StartUp.resources
+C:\Users\user\Desktop\Vista System\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.StockReturn.resources
+C:\Users\user\Desktop\Vista System\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Stock_Report.resources
+C:\Users\user\Desktop\Vista System\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Stock_Update.resources
+C:\Users\user\Desktop\Vista System\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.UserManage.resources
+C:\Users\user\Desktop\Vista System\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.View_Dercription.resources
+C:\Users\user\Desktop\Vista System\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.ViewCart.resources
+C:\Users\user\Desktop\Vista System\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.VIewPrinters.resources
+C:\Users\user\Desktop\Vista System\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.ViewProducts.resources
+C:\Users\user\Desktop\Vista System\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.ViewSales.resources
+C:\Users\user\Desktop\Vista System\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.ViewSoldProduct.resources
+C:\Users\user\Desktop\Vista System\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.ViewStockUpdate.resources
+C:\Users\user\Desktop\Vista System\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.View_Sales_Product.resources
+C:\Users\user\Desktop\Vista System\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.V_Stock.resources
+C:\Users\user\Desktop\Vista System\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Vista System\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.exe.licenses
+C:\Users\user\Desktop\Vista System\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\RdlCompile.cache
+C:\Users\user\Desktop\Vista System\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\RdlCompile.compiled
+C:\Users\user\Desktop\Vista System\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.exe
+C:\Users\user\Desktop\Vista System\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.pdb
+M:\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\POS.AddToCart.exe.config
+M:\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.exe
+M:\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.pdb
+M:\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\POS.AddToCart.exe
+M:\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\POS.AddToCart.pdb
+M:\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\BusinessObjects.dll
+M:\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\DevComponents.DotNetBar2.dll
+M:\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\JsonPrettyPrinterPlus.dll
+M:\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\log4net.dll
+M:\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\MahApps.Metro.dll
+M:\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\Neodynamic.SDK.ThermalLabel.dll
+M:\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\ObjectPrinter.dll
+M:\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\ObjectPrinter.Log4Net.dll
+M:\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\System.Windows.Interactivity.dll
+M:\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\Tim.BarcodePrinter.dll
+M:\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\zxing.dll
+M:\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\DataAccessCommon.dll
+M:\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\BusinessObjects.pdb
+M:\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\log4net.xml
+M:\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\MahApps.Metro.pdb
+M:\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\MahApps.Metro.xml
+M:\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\Tim.BarcodePrinter.pdb
+M:\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.csprojResolveAssemblyReference.cache
+M:\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.AddProduct.resources
+M:\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.BillPrint.resources
+M:\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.DatabaseManagement_Form.resources
+M:\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Edit_Credit.resources
+M:\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Form3.resources
+M:\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.FormBilling.resources
+M:\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.loading.resources
+M:\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Login.resources
+M:\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.MainMenu_Form.resources
+M:\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.ManageStock.resources
+M:\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Manage_Creditors.resources
+M:\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.M_Category.resources
+M:\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Properties.Resources.resources
+M:\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Report_Sales.resources
+M:\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.StartUp.resources
+M:\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.StockReturn.resources
+M:\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Stock_Report.resources
+M:\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Stock_Update.resources
+M:\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.UserManage.resources
+M:\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.View_Dercription.resources
+M:\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.ViewCart.resources
+M:\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.VIewPrinters.resources
+M:\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.ViewProducts.resources
+M:\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.ViewSales.resources
+M:\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.ViewSoldProduct.resources
+M:\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.ViewStockUpdate.resources
+M:\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.View_Sales_Product.resources
+M:\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.V_Stock.resources
+M:\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.csproj.GenerateResource.Cache
+M:\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.exe.licenses
+M:\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\RdlCompile.cache
+M:\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\RdlCompile.compiled
+C:\Users\user\Desktop\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\POS.AddToCart.exe.config
+C:\Users\user\Desktop\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\POS.AddToCart.exe
+C:\Users\user\Desktop\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\POS.AddToCart.pdb
+C:\Users\user\Desktop\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\BusinessObjects.dll
+C:\Users\user\Desktop\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\JsonPrettyPrinterPlus.dll
+C:\Users\user\Desktop\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\log4net.dll
+C:\Users\user\Desktop\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\MahApps.Metro.dll
+C:\Users\user\Desktop\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\Neodynamic.SDK.ThermalLabel.dll
+C:\Users\user\Desktop\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\ObjectPrinter.dll
+C:\Users\user\Desktop\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\ObjectPrinter.Log4Net.dll
+C:\Users\user\Desktop\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\user\Desktop\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\Tim.BarcodePrinter.dll
+C:\Users\user\Desktop\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\zxing.dll
+C:\Users\user\Desktop\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\DataAccessCommon.dll
+C:\Users\user\Desktop\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\BusinessObjects.pdb
+C:\Users\user\Desktop\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\log4net.xml
+C:\Users\user\Desktop\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\MahApps.Metro.pdb
+C:\Users\user\Desktop\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\MahApps.Metro.xml
+C:\Users\user\Desktop\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\Tim.BarcodePrinter.pdb
+C:\Users\user\Desktop\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.AddProduct.resources
+C:\Users\user\Desktop\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.BillPrint.resources
+C:\Users\user\Desktop\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.ChequePay.resources
+C:\Users\user\Desktop\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.purcahsed_products.resources
+C:\Users\user\Desktop\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Purchase_M.resources
+C:\Users\user\Desktop\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.ViewChequePayment.resources
+C:\Users\user\Desktop\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.DatabaseManagement_Form.resources
+C:\Users\user\Desktop\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Edit_Credit.resources
+C:\Users\user\Desktop\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Form3.resources
+C:\Users\user\Desktop\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.FormBilling.resources
+C:\Users\user\Desktop\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.loading.resources
+C:\Users\user\Desktop\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Login.resources
+C:\Users\user\Desktop\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.MainMenu_Form.resources
+C:\Users\user\Desktop\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.ManageStock.resources
+C:\Users\user\Desktop\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Manage_Creditors.resources
+C:\Users\user\Desktop\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.M_Category.resources
+C:\Users\user\Desktop\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Properties.Resources.resources
+C:\Users\user\Desktop\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Report_Sales.resources
+C:\Users\user\Desktop\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.StartUp.resources
+C:\Users\user\Desktop\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.StockReturn.resources
+C:\Users\user\Desktop\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Stock_Report.resources
+C:\Users\user\Desktop\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Stock_Update.resources
+C:\Users\user\Desktop\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.UserManage.resources
+C:\Users\user\Desktop\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.View_Dercription.resources
+C:\Users\user\Desktop\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.ViewCart.resources
+C:\Users\user\Desktop\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.VIewPrinters.resources
+C:\Users\user\Desktop\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.ViewProducts.resources
+C:\Users\user\Desktop\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.ViewSales.resources
+C:\Users\user\Desktop\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.ViewSoldProduct.resources
+C:\Users\user\Desktop\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.ViewStockUpdate.resources
+C:\Users\user\Desktop\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.View_Sales_Product.resources
+C:\Users\user\Desktop\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.V_Stock.resources
+C:\Users\user\Desktop\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.exe.licenses
+C:\Users\user\Desktop\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\RdlCompile.cache
+C:\Users\user\Desktop\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\RdlCompile.compiled
+C:\Users\user\Desktop\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.exe
+C:\Users\user\Desktop\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.pdb
+K:\Current Directory\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\POS.AddToCart.exe.config
+K:\Current Directory\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\POS.AddToCart.exe
+K:\Current Directory\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\POS.AddToCart.pdb
+K:\Current Directory\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\BusinessObjects.dll
+K:\Current Directory\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\JsonPrettyPrinterPlus.dll
+K:\Current Directory\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\log4net.dll
+K:\Current Directory\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\MahApps.Metro.dll
+K:\Current Directory\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\Neodynamic.SDK.ThermalLabel.dll
+K:\Current Directory\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\ObjectPrinter.dll
+K:\Current Directory\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\ObjectPrinter.Log4Net.dll
+K:\Current Directory\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\System.Windows.Interactivity.dll
+K:\Current Directory\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\Tim.BarcodePrinter.dll
+K:\Current Directory\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\zxing.dll
+K:\Current Directory\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\DataAccessCommon.dll
+K:\Current Directory\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\BusinessObjects.pdb
+K:\Current Directory\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\log4net.xml
+K:\Current Directory\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\MahApps.Metro.pdb
+K:\Current Directory\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\MahApps.Metro.xml
+K:\Current Directory\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\Tim.BarcodePrinter.pdb
+K:\Current Directory\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.csprojResolveAssemblyReference.cache
+K:\Current Directory\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.AddProduct.resources
+K:\Current Directory\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.BillPrint.resources
+K:\Current Directory\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.ChequePay.resources
+K:\Current Directory\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.purcahsed_products.resources
+K:\Current Directory\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Purchase_M.resources
+K:\Current Directory\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.ViewChequePayment.resources
+K:\Current Directory\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.DatabaseManagement_Form.resources
+K:\Current Directory\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Edit_Credit.resources
+K:\Current Directory\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Form3.resources
+K:\Current Directory\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.FormBilling.resources
+K:\Current Directory\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.loading.resources
+K:\Current Directory\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Login.resources
+K:\Current Directory\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.MainMenu_Form.resources
+K:\Current Directory\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.ManageStock.resources
+K:\Current Directory\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Manage_Creditors.resources
+K:\Current Directory\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.M_Category.resources
+K:\Current Directory\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Properties.Resources.resources
+K:\Current Directory\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Report_Sales.resources
+K:\Current Directory\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.StartUp.resources
+K:\Current Directory\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.StockReturn.resources
+K:\Current Directory\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Stock_Report.resources
+K:\Current Directory\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Stock_Update.resources
+K:\Current Directory\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.UserManage.resources
+K:\Current Directory\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.View_Dercription.resources
+K:\Current Directory\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.ViewCart.resources
+K:\Current Directory\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.VIewPrinters.resources
+K:\Current Directory\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.ViewProducts.resources
+K:\Current Directory\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.ViewSales.resources
+K:\Current Directory\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.ViewSoldProduct.resources
+K:\Current Directory\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.ViewStockUpdate.resources
+K:\Current Directory\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.View_Sales_Product.resources
+K:\Current Directory\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.V_Stock.resources
+K:\Current Directory\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.csproj.GenerateResource.Cache
+K:\Current Directory\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.exe.licenses
+K:\Current Directory\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\RdlCompile.cache
+K:\Current Directory\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\RdlCompile.compiled
+K:\Current Directory\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.exe
+K:\Current Directory\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.pdb
+K:\FutureSoft POS\Vista 9.0\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\POS.AddToCart.exe.config
+K:\FutureSoft POS\Vista 9.0\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\POS.AddToCart.exe
+K:\FutureSoft POS\Vista 9.0\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\POS.AddToCart.pdb
+K:\FutureSoft POS\Vista 9.0\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\BusinessObjects.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\JsonPrettyPrinterPlus.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\log4net.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\MahApps.Metro.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\Neodynamic.SDK.ThermalLabel.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\ObjectPrinter.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\ObjectPrinter.Log4Net.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\System.Windows.Interactivity.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\Tim.BarcodePrinter.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\zxing.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\DataAccessCommon.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\BusinessObjects.pdb
+K:\FutureSoft POS\Vista 9.0\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\log4net.xml
+K:\FutureSoft POS\Vista 9.0\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\MahApps.Metro.pdb
+K:\FutureSoft POS\Vista 9.0\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\MahApps.Metro.xml
+K:\FutureSoft POS\Vista 9.0\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\bin\Debug\Tim.BarcodePrinter.pdb
+K:\FutureSoft POS\Vista 9.0\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.csprojResolveAssemblyReference.cache
+K:\FutureSoft POS\Vista 9.0\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.AddProduct.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.BillPrint.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.ChequePay.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.purcahsed_products.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Purchase_M.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.SalesReturn.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.SalesReturnProductsUpdate.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.ViewChequePayment.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.DatabaseManagement_Form.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Edit_Credit.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Form3.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.FormBilling.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.loading.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Login.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.MainMenu_Form.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.ManageStock.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Manage_Creditors.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.M_Category.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Properties.Resources.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Report_Sales.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.StartUp.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.StockReturn.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Stock_Report.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Stock_Update.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.UserManage.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.View_Dercription.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.ViewCart.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.VIewPrinters.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.ViewProducts.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.ViewSales.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.ViewSalesProductCancelSale.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.ViewSoldProduct.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.ViewStockUpdate.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.View_Sales_Product.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.V_Stock.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.csproj.GenerateResource.Cache
+K:\FutureSoft POS\Vista 9.0\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.exe.licenses
+K:\FutureSoft POS\Vista 9.0\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\RdlCompile.cache
+K:\FutureSoft POS\Vista 9.0\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\RdlCompile.compiled
+K:\FutureSoft POS\Vista 9.0\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.exe
+K:\FutureSoft POS\Vista 9.0\Vista System\1.9\1.7\1.3 Setup - Copy global exception\1.3\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.pdb
+K:\POS - Copy\POS.AddToCart\bin\Debug\POS.AddToCart.exe.config
+K:\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.exe
+K:\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.pdb
+K:\POS - Copy\POS.AddToCart\bin\Debug\POS.AddToCart.exe
+K:\POS - Copy\POS.AddToCart\bin\Debug\POS.AddToCart.pdb
+K:\POS - Copy\POS.AddToCart\bin\Debug\BusinessObjects.dll
+K:\POS - Copy\POS.AddToCart\bin\Debug\DevComponents.DotNetBar2.dll
+K:\POS - Copy\POS.AddToCart\bin\Debug\JsonPrettyPrinterPlus.dll
+K:\POS - Copy\POS.AddToCart\bin\Debug\log4net.dll
+K:\POS - Copy\POS.AddToCart\bin\Debug\MahApps.Metro.dll
+K:\POS - Copy\POS.AddToCart\bin\Debug\Neodynamic.SDK.ThermalLabel.dll
+K:\POS - Copy\POS.AddToCart\bin\Debug\ObjectPrinter.dll
+K:\POS - Copy\POS.AddToCart\bin\Debug\ObjectPrinter.Log4Net.dll
+K:\POS - Copy\POS.AddToCart\bin\Debug\System.Windows.Interactivity.dll
+K:\POS - Copy\POS.AddToCart\bin\Debug\Tim.BarcodePrinter.dll
+K:\POS - Copy\POS.AddToCart\bin\Debug\zxing.dll
+K:\POS - Copy\POS.AddToCart\bin\Debug\DataAccessCommon.dll
+K:\POS - Copy\POS.AddToCart\bin\Debug\BusinessObjects.pdb
+K:\POS - Copy\POS.AddToCart\bin\Debug\log4net.xml
+K:\POS - Copy\POS.AddToCart\bin\Debug\MahApps.Metro.pdb
+K:\POS - Copy\POS.AddToCart\bin\Debug\MahApps.Metro.xml
+K:\POS - Copy\POS.AddToCart\bin\Debug\Tim.BarcodePrinter.pdb
+K:\POS - Copy\POS.AddToCart\obj\Debug\POS.csprojResolveAssemblyReference.cache
+K:\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.AddProduct.resources
+K:\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.BillPrint.resources
+K:\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.ChequePay.resources
+K:\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.purcahsed_products.resources
+K:\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Purchase_M.resources
+K:\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.SalesReturn.resources
+K:\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.SalesReturnProductsUpdate.resources
+K:\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.ViewChequePayment.resources
+K:\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.DatabaseManagement_Form.resources
+K:\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Edit_Credit.resources
+K:\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Form3.resources
+K:\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.FormBilling.resources
+K:\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.loading.resources
+K:\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Login.resources
+K:\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.MainMenu_Form.resources
+K:\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.ManageStock.resources
+K:\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Manage_Creditors.resources
+K:\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.M_Category.resources
+K:\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Properties.Resources.resources
+K:\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Report_Sales.resources
+K:\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.StartUp.resources
+K:\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.StockReturn.resources
+K:\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Stock_Report.resources
+K:\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Stock_Update.resources
+K:\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.UserManage.resources
+K:\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.View_Dercription.resources
+K:\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.ViewCart.resources
+K:\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.VIewPrinters.resources
+K:\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.ViewProducts.resources
+K:\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.ViewSales.resources
+K:\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.ViewSalesProductCancelSale.resources
+K:\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.ViewSoldProduct.resources
+K:\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.ViewStockUpdate.resources
+K:\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.View_Sales_Product.resources
+K:\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.V_Stock.resources
+K:\POS - Copy\POS.AddToCart\obj\Debug\POS.csproj.GenerateResource.Cache
+K:\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.exe.licenses
+K:\POS - Copy\POS.AddToCart\obj\Debug\RdlCompile.cache
+K:\POS - Copy\POS.AddToCart\obj\Debug\RdlCompile.compiled
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS - Copy\POS.AddToCart\bin\Debug\POS.AddToCart.exe.config
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS - Copy\POS.AddToCart\bin\Debug\POS.AddToCart.exe
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS - Copy\POS.AddToCart\bin\Debug\POS.AddToCart.pdb
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS - Copy\POS.AddToCart\bin\Debug\BusinessObjects.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS - Copy\POS.AddToCart\bin\Debug\JsonPrettyPrinterPlus.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS - Copy\POS.AddToCart\bin\Debug\log4net.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS - Copy\POS.AddToCart\bin\Debug\MahApps.Metro.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS - Copy\POS.AddToCart\bin\Debug\Neodynamic.SDK.ThermalLabel.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS - Copy\POS.AddToCart\bin\Debug\ObjectPrinter.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS - Copy\POS.AddToCart\bin\Debug\ObjectPrinter.Log4Net.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS - Copy\POS.AddToCart\bin\Debug\System.Windows.Interactivity.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS - Copy\POS.AddToCart\bin\Debug\Tim.BarcodePrinter.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS - Copy\POS.AddToCart\bin\Debug\zxing.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS - Copy\POS.AddToCart\bin\Debug\DataAccessCommon.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS - Copy\POS.AddToCart\bin\Debug\BusinessObjects.pdb
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS - Copy\POS.AddToCart\bin\Debug\log4net.xml
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS - Copy\POS.AddToCart\bin\Debug\MahApps.Metro.pdb
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS - Copy\POS.AddToCart\bin\Debug\MahApps.Metro.xml
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS - Copy\POS.AddToCart\bin\Debug\Tim.BarcodePrinter.pdb
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS - Copy\POS.AddToCart\obj\Debug\POS.csprojResolveAssemblyReference.cache
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.AddProduct.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.BillPrint.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.ChequePay.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.purcahsed_products.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Purchase_M.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.SalesReturn.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.SalesReturnProductsUpdate.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.ViewChequePayment.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.DatabaseManagement_Form.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Edit_Credit.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Form3.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.FormBilling.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.loading.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Login.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.MainMenu_Form.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.ManageStock.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Manage_Creditors.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.M_Category.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Properties.Resources.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Report_Sales.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.StartUp.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.StockReturn.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Stock_Report.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.Stock_Update.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.UserManage.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.View_Dercription.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.ViewCart.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.VIewPrinters.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.ViewProducts.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.ViewSales.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.ViewSalesProductCancelSale.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.ViewSalesReturn.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.ViewSoldProduct.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.ViewStockUpdate.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.View_Sales_Product.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.View_Sales_Return_Products.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.V_Stock.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS - Copy\POS.AddToCart\obj\Debug\POS.csproj.GenerateResource.Cache
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.exe.licenses
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS - Copy\POS.AddToCart\obj\Debug\RdlCompile.cache
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS - Copy\POS.AddToCart\obj\Debug\RdlCompile.compiled
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.exe
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS - Copy\POS.AddToCart\obj\Debug\POS.AddToCart.pdb
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu\POS.AddToCart\bin\Debug\POS.AddToCart.exe.config
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu\POS.AddToCart\obj\Debug\POS.AddToCart.exe
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu\POS.AddToCart\obj\Debug\POS.AddToCart.pdb
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu\POS.AddToCart\bin\Debug\POS.AddToCart.exe
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu\POS.AddToCart\bin\Debug\POS.AddToCart.pdb
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu\POS.AddToCart\bin\Debug\BusinessObjects.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu\POS.AddToCart\bin\Debug\JsonPrettyPrinterPlus.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu\POS.AddToCart\bin\Debug\log4net.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu\POS.AddToCart\bin\Debug\MahApps.Metro.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu\POS.AddToCart\bin\Debug\Neodynamic.SDK.ThermalLabel.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu\POS.AddToCart\bin\Debug\ObjectPrinter.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu\POS.AddToCart\bin\Debug\ObjectPrinter.Log4Net.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu\POS.AddToCart\bin\Debug\System.Windows.Interactivity.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu\POS.AddToCart\bin\Debug\Tim.BarcodePrinter.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu\POS.AddToCart\bin\Debug\zxing.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu\POS.AddToCart\bin\Debug\DataAccessCommon.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu\POS.AddToCart\bin\Debug\BusinessObjects.pdb
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu\POS.AddToCart\bin\Debug\log4net.xml
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu\POS.AddToCart\bin\Debug\MahApps.Metro.pdb
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu\POS.AddToCart\bin\Debug\MahApps.Metro.xml
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu\POS.AddToCart\bin\Debug\Tim.BarcodePrinter.pdb
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu\POS.AddToCart\obj\Debug\POS.csprojResolveAssemblyReference.cache
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu\POS.AddToCart\obj\Debug\POS.AddToCart.AddProduct.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu\POS.AddToCart\obj\Debug\POS.AddToCart.BillPrint.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu\POS.AddToCart\obj\Debug\POS.AddToCart.ChequePay.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu\POS.AddToCart\obj\Debug\POS.AddToCart.Dashboard.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu\POS.AddToCart\obj\Debug\POS.AddToCart.purcahsed_products.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu\POS.AddToCart\obj\Debug\POS.AddToCart.Purchase_M.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu\POS.AddToCart\obj\Debug\POS.AddToCart.SalesReturn.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu\POS.AddToCart\obj\Debug\POS.AddToCart.SalesReturnProductsUpdate.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu\POS.AddToCart\obj\Debug\POS.AddToCart.ViewChequePayment.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu\POS.AddToCart\obj\Debug\POS.AddToCart.DatabaseManagement_Form.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu\POS.AddToCart\obj\Debug\POS.AddToCart.Edit_Credit.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu\POS.AddToCart\obj\Debug\POS.AddToCart.Form3.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu\POS.AddToCart\obj\Debug\POS.AddToCart.FormBilling.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu\POS.AddToCart\obj\Debug\POS.AddToCart.loading.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu\POS.AddToCart\obj\Debug\POS.AddToCart.Login.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu\POS.AddToCart\obj\Debug\POS.AddToCart.MainMenu_Form.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu\POS.AddToCart\obj\Debug\POS.AddToCart.ManageStock.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu\POS.AddToCart\obj\Debug\POS.AddToCart.Manage_Creditors.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu\POS.AddToCart\obj\Debug\POS.AddToCart.M_Category.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu\POS.AddToCart\obj\Debug\POS.AddToCart.Properties.Resources.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu\POS.AddToCart\obj\Debug\POS.AddToCart.Report_Sales.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu\POS.AddToCart\obj\Debug\POS.AddToCart.StartUp.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu\POS.AddToCart\obj\Debug\POS.AddToCart.StockReturn.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu\POS.AddToCart\obj\Debug\POS.AddToCart.Stock_Report.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu\POS.AddToCart\obj\Debug\POS.AddToCart.Stock_Update.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu\POS.AddToCart\obj\Debug\POS.AddToCart.UserManage.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu\POS.AddToCart\obj\Debug\POS.AddToCart.View_Dercription.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu\POS.AddToCart\obj\Debug\POS.AddToCart.ViewCart.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu\POS.AddToCart\obj\Debug\POS.AddToCart.VIewPrinters.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu\POS.AddToCart\obj\Debug\POS.AddToCart.ViewProducts.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu\POS.AddToCart\obj\Debug\POS.AddToCart.ViewSales.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu\POS.AddToCart\obj\Debug\POS.AddToCart.ViewSalesProductCancelSale.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu\POS.AddToCart\obj\Debug\POS.AddToCart.ViewSalesReturn.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu\POS.AddToCart\obj\Debug\POS.AddToCart.ViewSoldProduct.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu\POS.AddToCart\obj\Debug\POS.AddToCart.ViewStockUpdate.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu\POS.AddToCart\obj\Debug\POS.AddToCart.View_Sales_Product.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu\POS.AddToCart\obj\Debug\POS.AddToCart.View_Sales_Return_Products.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu\POS.AddToCart\obj\Debug\POS.AddToCart.V_Stock.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu\POS.AddToCart\obj\Debug\POS.csproj.GenerateResource.Cache
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu\POS.AddToCart\obj\Debug\POS.AddToCart.exe.licenses
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu\POS.AddToCart\obj\Debug\RdlCompile.cache
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu\POS.AddToCart\obj\Debug\RdlCompile.compiled
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu\POS.AddToCart\bin\Debug\Bunifu_UI_v1.52.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu\POS.AddToCart\obj\Debug\POS.AddToCart.D_Summary.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - MakingUserControl\POS.AddToCart\bin\Debug\POS.AddToCart.exe.config
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - MakingUserControl\POS.AddToCart\bin\Debug\POS.AddToCart.exe
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - MakingUserControl\POS.AddToCart\bin\Debug\POS.AddToCart.pdb
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - MakingUserControl\POS.AddToCart\bin\Debug\Bunifu_UI_v1.52.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - MakingUserControl\POS.AddToCart\bin\Debug\BusinessObjects.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - MakingUserControl\POS.AddToCart\bin\Debug\JsonPrettyPrinterPlus.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - MakingUserControl\POS.AddToCart\bin\Debug\log4net.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - MakingUserControl\POS.AddToCart\bin\Debug\MahApps.Metro.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - MakingUserControl\POS.AddToCart\bin\Debug\Neodynamic.SDK.ThermalLabel.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - MakingUserControl\POS.AddToCart\bin\Debug\ObjectPrinter.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - MakingUserControl\POS.AddToCart\bin\Debug\ObjectPrinter.Log4Net.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - MakingUserControl\POS.AddToCart\bin\Debug\System.Windows.Interactivity.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - MakingUserControl\POS.AddToCart\bin\Debug\Tim.BarcodePrinter.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - MakingUserControl\POS.AddToCart\bin\Debug\zxing.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - MakingUserControl\POS.AddToCart\bin\Debug\DataAccessCommon.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - MakingUserControl\POS.AddToCart\bin\Debug\BusinessObjects.pdb
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - MakingUserControl\POS.AddToCart\bin\Debug\log4net.xml
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - MakingUserControl\POS.AddToCart\bin\Debug\MahApps.Metro.pdb
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - MakingUserControl\POS.AddToCart\bin\Debug\MahApps.Metro.xml
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - MakingUserControl\POS.AddToCart\bin\Debug\Tim.BarcodePrinter.pdb
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - MakingUserControl\POS.AddToCart\obj\Debug\POS.csprojResolveAssemblyReference.cache
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - MakingUserControl\POS.AddToCart\obj\Debug\POS.AddToCart.AddProduct.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - MakingUserControl\POS.AddToCart\obj\Debug\POS.AddToCart.BillPrint.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - MakingUserControl\POS.AddToCart\obj\Debug\POS.AddToCart.ChequePay.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - MakingUserControl\POS.AddToCart\obj\Debug\POS.AddToCart.Dashboard.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - MakingUserControl\POS.AddToCart\obj\Debug\POS.AddToCart.D_Summary.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - MakingUserControl\POS.AddToCart\obj\Debug\POS.AddToCart.OutOfStoclIC.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - MakingUserControl\POS.AddToCart\obj\Debug\POS.AddToCart.purcahsed_products.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - MakingUserControl\POS.AddToCart\obj\Debug\POS.AddToCart.Purchase_M.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - MakingUserControl\POS.AddToCart\obj\Debug\POS.AddToCart.SalesReturn.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - MakingUserControl\POS.AddToCart\obj\Debug\POS.AddToCart.SalesReturnProductsUpdate.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - MakingUserControl\POS.AddToCart\obj\Debug\POS.AddToCart.UserControlDashBoard.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - MakingUserControl\POS.AddToCart\obj\Debug\POS.AddToCart.ViewChequePayment.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - MakingUserControl\POS.AddToCart\obj\Debug\POS.AddToCart.DatabaseManagement_Form.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - MakingUserControl\POS.AddToCart\obj\Debug\POS.AddToCart.Edit_Credit.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - MakingUserControl\POS.AddToCart\obj\Debug\POS.AddToCart.Form3.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - MakingUserControl\POS.AddToCart\obj\Debug\POS.AddToCart.FormBilling.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - MakingUserControl\POS.AddToCart\obj\Debug\POS.AddToCart.loading.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - MakingUserControl\POS.AddToCart\obj\Debug\POS.AddToCart.Login.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - MakingUserControl\POS.AddToCart\obj\Debug\POS.AddToCart.MainMenu_Form.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - MakingUserControl\POS.AddToCart\obj\Debug\POS.AddToCart.ManageStock.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - MakingUserControl\POS.AddToCart\obj\Debug\POS.AddToCart.Manage_Creditors.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - MakingUserControl\POS.AddToCart\obj\Debug\POS.AddToCart.M_Category.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - MakingUserControl\POS.AddToCart\obj\Debug\POS.AddToCart.Properties.Resources.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - MakingUserControl\POS.AddToCart\obj\Debug\POS.AddToCart.Report_Sales.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - MakingUserControl\POS.AddToCart\obj\Debug\POS.AddToCart.StartUp.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - MakingUserControl\POS.AddToCart\obj\Debug\POS.AddToCart.StockReturn.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - MakingUserControl\POS.AddToCart\obj\Debug\POS.AddToCart.Stock_Report.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - MakingUserControl\POS.AddToCart\obj\Debug\POS.AddToCart.Stock_Update.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - MakingUserControl\POS.AddToCart\obj\Debug\POS.AddToCart.UserManage.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - MakingUserControl\POS.AddToCart\obj\Debug\POS.AddToCart.View_Dercription.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - MakingUserControl\POS.AddToCart\obj\Debug\POS.AddToCart.ViewCart.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - MakingUserControl\POS.AddToCart\obj\Debug\POS.AddToCart.VIewPrinters.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - MakingUserControl\POS.AddToCart\obj\Debug\POS.AddToCart.ViewProducts.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - MakingUserControl\POS.AddToCart\obj\Debug\POS.AddToCart.ViewSales.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - MakingUserControl\POS.AddToCart\obj\Debug\POS.AddToCart.ViewSalesProductCancelSale.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - MakingUserControl\POS.AddToCart\obj\Debug\POS.AddToCart.ViewSalesReturn.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - MakingUserControl\POS.AddToCart\obj\Debug\POS.AddToCart.ViewSoldProduct.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - MakingUserControl\POS.AddToCart\obj\Debug\POS.AddToCart.ViewStockUpdate.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - MakingUserControl\POS.AddToCart\obj\Debug\POS.AddToCart.View_Sales_Product.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - MakingUserControl\POS.AddToCart\obj\Debug\POS.AddToCart.View_Sales_Return_Products.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - MakingUserControl\POS.AddToCart\obj\Debug\POS.AddToCart.V_Stock.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - MakingUserControl\POS.AddToCart\obj\Debug\POS.csproj.GenerateResource.Cache
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - MakingUserControl\POS.AddToCart\obj\Debug\POS.AddToCart.exe.licenses
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - MakingUserControl\POS.AddToCart\obj\Debug\RdlCompile.cache
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - MakingUserControl\POS.AddToCart\obj\Debug\RdlCompile.compiled
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - MakingUserControl\POS.AddToCart\obj\Debug\POS.AddToCart.exe
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - MakingUserControl\POS.AddToCart\obj\Debug\POS.AddToCart.pdb
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing\POS.AddToCart\bin\Debug\POS.AddToCart.exe.config
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing\POS.AddToCart\obj\Debug\POS.AddToCart.exe
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing\POS.AddToCart\obj\Debug\POS.AddToCart.pdb
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing\POS.AddToCart\bin\Debug\POS.AddToCart.exe
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing\POS.AddToCart\bin\Debug\POS.AddToCart.pdb
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing\POS.AddToCart\bin\Debug\Bunifu_UI_v1.52.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing\POS.AddToCart\bin\Debug\BusinessObjects.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing\POS.AddToCart\bin\Debug\JsonPrettyPrinterPlus.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing\POS.AddToCart\bin\Debug\log4net.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing\POS.AddToCart\bin\Debug\MahApps.Metro.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing\POS.AddToCart\bin\Debug\Neodynamic.SDK.ThermalLabel.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing\POS.AddToCart\bin\Debug\ObjectPrinter.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing\POS.AddToCart\bin\Debug\ObjectPrinter.Log4Net.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing\POS.AddToCart\bin\Debug\System.Windows.Interactivity.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing\POS.AddToCart\bin\Debug\Tim.BarcodePrinter.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing\POS.AddToCart\bin\Debug\zxing.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing\POS.AddToCart\bin\Debug\DataAccessCommon.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing\POS.AddToCart\bin\Debug\BusinessObjects.pdb
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing\POS.AddToCart\bin\Debug\log4net.xml
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing\POS.AddToCart\bin\Debug\MahApps.Metro.pdb
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing\POS.AddToCart\bin\Debug\MahApps.Metro.xml
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing\POS.AddToCart\bin\Debug\Tim.BarcodePrinter.pdb
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing\POS.AddToCart\obj\Debug\POS.csprojResolveAssemblyReference.cache
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing\POS.AddToCart\obj\Debug\POS.AddToCart.AddProduct.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing\POS.AddToCart\obj\Debug\POS.AddToCart.BillPrint.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing\POS.AddToCart\obj\Debug\POS.AddToCart.ChequePay.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing\POS.AddToCart\obj\Debug\POS.AddToCart.Dashboard.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing\POS.AddToCart\obj\Debug\POS.AddToCart.D_Summary.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing\POS.AddToCart\obj\Debug\POS.AddToCart.OutOfStoclIC.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing\POS.AddToCart\obj\Debug\POS.AddToCart.purcahsed_products.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing\POS.AddToCart\obj\Debug\POS.AddToCart.Purchase_M.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing\POS.AddToCart\obj\Debug\POS.AddToCart.SalesReturn.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing\POS.AddToCart\obj\Debug\POS.AddToCart.SalesReturnProductsUpdate.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing\POS.AddToCart\obj\Debug\POS.AddToCart.UserControlDashBoard.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing\POS.AddToCart\obj\Debug\POS.AddToCart.ViewChequePayment.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing\POS.AddToCart\obj\Debug\POS.AddToCart.DatabaseManagement_Form.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing\POS.AddToCart\obj\Debug\POS.AddToCart.Edit_Credit.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing\POS.AddToCart\obj\Debug\POS.AddToCart.Form3.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing\POS.AddToCart\obj\Debug\POS.AddToCart.FormBilling.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing\POS.AddToCart\obj\Debug\POS.AddToCart.loading.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing\POS.AddToCart\obj\Debug\POS.AddToCart.Login.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing\POS.AddToCart\obj\Debug\POS.AddToCart.MainMenu_Form.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing\POS.AddToCart\obj\Debug\POS.AddToCart.ManageStock.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing\POS.AddToCart\obj\Debug\POS.AddToCart.Manage_Creditors.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing\POS.AddToCart\obj\Debug\POS.AddToCart.M_Category.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing\POS.AddToCart\obj\Debug\POS.AddToCart.Properties.Resources.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing\POS.AddToCart\obj\Debug\POS.AddToCart.Report_Sales.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing\POS.AddToCart\obj\Debug\POS.AddToCart.StartUp.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing\POS.AddToCart\obj\Debug\POS.AddToCart.StockReturn.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing\POS.AddToCart\obj\Debug\POS.AddToCart.Stock_Report.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing\POS.AddToCart\obj\Debug\POS.AddToCart.Stock_Update.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing\POS.AddToCart\obj\Debug\POS.AddToCart.UserManage.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing\POS.AddToCart\obj\Debug\POS.AddToCart.View_Dercription.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing\POS.AddToCart\obj\Debug\POS.AddToCart.ViewCart.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing\POS.AddToCart\obj\Debug\POS.AddToCart.VIewPrinters.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing\POS.AddToCart\obj\Debug\POS.AddToCart.ViewProducts.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing\POS.AddToCart\obj\Debug\POS.AddToCart.ViewSales.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing\POS.AddToCart\obj\Debug\POS.AddToCart.ViewSalesProductCancelSale.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing\POS.AddToCart\obj\Debug\POS.AddToCart.ViewSalesReturn.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing\POS.AddToCart\obj\Debug\POS.AddToCart.ViewSoldProduct.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing\POS.AddToCart\obj\Debug\POS.AddToCart.ViewStockUpdate.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing\POS.AddToCart\obj\Debug\POS.AddToCart.View_Sales_Product.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing\POS.AddToCart\obj\Debug\POS.AddToCart.View_Sales_Return_Products.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing\POS.AddToCart\obj\Debug\POS.AddToCart.V_Stock.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing\POS.AddToCart\obj\Debug\POS.csproj.GenerateResource.Cache
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing\POS.AddToCart\obj\Debug\POS.AddToCart.exe.licenses
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing\POS.AddToCart\obj\Debug\RdlCompile.cache
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing\POS.AddToCart\obj\Debug\RdlCompile.compiled
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing\POS.AddToCart\bin\Debug\Tulpep.NotificationWindow.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\bin\Debug\POS.AddToCart.exe.config
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\bin\Debug\POS.AddToCart.exe
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\bin\Debug\POS.AddToCart.pdb
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\bin\Debug\Bunifu_UI_v1.52.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\bin\Debug\BusinessObjects.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\bin\Debug\JsonPrettyPrinterPlus.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\bin\Debug\log4net.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\bin\Debug\MahApps.Metro.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\bin\Debug\Neodynamic.SDK.ThermalLabel.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\bin\Debug\ObjectPrinter.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\bin\Debug\ObjectPrinter.Log4Net.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\bin\Debug\System.Windows.Interactivity.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\bin\Debug\Tim.BarcodePrinter.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\bin\Debug\Tulpep.NotificationWindow.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\bin\Debug\zxing.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\bin\Debug\DataAccessCommon.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\bin\Debug\BusinessObjects.pdb
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\bin\Debug\log4net.xml
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\bin\Debug\MahApps.Metro.pdb
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\bin\Debug\MahApps.Metro.xml
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\bin\Debug\Tim.BarcodePrinter.pdb
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\obj\Debug\POS.csprojResolveAssemblyReference.cache
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\obj\Debug\POS.AddToCart.AddProduct.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\obj\Debug\POS.AddToCart.BillPrint.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\obj\Debug\POS.AddToCart.ChequePay.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\obj\Debug\POS.AddToCart.Dashboard.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\obj\Debug\POS.AddToCart.D_Summary.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\obj\Debug\POS.AddToCart.FIFO_LIFO.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\obj\Debug\POS.AddToCart.M_Suppilier.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\obj\Debug\POS.AddToCart.OutOfStoclIC.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\obj\Debug\POS.AddToCart.purcahsed_products.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\obj\Debug\POS.AddToCart.Purchase_M.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\obj\Debug\POS.AddToCart.SalesReturn.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\obj\Debug\POS.AddToCart.SalesReturnProductsUpdate.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\obj\Debug\POS.AddToCart.UserControlDashBoard.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\obj\Debug\POS.AddToCart.ViewChequePayment.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\obj\Debug\POS.AddToCart.DatabaseManagement_Form.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\obj\Debug\POS.AddToCart.Edit_Credit.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\obj\Debug\POS.AddToCart.Form3.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\obj\Debug\POS.AddToCart.FormBilling.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\obj\Debug\POS.AddToCart.loading.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\obj\Debug\POS.AddToCart.Login.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\obj\Debug\POS.AddToCart.MainMenu_Form.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\obj\Debug\POS.AddToCart.ManageStock.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\obj\Debug\POS.AddToCart.Manage_Creditors.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\obj\Debug\POS.AddToCart.M_Category.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\obj\Debug\POS.AddToCart.Properties.Resources.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\obj\Debug\POS.AddToCart.Report_Sales.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\obj\Debug\POS.AddToCart.StartUp.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\obj\Debug\POS.AddToCart.StockReturn.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\obj\Debug\POS.AddToCart.Stock_Report.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\obj\Debug\POS.AddToCart.Stock_Update.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\obj\Debug\POS.AddToCart.UserManage.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\obj\Debug\POS.AddToCart.View_Dercription.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\obj\Debug\POS.AddToCart.ViewCart.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\obj\Debug\POS.AddToCart.VIewPrinters.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\obj\Debug\POS.AddToCart.ViewProducts.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\obj\Debug\POS.AddToCart.ViewSales.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\obj\Debug\POS.AddToCart.ViewSalesProductCancelSale.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\obj\Debug\POS.AddToCart.ViewSalesReturn.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\obj\Debug\POS.AddToCart.ViewSoldProduct.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\obj\Debug\POS.AddToCart.ViewStockUpdate.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\obj\Debug\POS.AddToCart.View_Sales_Product.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\obj\Debug\POS.AddToCart.View_Sales_Return_Products.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\obj\Debug\POS.AddToCart.V_Stock.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\obj\Debug\POS.csproj.GenerateResource.Cache
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\obj\Debug\POS.AddToCart.exe.licenses
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\obj\Debug\RdlCompile.cache
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\obj\Debug\RdlCompile.compiled
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\obj\Debug\POS.AddToCart.exe
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\obj\Debug\POS.AddToCart.pdb
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\obj\Debug\POS.AddToCart.M_Customer.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\obj\Debug\POS.AddToCart.V_Customer.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\obj\Debug\POS.AddToCart.LoadingSave.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\obj\Debug\POS.AddToCart.ViewSalesProductQuantity.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\publish Vista Pos\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\bin\Debug\POS.AddToCart.exe.config
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\publish Vista Pos\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\bin\Debug\POS.AddToCart.exe.manifest
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\publish Vista Pos\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\bin\Debug\POS.AddToCart.application
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\publish Vista Pos\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\bin\Debug\POS.AddToCart.exe
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\publish Vista Pos\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\bin\Debug\POS.AddToCart.pdb
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\publish Vista Pos\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\bin\Debug\Bunifu_UI_v1.52.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\publish Vista Pos\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\bin\Debug\BusinessObjects.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\publish Vista Pos\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\bin\Debug\JsonPrettyPrinterPlus.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\publish Vista Pos\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\bin\Debug\log4net.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\publish Vista Pos\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\bin\Debug\MahApps.Metro.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\publish Vista Pos\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\bin\Debug\Neodynamic.SDK.ThermalLabel.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\publish Vista Pos\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\bin\Debug\ObjectPrinter.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\publish Vista Pos\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\bin\Debug\ObjectPrinter.Log4Net.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\publish Vista Pos\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\bin\Debug\System.Windows.Interactivity.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\publish Vista Pos\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\bin\Debug\Tim.BarcodePrinter.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\publish Vista Pos\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\bin\Debug\Tulpep.NotificationWindow.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\publish Vista Pos\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\bin\Debug\zxing.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\publish Vista Pos\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\bin\Debug\DataAccessCommon.dll
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\publish Vista Pos\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\bin\Debug\BusinessObjects.pdb
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\publish Vista Pos\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\bin\Debug\log4net.xml
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\publish Vista Pos\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\bin\Debug\MahApps.Metro.pdb
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\publish Vista Pos\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\bin\Debug\MahApps.Metro.xml
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\publish Vista Pos\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\bin\Debug\Tim.BarcodePrinter.pdb
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\publish Vista Pos\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\obj\Debug\POS.csprojResolveAssemblyReference.cache
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\publish Vista Pos\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\obj\Debug\POS.AddToCart.AddProduct.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\publish Vista Pos\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\obj\Debug\POS.AddToCart.BillPrint.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\publish Vista Pos\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\obj\Debug\POS.AddToCart.ChequePay.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\publish Vista Pos\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\obj\Debug\POS.AddToCart.LoadingSave.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\publish Vista Pos\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\obj\Debug\POS.AddToCart.Mail.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\publish Vista Pos\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\obj\Debug\POS.AddToCart.M_Customer.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\publish Vista Pos\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\obj\Debug\POS.AddToCart.Dashboard.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\publish Vista Pos\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\obj\Debug\POS.AddToCart.D_Summary.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\publish Vista Pos\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\obj\Debug\POS.AddToCart.FIFO_LIFO.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\publish Vista Pos\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\obj\Debug\POS.AddToCart.M_Suppilier.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\publish Vista Pos\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\obj\Debug\POS.AddToCart.OutOfStoclIC.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\publish Vista Pos\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\obj\Debug\POS.AddToCart.purcahsed_products.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\publish Vista Pos\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\obj\Debug\POS.AddToCart.Purchase_M.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\publish Vista Pos\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\obj\Debug\POS.AddToCart.SalesReturn.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\publish Vista Pos\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\obj\Debug\POS.AddToCart.SalesReturnProductsUpdate.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\publish Vista Pos\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\obj\Debug\POS.AddToCart.StackHolder.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\publish Vista Pos\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\obj\Debug\POS.AddToCart.UserControlDashBoard.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\publish Vista Pos\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\obj\Debug\POS.AddToCart.V_Supplier.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\publish Vista Pos\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\obj\Debug\POS.AddToCart.ViewChequePayment.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\publish Vista Pos\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\obj\Debug\POS.AddToCart.DatabaseManagement_Form.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\publish Vista Pos\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\obj\Debug\POS.AddToCart.Edit_Credit.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\publish Vista Pos\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\obj\Debug\POS.AddToCart.Form3.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\publish Vista Pos\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\obj\Debug\POS.AddToCart.FormBilling.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\publish Vista Pos\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\obj\Debug\POS.AddToCart.loading.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\publish Vista Pos\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\obj\Debug\POS.AddToCart.Login.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\publish Vista Pos\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\obj\Debug\POS.AddToCart.MainMenu_Form.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\publish Vista Pos\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\obj\Debug\POS.AddToCart.ManageStock.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\publish Vista Pos\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\obj\Debug\POS.AddToCart.Manage_Creditors.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\publish Vista Pos\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\obj\Debug\POS.AddToCart.M_Category.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\publish Vista Pos\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\obj\Debug\POS.AddToCart.Properties.Resources.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\publish Vista Pos\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\obj\Debug\POS.AddToCart.Report_Sales.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\publish Vista Pos\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\obj\Debug\POS.AddToCart.StartUp.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\publish Vista Pos\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\obj\Debug\POS.AddToCart.StockReturn.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\publish Vista Pos\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\obj\Debug\POS.AddToCart.Stock_Report.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\publish Vista Pos\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\obj\Debug\POS.AddToCart.Stock_Update.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\publish Vista Pos\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\obj\Debug\POS.AddToCart.UserManage.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\publish Vista Pos\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\obj\Debug\POS.AddToCart.View_Dercription.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\publish Vista Pos\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\obj\Debug\POS.AddToCart.ViewCart.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\publish Vista Pos\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\obj\Debug\POS.AddToCart.VIewPrinters.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\publish Vista Pos\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\obj\Debug\POS.AddToCart.ViewProducts.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\publish Vista Pos\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\obj\Debug\POS.AddToCart.ViewSales.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\publish Vista Pos\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\obj\Debug\POS.AddToCart.ViewSalesProductCancelSale.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\publish Vista Pos\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\obj\Debug\POS.AddToCart.ViewSalesProductQuantity.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\publish Vista Pos\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\obj\Debug\POS.AddToCart.ViewSalesReturn.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\publish Vista Pos\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\obj\Debug\POS.AddToCart.ViewSoldProduct.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\publish Vista Pos\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\obj\Debug\POS.AddToCart.ViewStockUpdate.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\publish Vista Pos\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\obj\Debug\POS.AddToCart.View_Sales_Product.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\publish Vista Pos\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\obj\Debug\POS.AddToCart.View_Sales_Return_Products.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\publish Vista Pos\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\obj\Debug\POS.AddToCart.V_Customer.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\publish Vista Pos\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\obj\Debug\POS.AddToCart.V_Stock.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\publish Vista Pos\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\obj\Debug\POS.csproj.GenerateResource.Cache
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\publish Vista Pos\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\obj\Debug\POS.AddToCart.exe.licenses
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\publish Vista Pos\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\obj\Debug\RdlCompile.cache
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\publish Vista Pos\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\obj\Debug\RdlCompile.compiled
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\publish Vista Pos\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\obj\Debug\POS.AddToCart.TrustInfo.xml
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\publish Vista Pos\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\obj\Debug\POS.AddToCart.exe.manifest
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\publish Vista Pos\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\obj\Debug\POS.AddToCart.application
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\publish Vista Pos\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\obj\Debug\POS.AddToCart.exe
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\publish Vista Pos\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\obj\Debug\POS.AddToCart.pdb
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\publish Vista Pos\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\obj\Debug\POS.AddToCart.TestAutoSugcs.resources
+K:\FutureSoft POS\Vista 9.0\Vista System\2.0\publish Vista Pos\POS -withBunifu - Theme Changing - FIFO\POS.AddToCart\obj\Debug\POS.AddToCart.ViewSotckReturnDescription.resources
